@@ -1,0 +1,76 @@
+# url is the full website URL
+# baseurl is the website's URL without the hostname
+url: "http://vimchub.github.io"
+baseurl: ""
+
+title: Vaccine Impact Modelling Consortium
+description: The Vaccine Impact Modelling Consortium (VIMC) was established in 2016 for a period of five years to coordinate the ongoing work of several groups focusing on vaccine impact modelling.
+
+# List of links in the navigation bar
+navbar-links:
+  About VIMC:
+    - VIMC mission: ""
+    - Objectives and timelines: "objectives"
+    - Key partners: "partners"
+    - Secretariat: "secretariat"
+    - Scientific Advisory Board: "board"
+    - Contact us: "contact"
+  Modellers: "modellers"
+  Models:
+    - Hep B: "models/hep-b"
+    - Hib, rotavirus, pneumo: "models/hib"
+    - HPV: "models/hpv"
+    - JE: "models/je"
+    - Men A: "models/men-a"
+    - Measles: "models/measles"
+    - Rubella: "models/rubella"
+    - Yellow Fever: "models/yellow-fever"
+  Diseases:
+    - Hep B: "diseases/hep-b"
+    - Hib: "diseases/hib"
+    - Rotavirus: "diseases/rotavirus"
+    - Pneumo: "diseases/pneumo"
+    - HPV: "diseases/hpv"
+    - JE: "diseases/je"
+    - Men A: "diseases/men-a"
+    - Measles: "diseases/measles"
+    - Rubella: "diseases/rubella"
+    - Yellow Fever: "diseases/yellow-fever"
+  News: "news"
+  Resources:
+    - Publications: "publications"
+    - Reports: "reports"
+    - Other resources: "resources"
+
+# Output options (more information on Jekyll's site)
+timezone: "Europe/London"
+markdown: kramdown
+highlighter: rouge
+permalink: /:year-:month-:day-:title/
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+kramdown:
+  input: GFM
+
+# Default YAML values (more information on Jekyll's site)
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: "" # all files
+    values:
+      layout: "page"
+
+# Exclude these files from production site
+exclude:
+  - LICENSE
+  - README.md
+
+gems:
+  - jekyll-paginate
