@@ -1,4 +1,5 @@
 ---
+title: Key Partners
 css: /css/partners.css
 ---
 

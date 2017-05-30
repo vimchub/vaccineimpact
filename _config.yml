@@ -6,6 +6,12 @@ baseurl: ""
 title: Vaccine Impact Modelling Consortium
 description: The Vaccine Impact Modelling Consortium (VIMC) was established in 2016 for a period of five years to coordinate the ongoing work of several groups focusing on vaccine impact modelling.
 
+# How many news items to show in the Latest News section on the landing page
+num_latest_news_to_show: 3
+
+# Twitter account to show on the landing page
+twitter: Imperial_IDE
+
 # List of links in the navigation bar
 navbar-links:
   About VIMC:
@@ -42,7 +48,8 @@ navbar-links:
     - Reports: "reports"
     - Other resources: "resources"
 
-# Output options (more information on Jekyll's site)
+# -------------------- Don't need to worry about these options from here down ----------------------
+
 timezone: "Europe/London"
 markdown: kramdown
 highlighter: rouge

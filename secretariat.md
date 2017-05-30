@@ -1,5 +1,5 @@
 ---
-title: VIMC Secretariat members
+title: VIMC Secretariat
 ---
 
 # Management group

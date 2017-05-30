@@ -20,7 +20,7 @@ layout: base
 	  <div id="panel-news">
 	    <h2>Latest News</h2>
         <div class="posts-list">
-		  {% for post in site.posts limit:3 %}
+		  {% for post in site.posts limit:site.num_latest_news_to_show %}
 		  <article class="post-preview">
 			<a href="{{ post.url | prepend: site.baseurl }}">
 			  <h2 class="post-title">{{ post.title }}</h2>
@@ -45,9 +45,11 @@ layout: base
 		</div>
 	  </div>
 	  {% endif %}
-	  <div id="panel-twitter">
-        <a class="twitter-timeline" data-height="400" href="https://twitter.com/Imperial_IDE">Tweets by Imperial_IDE</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
-	  </div>
+	  {% if site.twitter %}
+	    <div id="panel-twitter">
+          <a class="twitter-timeline" data-height="400" href="https://twitter.com/{{ site.twitter }}">Tweets by {{ site.twitter }}</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+	    </div>
+	  {% endif %}
 	</div>
   </div>
 </div>
