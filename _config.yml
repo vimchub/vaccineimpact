@@ -13,7 +13,7 @@ navbar-links:
     - Objectives and timelines: "objectives"
     - Key partners: "partners"
     - Secretariat: "secretariat"
-    - Scientific Advisory Board: "board"
+    - Scientific Advisory Board: "advisory-board"
     - Contact us: "contact"
   Modellers: "modellers"
   Models:
@@ -48,7 +48,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
 paginate: 5
-paginate_path: "/blog/page:num/"
+paginate_path: "/news/page:num/"
 
 kramdown:
   input: GFM

@@ -4,9 +4,9 @@
 
 body {
   /* font-family: 'Lora', 'Times New Roman', serif; */
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Century Gothic', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 18px;
-  color: #404040;
+  color: #333;
   position: relative;
   background: #FFF;
   background-image: url(../img/background.png);
@@ -21,7 +21,7 @@ p a {
   color: #008AFF;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Century Gothic', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
 }
 a {
@@ -56,7 +56,7 @@ hr.small {
 }
 
 .main-explain-area {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Century Gothic', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   padding: 15px inherit;
 }
 
@@ -100,9 +100,9 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #314f96;
-  border-bottom: 1px solid #294481;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  background: #2892ff;
+  border-bottom: 1px solid #397dc3;
+  font-family: 'Century Gothic', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 .navbar-custom .nav li a {
@@ -121,7 +121,7 @@ img {
 .navbar-custom .navbar-brand:focus ,
 .navbar-custom .nav li a:hover,
 .navbar-custom .nav li a:focus {
-  color: #ccc;
+  color: #444;
 }
 
 @media only screen and (max-width: 365px) {
@@ -141,6 +141,14 @@ img {
   .navbar-custom.top-nav-short {
     padding: 0;
   }
+  
+  .navbar-custom.top-nav-short .navbar-brand-logo img {
+    height: 40px;
+  }
+
+  .navbar-custom.top-nav-short .navbar-brand-logo {
+    padding-top: 5px;
+  }
 }
 
 .navbar-custom .navbar-brand-logo {
@@ -154,12 +162,6 @@ img {
   -webkit-transition: height .5s ease-in-out;
   -moz-transition: height .5s ease-in-out;
   transition: height .5s ease-in-out;
-}
-.navbar-custom.top-nav-short .navbar-brand-logo {
-  padding-top: 5px;
-}
-.navbar-custom.top-nav-short .navbar-brand-logo img {
-  height: 40px;
 }
 
 .navbar-custom .avatar-container {
@@ -214,12 +216,12 @@ img {
 }
 
 .navbar-custom  .navbar-toggle {
-  border-color: #294481;
+  border-color: #397dc3;
 }
 
 .navbar-custom  .navbar-toggle:hover,
 .navbar-custom  .navbar-toggle:focus {
-  background: #294481;
+  background: #397dc3;
 }
 
 .navbar-custom .navbar-toggle .icon-bar {
@@ -227,7 +229,7 @@ img {
 }
 
 .navbar-custom .navbar-collapse {
-  border-color: #294481;
+  border-color: #397dc3;
 }
 
 /* Multi-level navigation links */
@@ -246,29 +248,21 @@ img {
 .navbar-custom .nav li a.navlinks-parent:focus  {
   color: #fafafa;
 }
-.navbar-custom .nav li .navlinks-children a:hover,
-.navbar-custom .nav li .navlinks-children a:focus  {
-  background: #34539c;
-}
 
 .navbar-custom .nav li.show-children a.navlinks-parent {
-  background: #294481;
-}
-
-.navbar-custom .nav .navlinks-container:hover {
-  background: #294481;
+  background: #397dc3;
 }
 
 .navbar-custom .nav li a.navlinks-parent:hover,
 .navbar-custom .nav li a.navlinks-parent:focus {
-  color: #ccc;
+  color: #444;
 }
 
 .navbar-custom .nav .navlinks-container .navlinks-children a {
   display: block;
   padding: 10px;
   padding-left: 30px;
-  background: #314f96;
+  background: #2892ff;
   text-decoration: none !important;
   border-width: 0 1px 1px 1px;
   font-weight: normal;
@@ -285,6 +279,12 @@ img {
   .navbar-custom .nav .navlinks-container {
     text-align: center;
   }
+  .navbar-custom .nav .navlinks-container:hover {
+    background: #337cc7;
+  }
+  .navbar-custom .nav .navlinks-container:hover a.navlinks-parent:hover {
+    color: #fafafa;
+  }
   .navbar-custom .nav .navlinks-container:hover .navlinks-children {
     display: block;
   }
@@ -293,7 +293,7 @@ img {
   }
   .navbar-custom .nav .navlinks-container .navlinks-children a {
     padding-left: 10px;
-    border: 1px solid #294481;
+    border: 1px solid #397dc3;
     border-width: 0 1px 1px;
   }
 }
@@ -301,11 +301,43 @@ img {
 /* --- Footer --- */
 
 footer {
+  padding: 5px;
+  background: #fcfcfc;
+  font-size: 12px;
+  color: #AAA;
+  border-top: 1px solid #eee;
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 1200px) {
   footer {
+    padding: 10px 20px;
   }
+
+  #footer-contact {
+    text-align: right;
+  } 
+}
+
+@media only screen and (max-width: 1199px) {
+  footer {
+    text-align: center;
+  }
+}
+
+#footer-support-message {
+  margin-bottom: 10px;
+}
+
+#footer-support-logos {
+  margin-left: 20px;
+}
+
+#footer-support-logos img {
+  height: 50px;
+}
+
+#footer-button a {
+  margin: 25px 0 20px;
 }
  
 /* --- Post preview --- */
@@ -353,7 +385,7 @@ footer {
   margin: 0 0 10px;
 }
 .post-preview .post-entry {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Century Gothic', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 .post-preview .post-read-more {
   font-weight: 800;
@@ -363,6 +395,21 @@ footer {
   .post-preview .post-title {
     font-size: 36px;
   }
+}
+
+#panel-news .post-preview {
+  border-bottom: 0 none;
+  padding: 20px 0;
+}
+
+#panel-news .post-title {
+  font-size: 22px;
+}
+#panel-news .post-meta {
+  font-size: 14px;
+}
+#panel-news .post-entry {
+  font-size: 16px;
 }
 
 /* --- Post and page headers --- */
@@ -416,7 +463,7 @@ footer {
   font-size: 27px;
   line-height: 1.1;
   display: block;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Century Gothic', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 300;
   margin: 10px 0 0;
 }
@@ -441,7 +488,7 @@ footer {
   padding: 5px 10px;
   font-size: 11px;
   color: #EEE;
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Century Gothic', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   right: 0;
   bottom: 0;
   display: none;
@@ -520,7 +567,7 @@ footer {
 /* --- Pager --- */
 
 .pager li a {
-  font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Century Gothic', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 800;
@@ -656,10 +703,10 @@ td.gutter {
 
 .list-circles-item {
   display: inline-block;
-  width: 240px;
+  width: 200px;
   vertical-align: top;
   margin: 0;
-  padding: 20px;
+  padding: 15px;
 }
 
 .list-circles-item:hover {
@@ -667,8 +714,8 @@ td.gutter {
 }
 
 .list-circles-item .item-img {
-  width: 200px;
-  height: 200px;
+  width: 160px;
+  height: 160px;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
   border-radius: 50%;
@@ -685,7 +732,7 @@ td.gutter {
 
 .list-circles-item .item-link {
   margin:0 3px;
-  color: #314f96;
+  color: #2892ff;
   text-decoration: none !important;
 }
 
