@@ -48,6 +48,8 @@ navbar-links:
     - Reports: "reports"
     - Other resources: "resources"
 
+google_analytics: "UA-100500622-1"
+
 # -------------------- Don't need to worry about these options from here down ----------------------
 
 timezone: "Europe/London"
