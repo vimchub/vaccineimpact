@@ -100,8 +100,8 @@ img {
 /* --- Navbar --- */
 
 .navbar-custom {
-  background: #2892ff;
-  border-bottom: 1px solid #397dc3;
+  background: #bdd7ee;
+  border-bottom: 1px solid #a9c9e6;
   font-family: 'Century Gothic', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
@@ -114,7 +114,7 @@ img {
 .navbar-custom .navbar-brand,
 .navbar-custom .nav li a {
   font-weight: 800;
-  color: #fafafa;
+  color: #2F5597;
 }
 
 .navbar-custom .navbar-brand:hover,
@@ -216,20 +216,20 @@ img {
 }
 
 .navbar-custom  .navbar-toggle {
-  border-color: #397dc3;
+  border-color: #a9c9e6;
 }
 
 .navbar-custom  .navbar-toggle:hover,
 .navbar-custom  .navbar-toggle:focus {
-  background: #397dc3;
+  background: #a9c9e6;
 }
 
 .navbar-custom .navbar-toggle .icon-bar {
-  background: #fafafa;
+  background: #2F5597;
 }
 
 .navbar-custom .navbar-collapse {
-  border-color: #397dc3;
+  border-color: #a9c9e6;
 }
 
 /* Multi-level navigation links */
@@ -246,11 +246,11 @@ img {
 }
 .navbar-custom .nav li a.navlinks-parent:hover,
 .navbar-custom .nav li a.navlinks-parent:focus  {
-  color: #fafafa;
+  color: #2F5597;
 }
 
 .navbar-custom .nav li.show-children a.navlinks-parent {
-  background: #397dc3;
+  background: #a9c9e6;
 }
 
 .navbar-custom .nav li a.navlinks-parent:hover,
@@ -262,7 +262,7 @@ img {
   display: block;
   padding: 10px;
   padding-left: 30px;
-  background: #2892ff;
+  background: #bdd7ee;
   text-decoration: none !important;
   border-width: 0 1px 1px 1px;
   font-weight: normal;
@@ -280,10 +280,10 @@ img {
     text-align: center;
   }
   .navbar-custom .nav .navlinks-container:hover {
-    background: #337cc7;
+    background: #a9c9e6;
   }
   .navbar-custom .nav .navlinks-container:hover a.navlinks-parent:hover {
-    color: #fafafa;
+    color: #2F5597;
   }
   .navbar-custom .nav .navlinks-container:hover .navlinks-children {
     display: block;
@@ -293,7 +293,7 @@ img {
   }
   .navbar-custom .nav .navlinks-container .navlinks-children a {
     padding-left: 10px;
-    border: 1px solid #397dc3;
+    border: 1px solid #a9c9e6;
     border-width: 0 1px 1px;
   }
 }
@@ -732,7 +732,7 @@ td.gutter {
 
 .list-circles-item .item-link {
   margin:0 3px;
-  color: #2892ff;
+  color: #bdd7ee;
   text-decoration: none !important;
 }
 
