@@ -12,7 +12,11 @@
         <h4 class="item-name">{{ item.name }}</h4>
       {% endif %} 
       {% if item.title %}
-        <div class="item-desc">{{ item.title }}</div>
+	    {% if item.title_link %}
+          <a href="{{ item.title_link }}"><div class="item-desc">{{ item.title }}</div></a>
+		{% else %}
+		  <div class="item-desc">{{ item.title }}</div>
+		{% endif %}
       {% endif %}
       <div class="item-links">
         {% if item.url %}
