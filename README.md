@@ -6,7 +6,7 @@ Edit the [`index.md`](index.md) file. You can write in either markdown or HTML.
 
 ## Editing the content of any page EXCEPT the Model and Disease pages
 
-Look at the URL to find the name of the page - that name will match the name of the file that creates the page. For example, [`objectives.md`](objectives.md) creates `http://www.vaccineimpact.org/objectives`, [`reports.md`](reports.md) creates `http://www.vaccineimpact.org/reports`. Once you find the file that creates the file, edit that file - it can accept either markdown or HTML.
+Look at the URL to find the name of the page - that name will match the name of the file that creates the page. For example, [`objectives.md`](objectives.md) creates `http://www.vaccineimpact.org/objectives`, [`reports.md`](reports.md) creates `http://www.vaccineimpact.org/reports`. Once you find the file that creates the page, edit that file - it can accept either markdown or HTML.
 
 ## Adding/modifying a model or disease page
 
