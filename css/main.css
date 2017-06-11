@@ -739,3 +739,10 @@ td.gutter {
 .list-circles-item .item-link:hover {
   color: #042265;
 }
+
+:target:before {
+  content: "";
+  display: block;
+  height: 50px;
+  margin: -50px 0 0;
+}
