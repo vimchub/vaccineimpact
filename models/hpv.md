@@ -26,5 +26,5 @@ Unlike the more complex empirically-calibrated micro-simulation model, the compa
 ---
 
 [More about human papilloma virus (HPV)](/diseases/hpv)  
-[Relevant publications](/publications)
+[Relevant publications](/publications#hpv)
 

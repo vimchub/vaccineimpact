@@ -22,5 +22,5 @@ LiST has been characterized as a linear, mathematical model that is deterministi
 
 ---
 
-[More about Hib, rotavirus and pneumococcal disease](/diseases/hib)  
-[Relevant publications](/publications)
+More about [Hib](/diseases/hib), [rotavirus](/diseases/rotavirus) and [pneumococcal disease](/diseases/pneumo)  
+[Relevant publications](/publications#hib)

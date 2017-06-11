@@ -43,4 +43,4 @@ The model was developed by Susan T Goldstein and colleagues at Centers for Disea
 ---
 
 [More about hepatitis B](/diseases/hep-b)  
-[Relevant publications](/publications)
+[Relevant publications](/publications#hep-b)

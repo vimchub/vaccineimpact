@@ -21,4 +21,4 @@ The model simulates colonization, transmission, and disease of serogroup A Neiss
 ---
 
 [More about meningitis A](/diseases/men-a)  
-[Relevant publications](/publications)
+[Relevant publications](/publications#men-a)

@@ -10,4 +10,4 @@ A generalised linear model was fitted to locations of reported yellow fever outb
 ---
 
 [More about yellow fever](/diseases/yellow-fever)  
-[Relevant publications](/publications)
+[Relevant publications](/publications#yellow-fever)

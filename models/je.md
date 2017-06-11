@@ -19,4 +19,4 @@ This is a static population-based cohort model. TODO longer description.
 ---
 
 [More about Japanese encephalitis](/diseases/je)  
-[Relevant publications](/publications)
+[Relevant publications](/publications#je)

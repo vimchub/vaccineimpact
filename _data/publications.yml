@@ -1,0 +1,155 @@
+- name: Hepatitis B
+  id: hep-b
+  pubs:
+    - author: 'Goldstein, S. T., Zhou, F., Hadler, S. C., Bell, B. P., Mast, E. E., & Margolis, H. S.'
+      year:   2005
+      title:  'A mathematical model to estimate global hepatitis B disease burden and vaccination impact'
+      info:   'Int J Epidemiol, 34(6), 1329-1339. doi:10.1093/ije/dyi206'
+      url:    'https://www.ncbi.nlm.nih.gov/pubmed/16249217'
+
+    - author: 'Nayagam, S., Thursz, M., Sicuri, E., Conteh, L., Wiktor, S., Low-Beer, D. L., & Hallett, T. B.'
+      year:   2016
+      title:  'Requirements for global elimination of hepatitis B: a modelling study' 
+      info:   'Lancet Infectious Diseases, 16(12), 1399-1408'
+      url:    'http://www.thelancet.com/journals/laninf/article/PIIS1473-3099(16)30204-3/abstract'
+
+    - author: Li, X., Wiesen, E., Diorditsa, S., Toda, K., Duong, T. H., Nguyen, L. H., Nguyen, T. H.
+      year:   2016
+      title:  Impact of Adverse Events Following Immunization in Viet Nam in 2013 on chronic hepatitis B infection
+      info:   Vaccine, 34(6), 869-873. doi:10.1016/j.vaccine.2015.05.067
+      url:    https://www.ncbi.nlm.nih.gov/pubmed/26055296
+
+    - author: Wiesen, E., Diorditsa, S., & Li, X.
+      year:   2016
+      title:  Progress towards hepatitis B prevention through vaccination in the Western Pacific, 1990-2014
+      info:   Vaccine, 34(25), 2855-2862
+      url:    https://www.ncbi.nlm.nih.gov/pubmed/27020710
+
+- name: 'Haemophilus influenzae type b (hib), rotavirus and pneumococcal disease'
+  id: hib
+  pubs:
+    - author: Bourgeois, A. L., Wierzba, T. F., & Walker, R. I.
+      year:   2016
+      title:  Status of vaccine research and development for enterotoxigenic Escherichia coli
+      info:   Vaccine, 34(26), 2880-2886. doi:10.1016/j.vaccine.2016.02.076
+      url:    https://www.ncbi.nlm.nih.gov/pubmed/26988259
+
+    - author: Clark, A., Jauregui, B., Griffiths, U., Janusz, C. B., Bolanos-Sierra, B., Hajjeh, R., Sanderson, C.
+      year:   2013
+      title:  TRIVAC decision-support model for evaluating the cost-effectiveness of Haemophilus influenzae type b, pneumococcal and rotavirus vaccination
+      info:   Vaccine, 31 Suppl 3, C19-29. doi:10.1016/j.vaccine.2013.05.045
+      url:    http://about.elsevier.com/vaccine/PAHO_14270_Clark.pdf
+
+    - author: Jit, M., Huyen, D. T. T., Friberg, I., Van Minh, H., Kiet, P. H. T., Walker, N., & Fox, K. 
+      year:   2015
+      title:  'Thirty years of vaccination in Vietnam: Impact and cost-effectiveness of the national Expanded Programme on Immunization'
+      info:   Vaccine, 33, A233-A239
+      url:    https://jhu.pure.elsevier.com/en/publications/thirty-years-of-vaccination-in-vietnam-impact-and-cost-effectiven-3
+
+    - author: Walker, N., Tam, Y., & Friberg, I. K.
+      year:   2013
+      title:  Overview of the Lives Saved Tool (LiST)
+      info:   BMC Public Health, 13 Suppl 3, S1. doi:10.1186/1471-2458-13-S3-S1
+      url:    https://bmcpublichealth.biomedcentral.com/articles/10.1186/1471-2458-13-S3-S1
+
+- name: Human papillomavirus (HPV)
+  id: hpv
+  pubs:
+    - author: Goldie, S. J., O'Shea, M., Campos, N. G., Diaz, M., Sweet, S., & Kim, S. Y. 
+      year:   2008
+      title:  Health and economic outcomes of HPV 16,18 vaccination in 72 GAVI-eligible countries
+      info:   Vaccine, 26(32), 4080-4093
+      url:    https://www.ncbi.nlm.nih.gov/pubmed/18550229
+
+    - author: Jit, M., Brisson, M., Portnoy, A., & Hutubessy, R.
+      year:   2014
+      title:  'Cost-effectiveness of female human papillomavirus vaccination in 179 countries: a PRIME modelling study'
+      info:   Lancet Global Health, 2(7), E406-E414
+      url:    http://www.thelancet.com/journals/langlo/article/PIIS2214-109X(14)70237-2/abstract
+
+    - author: Kim, J. J., Sharma, M., O'Shea, M., Sweet, S., Diaz, M., Sancho-Garnier, H., & Seoud, M. 
+      year:   2013
+      title:  Model-Based Impact and Cost-Effectiveness of Cervical Cancer Prevention in the Extended Middle East and North Africa (EMENA)
+      info:   Vaccine, 31, G65-G77
+      url:    https://www.ncbi.nlm.nih.gov/pubmed/24331822
+
+    - author: Kim, S. Y., Sweet, S., Chang, J., & Goldie, S. J.
+      year:   2011
+      title:  'Comparative evaluation of the potential impact of rotavirus versus HPV vaccination in GAVI-eligible countries: a preliminary analysis focused on the relative disease burden'
+      info:   BMC Infect Dis, 11, 174. doi:10.1186/1471-2334-11-174
+      url:    https://bmcinfectdis.biomedcentral.com/articles/10.1186/1471-2334-11-174
+
+- name: Japanese encephalitis
+  id: je
+
+- name: Measles
+  id: measles
+  pubs:
+    - author: Chen, S., Fricks, J., & Ferrari, M. J. 
+      year:   2012
+      title:  Tracking measles infection through non-linear state space models
+      info:   Journal of the Royal Statistical Society Series C-Applied Statistics, 61, 117-134
+      url:    http://onlinelibrary.wiley.com/doi/10.1111/j.1467-9876.2011.01001.x/abstract
+
+    - author: Simons, E., Ferrari, M., Fricks, J., Wannemuehler, K., Anand, A., Burton, A., & Strebel, P. 
+      year:   2012
+      title:  'Assessment of the 2010 global measles mortality reduction goal: results from a model of surveillance data'
+      info:   Lancet, 379(9832), 2173-2178. doi:10.1016/S0140-6736(12)60522-4
+      url:    https://www.ncbi.nlm.nih.gov/pubmed/22534001
+
+    - author: Verguet, S., Johri, M., Morris, S. K., Gauvreau, C. L., Jha, P., & Jit, M. 
+      year:   2015
+      title:  'Controlling measles using supplemental immunization activities: A mathematical model to inform optimal policy'
+      info:   Vaccine, 33(10), 1291-1296
+      url:    http://www.sciencedirect.com/science/article/pii/S0264410X14016077
+
+- name: Meningitis A
+  id: men-a
+  pubs:
+    - author: Colombini, A., Trotter, C., Madrid, Y., Karachaliou, A., & Preziosi, M. P. 
+      year:   2015
+      title:  Costs of Neisseria meningitidis Group A Disease and Economic Impact of Vaccination in Burkina Faso
+      info:   Clin Infect Dis, 61 Suppl 5, S473-482. doi:10.1093/cid/civ600
+      url:    https://www.ncbi.nlm.nih.gov/pubmed/26553677
+
+    - author: Karachaliou, A., Conlan, A. J., Preziosi, M. P., & Trotter, C. L. 
+      year:   2015
+      title:  Modeling Long-term Vaccination Strategies With MenAfriVac in the African Meningitis Belt
+      info:   Clin Infect Dis, 61 Suppl 5, S594-600. doi:10.1093/cid/civ508
+      url:    https://www.ncbi.nlm.nih.gov/pubmed/26553693
+
+    - author: Tartof, S., Cohn, A., Tarbangdo, F., Djingarey, M. H., Messonnier, N., Clark, T. A.,  Jackson, M. L. 
+      year:   2013
+      title:  Identifying optimal vaccination strategies for serogroup A Neisseria meningitidis conjugate vaccine in the African meningitis belt
+      info:   PLoS One, 8(5), e63605. doi:10.1371/journal.pone.0063605
+      url:    http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0063605
+
+- name: Rubella
+  id: rubella
+  pubs:
+    - author: Vynnycky, E., Adams, E. J., Cutts, F. T., Reef, S. E., Navar, A. M., Simons, E., Dabbagh, A. J.
+      year:   2016
+      title:  'Using Seroprevalence and Immunisation Coverage Data to Estimate the Global Burden of Congenital Rubella Syndrome, 1996-2010: A Systematic Review.'
+      info:   PLoS One, 11(3)
+      url:    http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0149160
+
+    - author: Vynnycky, E., Yoshida, L. M., Huyen, D. T. T., Trung, N. D., Toda, K., Cuong, N. V., Hien, N. T.
+      year:   2016
+      title:  Modeling the impact of rubella vaccination in Vietnam
+      info:   Human Vaccines & Immunotherapeutics, 12(1), 150-158
+      url:    https://www.ncbi.nlm.nih.gov/pubmed/26260857
+
+- name: Yellow Fever
+  id: yellow-fever
+  pubs:
+    - author: Garske, T., Van Kerkhove, M. D., Yactayo, S., Ronveaux, O., Lewis, R. F., Staples, J. E., Comm, Y. F. E.
+      year:   2014
+      title:  'Yellow Fever in Africa: Estimating the Burden of Disease and Impact of Mass Vaccination from Outbreak and Serological Data'
+      info:   PLoS Med, 11(5)
+      url:    http://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1001638
+
+    - author: Jean, K., Donnelly, C. A., Ferguson, N. M., & Garske, T
+      year:   2016
+      title:  A Meta-Analysis of Serological Response Associated with Yellow Fever Vaccination
+      info:   Am J Trop Med Hyg, 95(6), 1435-1439. doi:10.4269/ajtmh.16-0401
+      url:    https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5154464/

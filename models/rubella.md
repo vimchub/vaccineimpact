@@ -10,4 +10,4 @@ This is an age-structured model of the transmission dynamics of rubella in each 
 ---
 
 [More about rubella](/diseases/rubella)  
-[Relevant publications](/publications)
+[Relevant publications](/publications#rubella)

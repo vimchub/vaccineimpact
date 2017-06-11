@@ -26,4 +26,4 @@ The model is an age-structured SIRV (Susceptible-Infectious-Recovered-Vaccinated
 ---
 
 [More about measles](/diseases/measles)  
-[Relevant publications](/publications)
+[Relevant publications](/publications#measles)
