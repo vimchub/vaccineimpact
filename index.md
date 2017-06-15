@@ -1,5 +1,6 @@
 ---
 layout: index
+title: Vaccine Impact Modelling Consortium   
 ---
 
 # Vaccine Impact Modelling Consortium  
