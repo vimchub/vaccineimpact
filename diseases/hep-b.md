@@ -13,3 +13,9 @@ Prevention of Hepatitis B through vaccination is highly efficacious (~95%) and h
 **Model name:**  [PRoGReSs (Hepatitis B model)](/models/hep-b)  
 **Model name:**  [Hepatitis B model (Imperial College)](/models/hep-b#imperial)  
 **Model name:**  [Hepatitis B model (Independent)](/models/hep-b#independent)  
+
+---
+
+**[WHO more on Hepatitis B](http://www.who.int/mediacentre/factsheets/fs204/en/)**
+
+
