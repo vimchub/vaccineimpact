@@ -17,7 +17,7 @@ The research work spans a wide range of disease areas, including emerging infect
 
 The work of the Consortium is largely enabled through the participation of the modelling groups generating the vaccine impact estimates. The models employed by the Consortium reflect the disease portfolio of the primary funders and address the need for measuring the vaccination impact. The Consortium aims to employ two models per disease wherever possible.
 
-**[Bill & Melinda Gates Foundation](http://www.gatesfoundation.org/) (BMGF)** – Funder
+**[The Bill & Melinda Gates Foundation](http://www.gatesfoundation.org/)** – Funder
 
 <a href="http://www.gatesfoundation.org/"><img src="/img/Bill-Melinda-Gates-Foundation-Logo.png" /><a/>
 	
