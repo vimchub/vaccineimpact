@@ -1,7 +1,8 @@
 ---
-layout: index
-title: Vaccine Impact Modelling Consortium   
+layout: index     
 ---
+
+<div style="font-size:36px; text-align:center">Vaccine Impact Modelling Consortium</div>
 
 The Vaccine Impact Modelling Consortium (VIMC) was established in 2016 for a period of five years in response to an identified need by [Gavi, the Vaccine Alliance](http://www.gavi.org/) and the [Bill & Melinda Gates Foundation](http://www.gatesfoundation.org/) (BMGF) to coordinate the ongoing work of several groups focusing on vaccine impact modelling.
 
