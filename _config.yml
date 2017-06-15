@@ -14,8 +14,8 @@ twitter: vaccineimpact
 
 # List of links in the navigation bar
 navbar-links:
-  About VIMC:
-    - VIMC mission: ""
+  About us:
+    - About us: "aboutus"
     - Objectives and timelines: "objectives"
     - Key partners: "partners"
     - Secretariat: "secretariat"
