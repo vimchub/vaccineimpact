@@ -14,21 +14,21 @@
   
 - name: Mark Jit
   url: http://www.lshtm.ac.uk/aboutus/people/jit.mark
-  title: DyneMICE (Measles model)
+  title: DynaMICE (Measles model)
   title_link: /models/measles#LSHTM
   email: Mark.Jit@lshtm.ac.uk
   img: '/img/people/Mark_Jit.png'
   
 - name: Stéphane Verguet
   url: https://www.hsph.harvard.edu/stephane-verguet/
-  title: DyneMICE (Measles model)
+  title: DynaMICE (Measles model)
   title_link: /models/measles#LSHTM
   email: verguet@hsph.harvard.edu 
   img: '/img/people/Stephane_Verguet.png'
   
 - name: Edward Jones
   url: http://www.lshtm.ac.uk/aboutus/people/jones.edward
-  title: DyneMICE (Measles model)
+  title: DynaMICE (Measles model)
   title_link: /models/measles#LSHTM
   email: edward.jones@lshtm.ac.uk 
   img: '/img/people/Ed_Jones.png'
