@@ -87,6 +87,10 @@ img {
   max-width: 100%;
 }
 
+.center {
+  text-align: center;
+}
+
 .disqus-comments {
   margin-top: 30px;
 }
@@ -147,21 +151,31 @@ img {
   }
 
   .navbar-custom.top-nav-short .navbar-brand-logo {
+	margin: 0;
     padding-top: 5px;
   }
 }
 
 .navbar-custom .navbar-brand-logo {
   padding-top: 0;
-  -webkit-transition: padding .5s ease-in-out;
-  -moz-transition: padding .5s ease-in-out;
-  transition: padding .5s ease-in-out;  
+  -webkit-transition: padding .5s ease-in-out, margin .5s ease-in-out;
+  -moz-transition: padding .5s ease-in-out, margin .5s ease-in-out;
+  transition: padding .5s ease-in-out, margin .5s ease-in-out;  
 }
 .navbar-custom .navbar-brand-logo img {
   height: 50px;
   -webkit-transition: height .5s ease-in-out;
   -moz-transition: height .5s ease-in-out;
   transition: height .5s ease-in-out;
+}
+
+@media only screen and (min-width: 768px) {
+  .navbar-custom .navbar-brand-logo img {
+    height: 90px;
+  }
+  .navbar-custom .navbar-brand-logo {
+    margin-top: -20px;
+  }
 }
 
 .navbar-custom .avatar-container {
@@ -502,7 +516,7 @@ footer {
   }	
   .intro-header.big-img .page-heading,
   .intro-header.big-img .post-heading  {
-    padding: 150px 0;
+    padding: 225px 0;
   }  
   .intro-header .page-heading h1 {
     font-size: 80px;
@@ -695,8 +709,8 @@ td.gutter {
 
 @media only screen and (min-width: 1200px) {
   .list-circles {
-    width: 150%;
-    margin-left: -25%;
+    width: 120%;
+    margin-left: -10%;
   }
 }
 
