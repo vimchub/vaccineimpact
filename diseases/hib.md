@@ -13,10 +13,8 @@ Hib infection often leads to a variety of other diseases, including meningitis, 
 
 ---
 
-**[WHO Fact sheet on Hib](http://www.who.int/immunization/topics/hib/en/)**
-
+**[WHO fact sheet on Hib](http://www.who.int/immunization/topics/hib/en/)**
 **[CDC page on Hib](https://www.cdc.gov/vaccines/vpd/hib/index.html)**    
-
 **[Gavi page on Hib](http://www.gavi.org/support/nvs/hib/)**    
 
 
