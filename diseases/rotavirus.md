@@ -11,3 +11,9 @@ The most recent rotavirus outbreak took place in the Solomon Islands in April-Ju
 
 **Model name:**  [TRIVAC (Hib, rotavirus and pneumo model)](/models/hib)  
 **Model name:**  [Lives Saved Tool (LiST) (Hib, rotavirus and pneumo model)](/models/hib#jhu)  
+
+---
+
+**[WHO fact sheet on rotavirus](http://www.who.int/immunization/topics/rotavirus/en/)**      
+**[CDC page on rotavirus](https://www.cdc.gov/rotavirus/)**    
+**[Gavi page on rotavirus](http://www.gavi.org/support/nvs/rotavirus/)**   
