@@ -11,5 +11,5 @@ The modelled vaccine impact scenarios are critical for the evaluation of the two
 
 The Consortium activities are currently coordinated by the secretariat based at [Imperial College London](http://www.imperial.ac.uk/). The Consortium engages several modelling groups from a range of research organisations and universities across the globe. For more detailed Consortium management structure, please click [here](/resources/VIMC_orgchart_2017.pdf). 
 
-![Group photo](/img/VIMC_group_photo_March_2017.jpg)
-> VIMC members at the Annual meeting 2017 in Windsor, UK.
+
+> VIMC members at the Annual meeting 2017 in Windsor, UK (photo above).
