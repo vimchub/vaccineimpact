@@ -16,6 +16,10 @@ Prevention of Hepatitis B through vaccination is highly efficacious (~95%) and h
 
 ---
 
-**[WHO more on Hepatitis B](http://www.who.int/mediacentre/factsheets/fs204/en/)**
+**[WHO Fact sheet on Hepatitis B](http://www.who.int/mediacentre/factsheets/fs204/en/)**
+
+**[CDC page on Hepatitis B](https://www.cdc.gov/hepatitis/hbv/index.htm)**  
+
+**[Gavi page on Hepatitis B](http://www.gavi.org/support/nvs/hepb/)**   
 
 
