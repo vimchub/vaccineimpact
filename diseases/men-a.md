@@ -17,6 +17,6 @@ The MenAfriVac vaccination strategy is mainly planned around campaigns to immuni
 
 ---
 
-**[WHO fact sheet on meningitis](http://www.who.int/mediacentre/factsheets/fs141/en/)**      
-**[CDC page on meningitis](https://www.cdc.gov/meningitis/)**    
-**[Gavi page on meningitis](http://www.gavi.org/support/nvs/meningitis-a/)** 
+[WHO fact sheet on meningitis](http://www.who.int/mediacentre/factsheets/fs141/en/)        
+[CDC page on meningitis](https://www.cdc.gov/meningitis/)      
+[Gavi page on meningitis](http://www.gavi.org/support/nvs/meningitis-a/)    
