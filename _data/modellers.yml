@@ -1,3 +1,91 @@
+- name: Homie Razavi
+  url: http://www.centerforda.com/bio.htm
+  title: PRoGReSs (Hepatitis B model) 
+  title_link: /models/hep-b
+  email: homie.razavi@centerforda.com
+  img: '/img/people/Homie_Razavi.png'
+  
+- name: Devin Razavi-Shearer
+  url: http://www.centerforda.com/bio.htm
+  title: PRoGReSs (Hepatitis B model) 
+  title_link: /models/hep-b
+  email: devin.razavi-shearer@centerforda.com
+  img: '/img/people/Devin_Razavi.png'
+  
+- name: Tim Hallett 
+  url: http://www.imperial.ac.uk/people/timothy.hallett
+  title: Hepatitis B model 
+  title_link: /models/hep-b#imperial
+  email: timothy.hallett@imperial.ac.uk
+  img: '/img/people/Tim_Hallett.png'
+
+- name: Xi Li 
+  title: Hepatitis B model 
+  title_link: /models/hep-b#independent
+  email: xi.cira.li@gmail.com
+  img: '/img/people/Xiang_LI.jpg'
+  
+- name: Andrew Clark
+  url: http://www.lshtm.ac.uk/aboutus/people/clark.andrew
+  title: TRIVAC (Hib, rotavirus and pneumococcal model)
+  title_link: /models/hib
+  email: andrew.clark@lshtm.ac.uk  
+  img: '/img/people/Andy_Clark.png'
+ 
+- name: Colin Sanderson 
+  url: http://www.lshtm.ac.uk/aboutus/people/sanderson.colin
+  title: TRIVAC (Hib, rotavirus and pneumococcal model) 
+  title_link: /models/hib
+  email: colin.sanderson@lshtm.ac.uk
+  img: '/img/people/Colin_Sanderson.png'
+ 
+- name: Yvonne Tam
+  url: https://www.jhsph.edu/faculty/directory/profile/2424/yvonne-yin-on-tam
+  title: Lives Saved Tool (LiST) (Hib, rotavirus and pneumococcal model)  
+  title_link: /models/hib#jhu
+  email: yvonneyotam@jhu.edu
+  img: '/img/people/Yvonne_Tam.png'
+ 
+- name: Neff Walker
+  url: https://www.jhsph.edu/faculty/directory/profile/1945/neff-walker
+  title: Lives Saved Tool (LiST) (Hib, rotavirus and pneumococcal model)  
+  title_link: /models/hib#jhu
+  email: pneffwalker@yahoo.com
+  img: '/img/people/placeholder.png'
+ 
+- name: Mark Jit
+  url: http://www.lshtm.ac.uk/aboutus/people/jit.mark
+  title: PRIME (HPV model) 
+  title_link: /models/hpv
+  email: Mark.Jit@lshtm.ac.uk
+  img: '/img/people/Mark_Jit.png'
+ 
+- name: Marc Brisson
+  url: http://www.marc-brisson.net/
+  title: PRIME (HPV model) 
+  title_link: /models/hpv
+  email: marc.brisson@crchudequebec.ulaval.ca
+  img: '/img/people/Marc_Brisson.png'
+ 
+- name: Steven Sweet
+  url: http://chds.hsph.harvard.edu/People/Steven-Sweet
+  title: HPV model 
+  title_link: /models/hpv#harvard
+  email: ssweet@hsph.harvard.edu
+  img: '/img/people/Steven_Sweet.png'
+ 
+- name: Hannah Clapham
+  url: https://www.researchgate.net/profile/Hannah_Clapham
+  title: Japanese Encephalitis (JE) model
+  title_link: /models/je
+  email: hannah.clapham@ndm.ox.ac.uk 
+  img: '/img/people/Hannah_Clapham.png'
+  
+- name: Chutima Suraratdecha
+  title: Japanese Encephalitis (JE) model
+  title_link: /models/je#independent
+  img: '/img/people/placeholder.png'
+  
 - name: Matthew Ferrari
   url: http://bio.psu.edu/directory/mjf283
   title: Measles model
@@ -32,80 +120,6 @@
   title_link: /models/measles#LSHTM
   email: edward.jones@lshtm.ac.uk 
   img: '/img/people/Ed_Jones.png'
-  
-- name: Hannah Clapham
-  url: https://www.researchgate.net/profile/Hannah_Clapham
-  title: Japanese Encephalitis (JE) model
-  title_link: /models/je
-  email: hannah.clapham@ndm.ox.ac.uk 
-  img: '/img/people/Hannah_Clapham.png'
-  
-- name: Chutima Suraratdecha
-  title: Japanese Encephalitis (JE) model
-  title_link: /models/je#independent
-  img: '/img/people/placeholder.png'
-  
-- name: Homie Razavi
-  url: http://www.centerforda.com/bio.htm
-  title: PRoGReSs (Hepatitis B model) 
-  title_link: /models/hep-b
-  email: homie.razavi@centerforda.com
-  img: '/img/people/Homie_Razavi.png'
-  
-- name: Devin Razavi-Shearer
-  url: http://www.centerforda.com/bio.htm
-  title: PRoGReSs (Hepatitis B model) 
-  title_link: /models/hep-b
-  email: devin.razavi-shearer@centerforda.com
-  img: '/img/people/Devin_Razavi.png'
-  
-- name: Tim Hallett 
-  url: http://www.imperial.ac.uk/people/timothy.hallett
-  title: Hepatitis B model 
-  title_link: /models/hep-b#imperial
-  email: timothy.hallett@imperial.ac.uk
-  img: '/img/people/Tim_Hallett.png'
-
-- name: Xi Li 
-  title: Hepatitis B model 
-  title_link: /models/hep-b#independent
-  email: xi.cira.li@gmail.com
-  img: '/img/people/Xiang_LI.jpg'
-
-- name: Andrew Clark
-  url: http://www.lshtm.ac.uk/aboutus/people/clark.andrew
-  title: TRIVAC (Hib, rotavirus and pneumococcal model)
-  title_link: /models/hib
-  email: andrew.clark@lshtm.ac.uk  
-  img: '/img/people/Andy_Clark.png'
- 
-- name: Colin Sanderson 
-  url: http://www.lshtm.ac.uk/aboutus/people/sanderson.colin
-  title: TRIVAC (Hib, rotavirus and pneumococcal model) 
-  title_link: /models/hib
-  email: colin.sanderson@lshtm.ac.uk
-  img: '/img/people/Colin_Sanderson.png'
- 
-- name: Yvonne Tam
-  url: https://www.jhsph.edu/faculty/directory/profile/2424/yvonne-yin-on-tam
-  title: Lives Saved Tool (LiST) (Hib, rotavirus and pneumococcal model)  
-  title_link: /models/hib#jhu
-  email: yvonneyotam@jhu.edu
-  img: '/img/people/Yvonne_Tam.png'
- 
-- name: Neff Walker
-  url: https://www.jhsph.edu/faculty/directory/profile/1945/neff-walker
-  title: Lives Saved Tool (LiST) (Hib, rotavirus and pneumococcal model)  
-  title_link: /models/hib#jhu
-  email: pneffwalker@yahoo.com
-  img: '/img/people/placeholder.png'
- 
-- name: Tini Garske
-  url: http://www.imperial.ac.uk/people/t.garske
-  title: Yellow fever model 
-  title_link: /models/yellow-fever
-  email:  t.garske@imperial.ac.uk
-  img: '/img/people/Tini_Garske.png'
  
 - name: Caroline Trotter
   url: http://www.infectiousdisease.cam.ac.uk/directory/clt56@cam.ac.uk
@@ -134,31 +148,17 @@
   title_link: /models/men-a#cdc
   email: vif6@cdc.gov  
   img: '/img/people/Sarah_Meyer.png'
- 
-- name: Mark Jit
-  url: http://www.lshtm.ac.uk/aboutus/people/jit.mark
-  title: PRIME (HPV model) 
-  title_link: /models/hpv
-  email: Mark.Jit@lshtm.ac.uk
-  img: '/img/people/Mark_Jit.png'
- 
-- name: Marc Brisson
-  url: http://www.marc-brisson.net/
-  title: PRIME (HPV model) 
-  title_link: /models/hpv
-  email: marc.brisson@crchudequebec.ulaval.ca
-  img: '/img/people/Marc_Brisson.png'
- 
-- name: Steven Sweet
-  url: http://chds.hsph.harvard.edu/People/Steven-Sweet
-  title: HPV model 
-  title_link: /models/hpv#harvard
-  email: ssweet@hsph.harvard.edu
-  img: '/img/people/Steven_Sweet.png'
- 
+
 - name: Emilia Vynnycky
   url: http://www.lshtm.ac.uk/aboutus/people/vynnycky.emilia
   title: Rubella model 
   title_link: /models/rubella
   email: Emilia.Vynnycky@phe.gov.uk  
   img: '/img/people/Emilia_Vynnycky.png'
+
+- name: Tini Garske
+  url: http://www.imperial.ac.uk/people/t.garske
+  title: Yellow fever model 
+  title_link: /models/yellow-fever
+  email:  t.garske@imperial.ac.uk
+  img: '/img/people/Tini_Garske.png'  
