@@ -15,3 +15,7 @@ Measles is still one of the leading causes of death among young children, especi
 
 **Model name:**  [Measles model](/models/measles)  
 **Model name:**  [DyneMICE (Measles model)](/models/measles#LSHTM)  
+
+**[WHO Fact sheet on measles](http://www.who.int/mediacentre/factsheets/fs286/en/)**      
+**[CDC page on measles](https://www.cdc.gov/measles/index.html)**    
+**[Gavi page on measles](http://www.gavi.org/support/nvs/measles-rubella/)** 
