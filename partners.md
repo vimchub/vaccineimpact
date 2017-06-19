@@ -3,7 +3,6 @@ title: Key Partners
 css: /css/partners.css
 ---
 
-The following organisations are acting as the key stakeholders in the Vaccine Impact Modelling Consortium:
 
 **[Imperial College London, School of Public Health, The Department of Infectious Disease Epidemiology](https://www.imperial.ac.uk/school-public-health/infectious-disease-epidemiology/)** – Coordinating institution 
 
