@@ -4,7 +4,7 @@ title: Objectives and Timelines
 
 ## Key outputs and overarching objectives
 
-The Vaccine Impact Modelling Consortium will provide the funders: Gavi, the Vaccine Alliance and the Bill & Melinda Gates Foundation, with vaccine impact estimates for a specific disease portfolio. Major rounds of updated estimates will be produced in 2017, 2019 and 2021.
+The Vaccine Impact Modelling Consortium will provide the [funders](/partners/) with vaccine impact estimates for a specific disease portfolio. Major rounds of updated estimates will be produced in 2017, 2019 and 2021.
 
 The Consortium will work on establishing more efficient systems for impact estimates generation and work with all the participating modelling groups to develop an online software, which will enable them to easily access the latest input data and update their models. The platform will also allow the funders to have quick access to the estimates as well as ultimately have a publicly available interface to access some of the data.
 
