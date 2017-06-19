@@ -1,5 +1,5 @@
 ---
-title: Human Papilloma Virus (HPV)
+title: Human Papillomavirus (HPV)
 ---
 
 Human papillomavirus (HPV) is the most common pathogenic sexually transmitted infection known to humanity. It is a necessary cause of cervical cancer, and is also linked to many other cancers as well as genital warts. In high-income countries, the incidence of cervical cancer has been dramatically reduced (but not eliminated) over the last few decades by organised cervical screening. As of 2008, the global burden of cervical cancer was estimated at 529,000 new cases and 274,000 deaths, with most cases occurring in developing countries.
