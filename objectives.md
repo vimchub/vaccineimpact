@@ -15,7 +15,7 @@ The Consortium will serve as a resource to the funders on questions relating to 
 **November 2017** - Imperial College awarded funding by Gavi and the Bill & Melinda Gates Foundation  
 **February 2017** – Consortium kick-off and first annual meeting  
 **March 2018** – Vaccine impact estimates 2017 available to the funders  
-**March 2018** – Consortium annual meeting  
+**March 2018** – [Consortium annual meeting]((/resources#annual_meeting_report)  
 **September 2018** – Priority country engagement workshop # 1  
 **March 2019** - Consortium annual meeting  
 **September 2019** – Priority country engagement workshop # 2  
