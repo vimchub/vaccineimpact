@@ -5,8 +5,10 @@ title: Contact us
 Department of Infectious Disease Epidemiology  
 Medical School Building  
 Imperial College London  
-Norfolk Place, London W2 1PG  
-UNITED KINGDOM
+Norfolk Place  
+London       
+W2 1PG     
+United Kingdom
 	
 Email: <a href="mailto:vimc@imperial.ac.uk">vimc@imperial.ac.uk</a>
 
