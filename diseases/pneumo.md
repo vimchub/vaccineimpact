@@ -13,7 +13,7 @@ S. pneumoniae has shown a growing resistance to common antibiotic drugs, emphasi
 
 ---
 
-**[WHO Fact sheet on pneomococcal disease](http://www.who.int/immunization/topics/pneumococcal_disease/en/)**      
+**[WHO fact sheet on pneomococcal disease](http://www.who.int/immunization/topics/pneumococcal_disease/en/)**      
 **[CDC page on pneomococcal disease](https://www.cdc.gov/pneumococcal/index.html)**    
 **[Gavi page on pneomococcal disease](http://www.gavi.org/support/nvs/pneumococcal/)** 
 
