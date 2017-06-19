@@ -14,6 +14,6 @@ WHO recommends all countries to apply the well-established measles immunisation 
 
 ---
 
-**[WHO fact sheet on rubella](http://www.who.int/mediacentre/factsheets/fs367/en/)**      
-**[CDC page on rubella](https://www.cdc.gov/rubella/index.html)**    
-**[Gavi page on rubella](http://www.gavi.org/support/nvs/measles-rubella/)**   
+[WHO fact sheet on rubella](http://www.who.int/mediacentre/factsheets/fs367/en/)        
+[CDC page on rubella](https://www.cdc.gov/rubella/index.html)      
+[Gavi page on rubella](http://www.gavi.org/support/nvs/measles-rubella/)     
