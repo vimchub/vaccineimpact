@@ -15,6 +15,8 @@ The vaccination strategy for JE combines both routine vaccination and supplement
 **Model name:**  [Japanese Encephalitis (JE) model](/models/je)  
 **Model name:**  [Japanese Encephalitis (JE) (Independent)](/models/je#independent)  
 
+---
+
 **[WHO Fact sheet on JE](http://www.who.int/immunization/diseases/japanese_encephalitis/en/)**     
 **[CDC page on JE](https://www.cdc.gov/japaneseencephalitis/)**    
 **[Gavi page on JE](http://www.gavi.org/support/nvs/japanese-encephalitis/)** 
