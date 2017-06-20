@@ -1,18 +1,3 @@
-# TODO
-
-```
-Could we add the same centred sub-headings as you did for the Secretariat face icons, but have them say “Hepatitis B modellers”, “Yellow fever modellers”, etc.?
- 
-Hepatitis B modellers: Homie, Devin, Tim, Xi
-Hib, rotavirus and pneumococcal disease modellers: Andrew Clark, Colin, Yvonne, Neff
-Human papillomavirus modellers: Mark, Marc, Steven
-Japanese encephalitis modellers: Chutima, Hannah
-Measles modellers: Matt Ferrari, Kirsten, Mark, Stéphane, Edward
-Meningitis A modellers: Caroline, Andromachi, Mike, Sarah
-Rubella modellers: Emilia
-Yellow fever modellers: Tini
-```
-
 ![VIMC logo](img/logo/VIMC_landscape_logo_transparent.png)
 
 ## Editing the content of the landing page
