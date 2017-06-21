@@ -2,7 +2,8 @@
 title: Hepatitis B models
 ---
 
-**Model name:**  PRoGReSs (Hepatitis B model)  
+**Model name:**  PRoGReSs (Hepatitis B model)    
+**Modellers:**   [Homie Razavi](http://www.centerforda.com/bio.htm), [Devin Razavi-Shearer](http://www.centerforda.com/bio.htm)    
 **Institution:** [Center for Disease Analysis (CDA)](http://centerforda.com/)
 
 The PRoGReSs Model is a dynamic model that quantifies the HBV-infected population by year, disease stage, sex, and age. The model also quantifies the susceptible population by the aforementioned categories with the exclusion of disease stage. The PRoGReSs model is designed to assess the impact of different strategies composed of any combination of perinatal prophylaxes (birth dose, three dose, hepatitis B immune globulin, and antiviral treatment of mothers) and/or the treatment of the population in reducing the burden of hepatitis B virus in a country. 
@@ -15,6 +16,7 @@ The model utilizes inputs that are available for most countries in the literatur
 <div id="imperial"></div>
 
 **Model name:** Hepatitis B model  
+**Modellers:** [Tim Hallett](http://www.imperial.ac.uk/people/timothy.hallett)   
 **Institution:** [Imperial College London](https://www.imperial.ac.uk/school-public-health/infectious-disease-epidemiology/)
 
 The model is a dynamic, deterministic mathematical transmission model of the global hepatitis B epidemic structured by age, sex, and region. The model is composed of 21 Global Burden of Disease world regions, and is fitted to data on hepatitis B surface antigen (HBsAg) and hepatitis B e antigen (HBeAg) prevalence, at two time points, and liver cancer deaths for each region independently. 
@@ -35,7 +37,8 @@ The model incorporates region-specific demographic data on population size, mort
 
 <div id="independent"></div>
 
-**Model name:**  Hepatitis B model  
+**Model name:**  Hepatitis B model    
+**Modellers:**   Xi Li
 **Institution:** Independent
 
 The model was developed by Susan T Goldstein and colleagues at Centers for Disease Control and Prevention (CDC). It is a deterministic model of global hepatitis B burden. The age- and region-specific risk of developing acute and chronic hepatitis B infection was determined by the prevalence of hepatitis B virus seromarkers in early childhood and at the age of peak prevalence reported in literature and serosurvey reports. The risk of death from cirrhosis and hepatocellular carcinoma was derived from death registries, cancer registries and cohort studies in multiple countries. The lives that are saved by hepatitis B vaccine is calculated as the difference between predicted deaths from hepatitis B in an unvaccinated cohort and a vaccinated cohort, the latter based on the vaccination coverage of the cohort and assumptions on vaccine efficacy. 
