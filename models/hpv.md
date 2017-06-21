@@ -3,7 +3,7 @@ title: Human Papilloma Virus (HPV) models
 ---
 
 **Model name:** [Papillomavirus Rapid Interface for Modelling and Economics (PRIME)](http://primetool.org/about-prime/)   
-**Modellers names:** [Mark Jit](http://www.lshtm.ac.uk/aboutus/people/jit.mark), [Marc Brisson](http://www.marc-brisson.net/)   
+**Modellers:** [Mark Jit](http://www.lshtm.ac.uk/aboutus/people/jit.mark), [Marc Brisson](http://www.marc-brisson.net/)   
 **Institution:** [London School of Hygiene & Tropical Medicine (LSHTM)](http://www.lshtm.ac.uk/)   
 
 PRIME is a static model of HPV vaccination that uses proportional impact to estimate the cost-effectiveness of HPV vaccination in low- and middle-income countries. It was developed by LSHTM in collaboration with researchers from [the World Health Organization](http://who.int/en/), [Laval University](https://www.ulaval.ca/en/) and [Johns Hopkins University](https://www.jhu.edu/). It is meant to be used as a demonstration and decision support tool for analysts in low- and middle-income countries to examine the potential impact and cost-effectiveness of HPV vaccination. The Excel-based code with accompanying documentation is freely available online. The tool was expanded to allow multiple cohorts – it was coded in R and capability for sensitivity analysis was added, so that it could be used to automatically generate results for Gavi impact assessments. 
@@ -18,7 +18,7 @@ PRIME is a static model of HPV vaccination that uses proportional impact to esti
 <div id="harvard"></div>
 
 **Model name:** HPV model    
-**Modellers names:** [Steven Sweet](http://chds.hsph.harvard.edu/People/Steven-Sweet)   
+**Modellers:** [Steven Sweet](http://chds.hsph.harvard.edu/People/Steven-Sweet)   
 **Institution:** [Harvard School of Public Health](https://www.hsph.harvard.edu/)
 
 This companion population-based model is developed to be a simple tool to project the main features of the potential impact of HPV vaccines at the population level in settings where data are very limited. The model is constructed as a static cohort simulation model based on a structure similar to a simple decision tree, and is programmed using Microsoft Excel and Visual Basic for Applications. The model tracks a cohort of girls at a target age for their lifetimes, comparing health and cost outcomes with and without HPV vaccination programs.
