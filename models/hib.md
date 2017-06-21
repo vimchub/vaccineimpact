@@ -2,7 +2,8 @@
 title: Hib, rotavirus, and pneumococcal models
 ---
 
-**Model name:** TRIVAC (Hib, rotavirus and pneumo model)  
+**Model name:** TRIVAC (Hib, rotavirus and pneumo model)    
+**Modellers:**  [Andrew Clark](http://www.lshtm.ac.uk/aboutus/people/clark.andrew), [Colin Sanderson](http://www.lshtm.ac.uk/aboutus/people/sanderson.colin)     
 **Institution:** [London School of Hygiene and Tropical Medicine (LSHTM)](http://www.lshtm.ac.uk/)
 
 TRIVAC is a simple Excel-based static cohort model.  The model was originally developed to provide national ministries of health in low and middle income countries with conservative estimates of the impact and cost-effectiveness of routine Hib, rotavirus and pneumococcal vaccination.  TRIVAC has also been used to provide Gavi with conservative estimates of the number of cases, deaths and Disability-Adjusted Life Years (DALYs) prevented by these vaccines over the period 2001-2030 in countries involved in WHO’s Global Vaccine Action Plan (GVAP).  
@@ -13,7 +14,8 @@ The model tracks 30 stacked/successive cohorts from birth until death.  Demograp
 
 <div id="jhu"></div>
 
-**Model name:** [Lives Saved Tool (LiST) (Hib, rotavirus and pneumo model)](http://www.livessavedtool.org/)  
+**Model name:** [Lives Saved Tool (LiST) (Hib, rotavirus and pneumo model)](http://www.livessavedtool.org/)   
+**Modellers:**  [Neff Walker](https://www.jhsph.edu/faculty/directory/profile/1945/neff-walker), [Yvonne Tam](https://www.jhsph.edu/faculty/directory/profile/2424/yvonne-yin-on-tam)    
 **Institution:** [Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu/)
 
 The Lives Saved Tool (LiST), developed by the Institute for International Programs at Johns Hopkins Bloomberg School of Public Health and funded by the Bill & Melinda Gates Foundation, is a multi-cause model that estimates the impact of scaling up more than 70 evidence-based  health and nutrition interventions, including vaccines, on maternal mortality, neonatal mortality, child mortality, and stillbirths. 
