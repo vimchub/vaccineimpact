@@ -38,7 +38,7 @@ The model incorporates region-specific demographic data on population size, mort
 <div id="independent"></div>
 
 **Model name:**  Hepatitis B model    
-**Modellers:**   Xi Li
+**Modellers:**   Xi Li     
 **Institution:** Independent
 
 The model was developed by Susan T Goldstein and colleagues at Centers for Disease Control and Prevention (CDC). It is a deterministic model of global hepatitis B burden. The age- and region-specific risk of developing acute and chronic hepatitis B infection was determined by the prevalence of hepatitis B virus seromarkers in early childhood and at the age of peak prevalence reported in literature and serosurvey reports. The risk of death from cirrhosis and hepatocellular carcinoma was derived from death registries, cancer registries and cohort studies in multiple countries. The lives that are saved by hepatitis B vaccine is calculated as the difference between predicted deaths from hepatitis B in an unvaccinated cohort and a vaccinated cohort, the latter based on the vaccination coverage of the cohort and assumptions on vaccine efficacy. 
