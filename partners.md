@@ -4,7 +4,7 @@ css: /css/partners.css
 ---
 
 
-**Coordinating institution**      *[Imperial College London, Department of Infectious Disease Epidemiology](https://www.imperial.ac.uk/school-public-health/infectious-disease-epidemiology/)*
+**Coordinating institution**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*[Imperial College London, Department of Infectious Disease Epidemiology](https://www.imperial.ac.uk/school-public-health/infectious-disease-epidemiology/)*
 	
 Department of Infectious Disease Epidemiology at Imperial College London is one of the largest academic departments specialising in infectious disease epidemiology in Europe. Its highly interdisciplinary research focuses on the transmission, evolution, and control of infectious diseases in human and animal populations. The Department's particular strengths are in epidemiological and genetic analysis and mathematical modelling, backed by focussed field and experimental research.
 	
@@ -20,7 +20,7 @@ The work of the Consortium is largely enabled through the participation of the m
 
 ---   
 
-**Funder**      *[The Bill & Melinda Gates Foundation](http://www.gatesfoundation.org/)*    
+**Funder**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*[The Bill & Melinda Gates Foundation](http://www.gatesfoundation.org/)*    
 
 <a href="http://www.gatesfoundation.org/"><img src="/img/Bill-Melinda-Gates-Foundation-Logo.png" /><a/>  
 
@@ -28,7 +28,7 @@ Guided by the belief that every life has equal value, the Bill & Melinda Gates F
 
 --- 
 
-**Funder**      *[Gavi, the Vaccine Alliance](http://www.gavi.org/)*         
+**Funder**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*[Gavi, the Vaccine Alliance](http://www.gavi.org/)*         
     
 <a href="http://www.gavi.org/"><img src="/img/Gavi_logo.png" /></a>      
 
