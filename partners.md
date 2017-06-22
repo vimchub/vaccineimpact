@@ -5,12 +5,14 @@ css: /css/partners.css
 
 
 ***Coordinating institution&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Imperial College London, Department of Infectious Disease Epidemiology](https://www.imperial.ac.uk/school-public-health/infectious-disease-epidemiology/)***
-	
+
+<a href="https://www.imperial.ac.uk/school-public-health/infectious-disease-epidemiology/"><img src="/img/ICL_logo.png" /></a>     
+
 Department of Infectious Disease Epidemiology at Imperial College London is one of the largest academic departments specialising in infectious disease epidemiology in Europe. Its highly interdisciplinary research focuses on the transmission, evolution, and control of infectious diseases in human and animal populations. The Department's particular strengths are in epidemiological and genetic analysis and mathematical modelling, backed by focussed field and experimental research.
 	
 The research work spans a wide range of disease areas, including emerging infectious diseases, HIV, malaria, tuberculosis, polio, influenza, mosquito-borne viral infections, sexually transmitted infections, neglected tropical diseases (NTDs), and bacterial and fungal infections. Since much of the research has direct relevance to policy, the Department works in close partnership with a wide range of public and global health organisations – notably Public Health England and the World Health Organization (WHO).
 
-<a href="https://www.imperial.ac.uk/school-public-health/infectious-disease-epidemiology/"><img src="/img/ICL_logo.png" /></a>   
+
 
 ---
 
