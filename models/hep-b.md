@@ -8,11 +8,10 @@ title: Hepatitis B models
 
 The PRoGReSs Model is a dynamic model that quantifies the HBV-infected population by year, disease stage, sex, and age. The model also quantifies the susceptible population by the aforementioned categories with the exclusion of disease stage. The PRoGReSs model is designed to assess the impact of different strategies composed of any combination of perinatal prophylaxes (birth dose, three dose, hepatitis B immune globulin, and antiviral treatment of mothers) and/or the treatment of the population in reducing the burden of hepatitis B virus in a country. 
 
-The model utilizes inputs that are available for most countries in the literature to compute the size of the HBV-infected population – hepatitis B surface antigen (HBsAg) prevalence, hepatitis B e antigen (HBeAg) prevalence, population, background mortality by age/sex, and current/past vaccination rates.  The model estimates perinatal transmission, non-perinatal transmission, and disease progression by calibrating to empirical data – prevalence by age and hepatocellular carcinoma (HCC) incidence and core antibody prevalence.
+The model utilizes inputs that are available for most countries in the literature to compute the size of the HBV-infected population – hepatitis B surface antigen (HBsAg) prevalence, hepatitis B e antigen (HBeAg) prevalence, population, background mortality by age/sex, and current/past vaccination rates.  The model estimates perinatal transmission, non-perinatal transmission, and disease progression by calibrating to empirical data – prevalence by age and hepatocellular carcinoma (HCC) incidence and core antibody prevalence.   
 
-
-
-
+---    
+    
 <div id="imperial"></div>
 
 **Model name:** Hepatitis B model  
@@ -36,6 +35,8 @@ The model incorporates region-specific demographic data on population size, mort
 
 
 <div id="independent"></div>
+
+---    
 
 **Model name:**  Hepatitis B model    
 **Modellers:**   Xi Li     
