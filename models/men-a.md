@@ -6,9 +6,9 @@ title: Meningitis A models
 **Modellers:** [Caroline Trotter](http://www.infectiousdisease.cam.ac.uk/directory/clt56@cam.ac.uk), [Andromach Karachaliou](http://www.vet.cam.ac.uk/directory/karachaliou)   
 **Institution:** [University of Cambridge](https://www.cam.ac.uk/)
 
-This is an age-structured transmission dynamic model of serogroup A Neisseria meningitidis (NmA) to investigate the impact of immunisation with MenAfriVac. Individuals may be susceptible, carriers, ill or recovered and in each of these states be vaccinated or unvaccinated, with vaccinated individuals having lower risks of infection (carriage acquisition) and disease. The model captures the key features of meningococcal epidemiology, including seasonality, age-specific carriage and periodic but irregular epidemics. Seasonality is implemented through seasonal forcing of the transmission rate, the extent of which varies stochastically every year.   
+This is an age-structured transmission dynamic model of serogroup A Neisseria meningitidis (NmA) to investigate the impact of immunisation with MenAfriVac. Individuals may be susceptible, carriers, ill or recovered and in each of these states be vaccinated or unvaccinated, with vaccinated individuals having lower risks of infection (carriage acquisition) and disease. The model captures the key features of meningococcal epidemiology, including seasonality, age-specific carriage and periodic but irregular epidemics. Seasonality is implemented through seasonal forcing of the transmission rate, the extent of which varies stochastically every year.    
 
-
+---    
 
 <div id="cdc"></div>
 
