@@ -25,7 +25,7 @@
       info:   Vaccine, 34(25), 2855-2862
       url:    https://www.ncbi.nlm.nih.gov/pubmed/27020710
 
-- name: 'Haemophilus influenzae type b (hib), rotavirus and pneumococcal disease'
+- name: 'Haemophilus influenzae type b (Hib), rotavirus and pneumococcal disease'
   id: hib
   pubs:
     - author: Bourgeois, A. L., Wierzba, T. F., & Walker, R. I.
