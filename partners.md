@@ -4,7 +4,7 @@ css: /css/partners.css
 ---
 
 
-**[Imperial College London, The Department of Infectious Disease Epidemiology](https://www.imperial.ac.uk/school-public-health/infectious-disease-epidemiology/)**
+**[Imperial College London, Department of Infectious Disease Epidemiology](https://www.imperial.ac.uk/school-public-health/infectious-disease-epidemiology/)**
 
 **Coordinating institution**        
 	
