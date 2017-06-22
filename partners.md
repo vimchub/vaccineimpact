@@ -4,7 +4,7 @@ css: /css/partners.css
 ---
 
 
-***Coordinating institution&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Imperial College London, Department of Infectious Disease Epidemiology](https://www.imperial.ac.uk/school-public-health/infectious-disease-epidemiology/)***
+***[Imperial College London, Department of Infectious Disease Epidemiology](https://www.imperial.ac.uk/school-public-health/infectious-disease-epidemiology/) - Coordinating institution***
 
 <a href="https://www.imperial.ac.uk/school-public-health/infectious-disease-epidemiology/"><img src="/img/ICL_logo.png" /></a>     
 
@@ -22,7 +22,7 @@ The work of the Consortium is largely enabled through the participation of the m
 
 ---   
 
-***Funder&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[The Bill & Melinda Gates Foundation](http://www.gatesfoundation.org/)***   
+***[The Bill & Melinda Gates Foundation](http://www.gatesfoundation.org/) - Funder***   
 
 <a href="http://www.gatesfoundation.org/"><img src="/img/Bill-Melinda-Gates-Foundation-Logo.png" /><a/>  
 
@@ -30,7 +30,7 @@ Guided by the belief that every life has equal value, the Bill & Melinda Gates F
 
 --- 
 
-***Funder&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Gavi, the Vaccine Alliance](http://www.gavi.org/)***         
+***[Gavi, the Vaccine Alliance](http://www.gavi.org/) - Funder***         
     
 <a href="http://www.gavi.org/"><img src="/img/Gavi_logo.png" /></a>      
 
