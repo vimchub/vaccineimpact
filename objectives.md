@@ -13,9 +13,8 @@ The Consortium will serve as a resource to the funders on questions relating to 
 ## Consortium Timeline
 
 **November 2016** - Imperial College awarded funding by Gavi and the Bill & Melinda Gates Foundation  
-**February 2017** – Consortium kick-off and first annual meeting  
+**February 2017** – Kick-off and first [Consortium annual meeting](/resources/VIMC_consortium_annual_meeting_report_2017.pdf)  
 **March 2018** – Vaccine impact estimates 2017 available to the funders  
-**March 2018** – [Consortium annual meeting](/resources/VIMC_consortium_annual_meeting_report_2017.pdf)  
 **September 2018** – Priority country engagement workshop # 1  
 **March 2019** - Consortium annual meeting  
 **September 2019** – Priority country engagement workshop # 2  
