@@ -8,7 +8,9 @@ Imperial College London
 Norfolk Place  
 London       
 W2 1PG     
-United Kingdom
+United Kingdom   
+
+Phone: +44 (0)20 7594 1941    
 	
 Email: <a href="mailto:vimc@imperial.ac.uk">vimc@imperial.ac.uk</a>
 
