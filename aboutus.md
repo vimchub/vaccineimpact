@@ -3,7 +3,7 @@ layout: index
 bigimg: /img/VIMC_group_photo_March_2017.jpg
 ---
 
-<div style="font-size:50px; text-align:center; font-weight:bold">Vaccine Impact Modelling Consortium</div>
+<div style="font-size:50px; text-align:center; font-weight:bold">About us</div>
 
 The Vaccine Impact Modelling Consortium coordinates the work of several [research groups](/modellers) modelling the impact of vaccination programmes worldwide.     
 
