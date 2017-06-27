@@ -22,7 +22,7 @@ The work of the Consortium is largely enabled through the participation of the m
 
 ---   
    
-<div id="funderspage"></div>      
+<div id="funders"></div>      
    
 ***[The Bill & Melinda Gates Foundation](http://www.gatesfoundation.org/) - Funder***   
 
