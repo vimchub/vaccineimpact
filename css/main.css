@@ -4,7 +4,7 @@
 
 body {
   /* font-family: 'Lora', 'Times New Roman', serif; */
-  font-family: 'News Cycle', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Palatino', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-size: 18px;
   color: #333;
   position: relative;
@@ -21,7 +21,7 @@ p a {
   color: #008AFF;
 }
 h1,h2,h3,h4,h5,h6 {
-  font-family: 'News Cycle', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Palatino', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 800;
 }
 a {
@@ -56,7 +56,7 @@ hr.small {
 }
 
 .main-explain-area {
-  font-family: 'News Cycle', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Palatino', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   padding: 15px inherit;
 }
 
@@ -106,7 +106,7 @@ img {
 .navbar-custom {
   background: #bdd7ee;
   border-bottom: 1px solid #a9c9e6;
-  font-family: 'News Cycle', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Palatino', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
 .navbar-custom .nav li a {
@@ -399,7 +399,7 @@ footer {
   margin: 0 0 10px;
 }
 .post-preview .post-entry {
-  font-family: 'Century Gothic', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Palatino', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 .post-preview .post-read-more {
   font-weight: 800;
@@ -502,7 +502,7 @@ footer {
   padding: 5px 10px;
   font-size: 11px;
   color: #EEE;
-  font-family: 'Century Gothic', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Palatino', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   right: 0;
   bottom: 0;
   display: none;
@@ -581,7 +581,7 @@ footer {
 /* --- Pager --- */
 
 .pager li a {
-  font-family: 'News Cycle', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  font-family: 'Palatino', 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-size: 14px;
   font-weight: 800;
