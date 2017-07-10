@@ -10,15 +10,5 @@ This Japanese Encephalitis (JE) model will use a simple transmission model to es
 
 ---    
 
-<div id="independent"></div>
-
-**Model name:** Japanese Encephalitis (JE)  
-**Modellers:** Chutima Suraratdecha    
-**Institution:** Independent
-
-This is a static population-based cohort model. TODO longer description.
-
----
-
 [More about Japanese encephalitis](/diseases/je)  
 [Relevant publications](/publications#je)
