@@ -1,5 +1,6 @@
 ![VIMC logo](img/logo/VIMC_landscape_logo_transparent.png)
 
+
 ## Editing the content of the landing page
 
 Edit the [`index.md`](index.md) file. You can write in either markdown or HTML.
