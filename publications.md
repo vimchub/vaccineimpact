@@ -1,6 +1,6 @@
 
 ---
-title: Publications
+title: Publications   
 ---
 
 {% for pubgroup in site.data.publications %}
