@@ -22,6 +22,10 @@ The Lives Saved Tool (LiST), developed by the Institute for International Progra
 
 LiST has been characterized as a linear, mathematical model that is deterministic. LiST is a module in Spectrum, a software package maintained by Avenir Health, with links to the demography module (DemProj), AIDS impact module (AIM), and the family planning module (FamPlan). LiST has been used for over 10 years and is regularly updated to incorporate the latest evidence from the scientific literature and household survey data. LiST is free and publicly available for use.
 
+[![](/img/models/hib_pneumo_rota_model.jpg)](/img/models/hib_pneumo_rota_model.jpg)
+
+> LiST model structure visualisation   
+
 ---
 
 More about [Hib](/diseases/hib), [rotavirus](/diseases/rotavirus) and [pneumococcal disease](/diseases/pneumo)  
