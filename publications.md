@@ -1,7 +1,6 @@
-
----
-title: Publications   
----
+---   
+title: Publications     
+---   
 
 {% for pubgroup in site.data.publications %}
   <h2 id="{{ pubgroup.id }}">{{ pubgroup.name }}</h2>
