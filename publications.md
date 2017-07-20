@@ -1,7 +1,3 @@
----
-layout: base
-bigimg: /img/Publications.jpg
----
 
 ---
 title: Publications
