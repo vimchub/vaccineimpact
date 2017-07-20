@@ -1,6 +1,7 @@
 ---   
 title: Other resources   
 ---   
+## Consortium materials
 
 **[Consortium Summary 2017](/resources/VIMC_consortium_summary_2017.pdf)**
 
@@ -10,9 +11,15 @@ title: Other resources
 
 ---        
 
+## Other vaccine related intiatives and organisations
+
 **[EPIC Immunization Consting project](https://www.hsph.harvard.edu/epic/)**    
 **[ImmunizationEconimics.org](http://immunizationeconomics.org/)**   
 **[International Vaccine Access Center (IVAC)](http://www.jhsph.edu/research/centers-and-institutes/ivac/)**   
-**[Vaccine Confidence Project](http://www.vaccineconfidence.org/)**    
+**[Vaccine Confidence Project](http://www.vaccineconfidence.org/)**   
+**[Vaccineswork.org](http://www.vaccineswork.org/)**    
+**[WHO Initiative for Vaccine Research (IVR)](http://www.who.int/immunization/en/)**   
+**[PATH](http://www.path.org/)**   
+**[Clinton Health Access Initiative](http://www.clintonhealthaccess.org/program/vaccines/)**   
 
 
