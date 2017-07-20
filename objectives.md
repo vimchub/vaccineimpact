@@ -8,7 +8,9 @@ The Consortium will establish more efficient systems for impact estimates genera
 
 The Vaccine Impact Modelling Consortium will provide the [funders](/partners/#funders) with vaccine impact estimates for a specific disease portfolio. Major rounds of updated estimates will be produced in 2017, 2019 and 2021.   
 
-The Consortium will serve as a resource to the funders on questions relating to vaccine impact modelling and ensure that the provided estimates have the most rigorous scientific foundation. Over the five years, the Consortium will aim to engage with four priority countries: Pakistan, India, Nigeria and Ethiopia (PINE countries) to share the modelled estimates and to ensure that the used country-specific input data is accurate and up to date.
+The Consortium will serve as a resource to the funders on questions relating to vaccine impact modelling and ensure that the provided estimates have the most rigorous scientific foundation. Over the five years, the Consortium will aim to engage with four priority countries: Pakistan, India, Nigeria and Ethiopia (PINE countries) to share the modelled estimates and to ensure that the used country-specific input data is accurate and up to date.   
+   
+     
 
 [![](/img/VIMC_timeline_infographic2.png)](/img/VIMC_timeline_infographic2.png)
 
