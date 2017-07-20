@@ -14,4 +14,4 @@ During a yellow fever outbreak, vaccination remains the most effective measure f
 
 [WHO fact sheet on yellow fever](http://www.who.int/mediacentre/factsheets/fs100/en/)         
 [CDC page on yellow fever](https://www.cdc.gov/yellowfever/index.html)       
-[Gavi page on yellow fever](https://www.cdc.gov/yellowfever/index.html)      
+[Gavi page on yellow fever](http://www.gavi.org/support/nvs/yellow-fever/)          
