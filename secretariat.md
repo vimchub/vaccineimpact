@@ -1,5 +1,5 @@
 ---
-title: Consortium Secretariat
+title: Secretariat  
 ---
 
 <div style="font-size: 36px; font-weight: bold; text-align:center;">Management group</div>
