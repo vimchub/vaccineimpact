@@ -22,7 +22,7 @@ The model is an age-structured SIRV (Susceptible-Infectious-Recovered-Vaccinated
 
 [![](/img/models/dynemice.png)](/img/models/dynemice.png)
 
-> Predictions of measles incidence pre- and post-SIA in India, under different assumptions about the interval between SIAs. From: [Verguet et al. (2015)](http://www.sciencedirect.com/science/article/pii/S0264410X14016077).
+> Predictions of measles incidence pre- and post-SIA in India, under different assumptions about the interval between SIAs. From: Verguet et al. [Controlling measles using supplemental immunization activities: A mathematical model to inform optimal policy. (2015)](http://www.sciencedirect.com/science/article/pii/S0264410X14016077)
 
 ---
 
