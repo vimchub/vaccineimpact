@@ -12,7 +12,7 @@ In addition, the Consortium serves as a resource to the funders on questions rel
    
      
 
-[![](/img/VIMC_timeline_infographic3.png)](/img/VIMC_timeline_infographic3.png)
+[![](/img/VIMC_timeline_infographic5.png)](/img/VIMC_timeline_infographic5.png)
 
 **November 2016** - Imperial College awarded funding by Gavi and the Bill & Melinda Gates Foundation  
 **February 2017** – Kick-off and first [Consortium annual meeting](/resources/VIMC_consortium_annual_meeting_report_2017.pdf)  
