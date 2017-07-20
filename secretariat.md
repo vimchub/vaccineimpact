@@ -1,5 +1,5 @@
 ---
-title: VIMC Secretariat
+title: Consortium Secretariat
 ---
 
 <div style="font-size: 36px; font-weight: bold; text-align:center;">Management group</div>
