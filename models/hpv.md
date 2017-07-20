@@ -10,7 +10,7 @@ PRIME is a static model of HPV vaccination that uses proportional impact to esti
 
 [![](/img/models/prime_hpv_model.png)](/img/models/prime_hpv_model.png)
 
-> Estimated number of cervical cancers prevented per 100,000 girls vaccinated against HPV in different countries according to PRIME. [Jit M, Brisson M, Portnoy A, Hutubessy R. Cost-effectiveness of female human papillomavirus vaccination in 179 countries: a PRIME modelling study. Lancet Glob Health 2014; 2(7):e406-14](https://www.ncbi.nlm.nih.gov/pubmed/25103394).   
+> Estimated number of cervical cancers prevented per 100,000 girls vaccinated against HPV in different countries according to PRIME. Jit M, Brisson M, Portnoy A, Hutubessy R. [Cost-effectiveness of female human papillomavirus vaccination in 179 countries: a PRIME modelling study. Lancet Glob Health 2014; 2(7):e406-14](https://www.ncbi.nlm.nih.gov/pubmed/25103394).   
 
 ---   
 
