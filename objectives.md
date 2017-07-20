@@ -10,9 +10,7 @@ The Vaccine Impact Modelling Consortium will provide the [funders](/partners/#fu
 
 The Consortium will serve as a resource to the funders on questions relating to vaccine impact modelling and ensure that the provided estimates have the most rigorous scientific foundation. Over the five years, the Consortium will aim to engage with four priority countries: Pakistan, India, Nigeria and Ethiopia (PINE countries) to share the modelled estimates and to ensure that the used country-specific input data is accurate and up to date.
 
-## Consortium Timeline
-
-[![](/img/VIMC_timeline_infographic.png)](/img/VIMC_timeline_infographic.png)
+[![](/img/VIMC_timeline_infographic2.png)](/img/VIMC_timeline_infographic2.png)
 
 **November 2016** - Imperial College awarded funding by Gavi and the Bill & Melinda Gates Foundation  
 **February 2017** – Kick-off and first [Consortium annual meeting](/resources/VIMC_consortium_annual_meeting_report_2017.pdf)  
