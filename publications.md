@@ -1,4 +1,9 @@
 ---
+layout: index
+bigimg: /img/Publications.jpg
+---
+
+---
 title: Publications
 ---
 
