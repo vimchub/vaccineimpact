@@ -11,7 +11,7 @@ title: Other resources
 
 ---        
 
-## Other vaccine related intiatives and organisations
+## Other vaccine related initiatives and organisations
 
 **[EPIC Immunization Costing project](https://www.hsph.harvard.edu/epic/)**    
 
