@@ -27,7 +27,7 @@ title: Other resources
 
 **[PATH](http://www.path.org/)**   
 
-**[Clinton Health Access Initiative](http://www.clintonhealthaccess.org/program/vaccines/)**   
+**[Clinton Health Access Initiative (CHAI)](http://www.clintonhealthaccess.org/program/vaccines/)**      
 
 
 
