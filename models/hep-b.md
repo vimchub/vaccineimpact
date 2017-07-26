@@ -30,8 +30,7 @@ The model incorporates region-specific demographic data on population size, mort
 > 
 > (B) Ratio of people requiring treatment for HBV (modelled estimates for 2025) to people requiring treatment for HIV (HIV estimate from UNAIDS 201331). HBV=hepatitis B virus. LICs=low-income countries. LMICs=lower-middle-income countries.
 >
-> Nayagam, S., Thursz, M., Sicuri, E., Conteh, L., Wiktor, S., Low-Beer, D. L., & Hallett, T. B. (2016). [Requirements for global elimination of hepatitis B: a modelling study](http://www.thelancet.com/journals/laninf/article/PIIS1473-3099(16)30204-3/abstract). Lancet Infectious Diseases, 16(12), 1399-1408.
-
+> From Nayagam, S., Thursz, M., Sicuri, E., Conteh, L., Wiktor, S., Low-Beer, D. L., & Hallett, T. B. (2016). [Requirements for global elimination of hepatitis B: a modelling study](http://www.thelancet.com/journals/laninf/article/PIIS1473-3099(16)30204-3/abstract). Lancet Infectious Diseases, 16(12), 1399-1408. Licensed under a [Creative Commons Attribution License](https://creativecommons.org/licenses/by/4.0/)   
 
 
 <div id="independent"></div>
