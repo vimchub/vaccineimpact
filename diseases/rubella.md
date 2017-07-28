@@ -10,7 +10,7 @@ WHO recommends all countries to apply the well-established measles immunisation 
 
 ---
 
-**Model name:**  [Rubella model](/models/rubella)  
+**Model name:**  [Rubella model (PHE)](/models/rubella)  
 
 ---
 
