@@ -86,7 +86,14 @@
   title: Japanese Encephalitis (JE) model
   title_link: /models/je
   email: hannah.clapham@ndm.ox.ac.uk 
-  img: '/img/people/Hannah_Clapham.png'
+  img: '/img/people/Hannah_Clapham.png'   
+  
+- name: Tran Minh Quan
+  url: 
+  title: Japanese Encephalitis (JE) model
+  title_link: /models/je
+  email: quantm@oucru.org 
+  img: '/img/people/Tran_Minh_Quan.png'
    
 - name: Matthew Ferrari
   url: http://bio.psu.edu/directory/mjf283
