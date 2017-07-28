@@ -9,7 +9,7 @@ title: Other resources
 
 **[Consortium Annual Meeting Report 2017](/resources/VIMC_consortium_annual_meeting_report_2017.pdf)**    
 
-**[Consortium frequently used acronyms](/resources/VIMC_acronyms_July_2017.csv)**      
+**[Consortium frequently used acronyms](/resources/VIMC_acronyms_July_2017.xlsx)**      
 
 ---        
 
