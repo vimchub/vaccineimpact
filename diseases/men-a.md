@@ -12,8 +12,8 @@ The MenAfriVac vaccination strategy is mainly planned around campaigns to immuni
 
 ---
 
-**Model name:**  [Meningitis A model 1](/models/men-a)  
-**Model name:**  [Meningitis A model 2](/models/men-a#cdc)  
+**Model name:**  [Meningitis A model (Cambridge)](/models/men-a)  
+**Model name:**  [Meningitis A model (CDC/KPWA)](/models/men-a#cdc)  
 
 ---
 
