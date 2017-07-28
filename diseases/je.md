@@ -12,8 +12,7 @@ The vaccination strategy for JE combines both routine vaccination and supplement
 
 ---
 
-**Model name:**  [Japanese Encephalitis (JE) model](/models/je)  
-**Model name:**  [Japanese Encephalitis (JE) (Independent)](/models/je#independent)  
+**Model name:**  [Japanese Encephalitis (JE) model (OUCRU)](/models/je)     
 
 ---
 
