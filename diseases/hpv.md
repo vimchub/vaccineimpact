@@ -11,7 +11,7 @@ Several models have been developed to understand the epidemiological and economi
 ---
 
 **Model name:**  [PRIME (HPV model)](/models/hpv)  
-**Model name:**  [HPV model 2](/models/hpv#harvard)  
+**Model name:**  [HPV model (Harvard)](/models/hpv#harvard)  
 
 ---
 
