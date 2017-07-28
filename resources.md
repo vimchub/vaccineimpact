@@ -15,21 +15,25 @@ title: Other resources
 
 ## Other vaccine related initiatives and organisations
 
+**[Clinton Health Access Initiative (CHAI)](http://www.clintonhealthaccess.org/program/vaccines/)**      
+
 **[EPIC Immunization Costing project](https://www.hsph.harvard.edu/epic/)**    
 
 **[ImmunizationEconimics.org](http://immunizationeconomics.org/)**   
 
 **[International Vaccine Access Center (IVAC)](http://www.jhsph.edu/research/centers-and-institutes/ivac/)**  
 
-**[Vaccine Confidence Project](http://www.vaccineconfidence.org/)**   
+**[PATH](http://www.path.org/)**      
 
-**[Vaccineswork.org](http://www.vaccineswork.org/)**    
+**[Vaccine Confidence Project](http://www.vaccineconfidence.org/)**      
 
-**[WHO Initiative for Vaccine Research (IVR)](http://www.who.int/immunization/en/)**   
+**[Vaccineswork.org](http://www.vaccineswork.org/)**       
 
-**[PATH](http://www.path.org/)**   
+**[WHO Initiative for Vaccine Research (IVR)](http://www.who.int/immunization/en/)**      
 
-**[Clinton Health Access Initiative (CHAI)](http://www.clintonhealthaccess.org/program/vaccines/)**      
+
+
+
 
 
 
