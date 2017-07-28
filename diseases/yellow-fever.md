@@ -8,7 +8,7 @@ During a yellow fever outbreak, vaccination remains the most effective measure f
 
 ---
 
-**Model name:**  [Yellow Fever model (Imperial College)](/models/yellow-fever)  
+**Model name:**  [Yellow fever model (Imperial College)](/models/yellow-fever)  
 
 ---
 
