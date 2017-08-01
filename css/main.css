@@ -768,6 +768,6 @@ body {
   height: 100px;
   flex-direction: column;
 }
-div.container[role="main"] {
+div.container[role="main"], div.container-fluid[role="main"] {
   flex: 1 0 auto;
 }
