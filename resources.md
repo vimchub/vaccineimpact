@@ -11,6 +11,8 @@ title: Other resources
 
 **[Consortium frequently used acronyms (xlsx)](/resources/VIMC_acronyms_July_2017.xlsx)**      
 
+**[Consortium Newsletter - August 2017 (pdf)](/resources/VIMC_newsletter_August_2017.pdf)**   
+
 ---        
 
 ## Other vaccine related initiatives and organisations
