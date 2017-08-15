@@ -21,7 +21,7 @@ title: Other resources
 
 **[EPIC Immunization Costing project](https://www.hsph.harvard.edu/epic/)**    
 
-**[ImmunizationEconimics.org](http://immunizationeconomics.org/)**   
+**[ImmunizationEconomics.org](http://immunizationeconomics.org/)**   
 
 **[International Vaccine Access Center (IVAC)](http://www.jhsph.edu/research/centers-and-institutes/ivac/)**  
 
