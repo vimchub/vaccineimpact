@@ -2,7 +2,7 @@
 title: New Consortium positions based at LSHTM
 ---
 
-The London School of Hygiene & Tropical Medicine is recruiting two new positions within the Vaccine Impact Modelling Consortium:
+The London School of Hygiene and Tropical Medicine is recruiting two new positions within the Vaccine Impact Modelling Consortium:
 
 [Assistant Professor in Disease Modelling](https://jobs.lshtm.ac.uk/Vacancy.aspx?ref=EPH-IDE-62)
 
