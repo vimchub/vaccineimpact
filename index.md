@@ -6,7 +6,7 @@ layout: index
 
 The Vaccine Impact Modelling Consortium coordinates the work of several [research groups](/modellers) modelling the impact of vaccination programmes worldwide.   
 
-The Consortium was established at the end of 2016 for a period of five years, and is currently coordinated by [secretariat](/secretariat) based at [Imperial College London](http://www.imperial.ac.uk/).   
+The Consortium was established at the end of 2016 for a period of five years, and is currently coordinated by a [secretariat](/secretariat) based at [Imperial College London](http://www.imperial.ac.uk/).   
 
 As its core objective, the Consortium aims to deliver more sustainable, efficient, and transparent approach to generating disease burden and vaccine impact estimates. Furthermore, the Consortium will work on aggregating the estimates across a portfolio of ten vaccine-preventable diseases and further advancing the research agenda in the field of vaccine impact modelling.   
 
