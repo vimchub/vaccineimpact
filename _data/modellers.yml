@@ -123,13 +123,6 @@
   email: verguet@hsph.harvard.edu 
   img: '/img/people/Stephane_Verguet.png'
   
-- name: Edward Jones
-  url: http://www.lshtm.ac.uk/aboutus/people/jones.edward
-  title: DynaMICE (Measles model)
-  title_link: /models/measles#LSHTM
-  email: edward.jones@lshtm.ac.uk 
-  img: '/img/people/Ed_Jones.png'
- 
 - name: Caroline Trotter
   url: http://www.infectiousdisease.cam.ac.uk/directory/clt56@cam.ac.uk
   title: MenA model 
@@ -171,3 +164,10 @@
   title_link: /models/yellow-fever
   email:  t.garske@imperial.ac.uk
   img: '/img/people/Tini_Garske.png'  
+
+- name: Katy Gaythorpe
+  url: http://www.imperial.ac.uk/people/k.gaythorpe
+  title: Yellow fever model 
+  title_link: /models/yellow-fever
+  email:  k.gaythorpe@imperial.ac.uk
+  img: '/img/people/Katy_Gaythorpe.png'    
