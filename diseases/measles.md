@@ -14,7 +14,7 @@ Measles is still one of the leading causes of death among young children, especi
 ---
 
 **Model name:**  [Measles model (PSU)](/models/measles)  
-**Model name:**  [DyneMICE (Measles model)](/models/measles#LSHTM)  
+**Model name:**  [DynaMICE (Measles model)](/models/measles#LSHTM)  
 
 ---
 
