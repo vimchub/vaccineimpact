@@ -8,7 +8,7 @@ The Consortium secretariat leads the development of [“Montagu”](https://mont
 
 Montagu aims to improve consistency between the Consortium models and offer greater accuracy through testing of uploaded vaccine impact estimates for completeness and broad numerical quality. It enhances general security and communication within the Consortium as it provides a centralised upload and download point. Overall, the software will bring a higher level of automation to the estimates generation process and reduce workloads for the modelling groups while offering greater assurances and transparency to the funders. 
 
-Montagu development commenced in early 2017 as an open source project using Agile methods with the code stored at https://github.com/vimc. Access to Montagu is restricted to the Consortium members and funders only. 
+Montagu development commenced in early 2017 as an open source project using Agile methods with the code stored [here](https://github.com/vimc). Access to Montagu is restricted to the Consortium members and funders only. 
 
 ---     
 
