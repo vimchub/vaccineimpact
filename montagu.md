@@ -12,6 +12,8 @@ Montagu aims to improve consistency between the Consortium models and offer grea
 
 Montagu development commenced in early 2017 as an open source project using Agile methods with the code stored at https://github.com/vimc. Access to Montagu is restricted to the Consortium members and funders only. 
 
+---     
+
 ### Naming of the delivery platform 
 
 The delivery platform was named after [Lady Mary Wortley Montagu]( https://www.britannica.com/biography/Lady-Mary-Wortley-Montagu ), the daughter of the Duke of Kingston, who introduced the practice of variolation against smallpox to England in 1718. Variolation or inoculation was the method used to protect individuals against [smallpox]( http://www.who.int/csr/disease/smallpox/en/) before the immunisation technique was developed. The patient was injected with material taken from a recently infected individual in the hope that a mild infection would result and protect them from more severe form of disease. 
