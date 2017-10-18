@@ -8,9 +8,9 @@ The Consortium aims to establish more efficient systems for vaccine impact estim
 
 The Consortium will provide the [funders](/partners/#funders) with major rounds of updated vaccine impact estimates in 2018, 2020 and 2022 for a specific disease portfolio. In addition, the Consortium serves as a resource to the funders on questions relating to vaccine impact modelling and ensures that the provided estimates have the most rigorous scientific foundation.    
 
-During the five year period, the Consortium will aim to engage with four priority countries: Pakistan, India, Nigeria and Ethiopia to share the modelled estimates and to ensure that the country-specific input data are accurate and up to date.   
-   
-     
+During the five year period, the Consortium will aim to engage with four priority countries: Pakistan, India, Nigeria and Ethiopia to share the modelled estimates and to ensure that the country-specific input data are accurate and up to date. 
+
+---    
 
 [![](/img/VIMC_timeline_infographic7.png)](/img/VIMC_timeline_infographic7.png)   
 
