@@ -2,9 +2,7 @@
 title: Montagu  
 ---
 
-## Delivery Platform for Disease Burden and Vaccine Impact Estimates
-
-### Overview 
+## Delivery Platform for Disease Burden and Vaccine Impact Estimates   
 
 The Consortium secretariat leads the development of [“Montagu”](https://montagu.vaccineimpact.org/), a web-based delivery platform used to streamline the process of data exchange between [the modelling groups](/modellers) and [the funders](/partners/#funders). Specifically, Montagu enables easy access to the standardised input data used by the modelling groups and subsequently generated outputs used by the funders. Montagu also hosts documentation of the models, raw results, and data inputs, and will eventually provide new tools for data visualisation and analyses. 
 
@@ -14,7 +12,7 @@ Montagu development commenced in early 2017 as an open source project using Agil
 
 ---     
 
-### Naming of the delivery platform 
+### Naming of the delivery platform    
 
 The delivery platform was named after [Lady Mary Wortley Montagu]( https://www.britannica.com/biography/Lady-Mary-Wortley-Montagu ), the daughter of the Duke of Kingston, who introduced the practice of variolation against smallpox to England in 1718. Variolation or inoculation was the method used to protect individuals against [smallpox]( http://www.who.int/csr/disease/smallpox/en/) before the immunisation technique was developed. The patient was injected with material taken from a recently infected individual in the hope that a mild infection would result and protect them from more severe form of disease. 
 
