@@ -23,7 +23,7 @@ The VIMC coordinates the ongoing work of modelling groups from a range of resear
 
 The primary objective of the Consortium is to model vaccine impact, and the modelling groups are responsible for calculating disease burden defined as: i) number of cases averted; ii) number of deaths averted; and iii) Disability-Adjusted Life Years (DALYs) averted. 
 
-The countries for which the estimates are provided include all Gavi-support eligible countries (historic and current) where the specific disease is endemic. For rubella these include a total of 98 countries, for yellow fever a total of 35 countries, and for JE as total of 15 countries. [The full list of countries](/resources/yf_rubella_je_countries.xlsx) is available as an attachment. 
+The countries for which the estimates are provided include all Gavi-support eligible countries (historic and current) where the specific disease is endemic. [For rubella these include a total of 98 countries, for yellow fever a total of 35 countries, and for JE as total of 15 countries.](/resources/yf_rubella_je_countries.xlsx) 
 
 ## Deliverables: 
 
@@ -35,7 +35,7 @@ _Note: If you prefer to use an alternative source for the demographic data, plea
 
 ## Assessment criteria:   
 
-The Consortium has developed a set of standards that all Consortium models are required to meet to successfully produce the desired outputs. The minimum standards are firm criteria for inclusion into the Consortium, whereas the desirable characteristics are aspirational. The review committee will evaluate all model-candidates against these criteria. [The Model Quality Check-list](/resources/VIMC_model_standards.pdf) is available as an attachment. 
+The Consortium has developed a set of standards that all Consortium models are required to meet to successfully produce the desired outputs. [The minimum standards](/resources/VIMC_model_standards.pdf) are firm criteria for inclusion into the Consortium, whereas the desirable characteristics are aspirational. The review committee will evaluate all model-candidates against these criteria.    
 
 ## Review process:    
 
