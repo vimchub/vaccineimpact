@@ -54,8 +54,8 @@ To have your model considered by the VIMC secretariat, please email the followin
 _Note: If offered to join the Consortium, a detailed budget break-down will be requested in March 2018_
 
 ## Attachments:   
-1.	Application cover sheet template (DOC) _(forthcoming)_
-2.	[Model Quality Check-list (PDF)](/resources/VIMC_model_standards.pdf)
-3.	[Full list of countries required for the burden calculations (by antigen) – for information only (XLSX)](/resources/yf_rubella_je_countries.xlsx)
-4.	Output specifications guidance (PDF) _(forthcoming)_   
+1.	Application cover sheet template (doc) _(forthcoming)_
+2.	[Model Quality Check-list (pdf)](/resources/VIMC_model_standards.pdf)
+3.	[Full list of countries required for the burden calculations (by antigen) – for information only (xlsx)](/resources/yf_rubella_je_countries.xlsx)
+4.	Output specifications guidance (pdf) _(forthcoming)_   
 
