@@ -45,7 +45,7 @@ An anonymous review committee consisting of members internal and external to the
  
 To have your model considered by the VIMC secretariat, please email the following documents to vimc@imperial.ac.uk with a subject line **“RfP 2018 – [your disease area] – [your group name]”** by **January 30, 2018 23:00 GMT**:
 
-- [**Cover sheet**]() with basic model and author information (template attached)    
+- [**Cover sheet**]() with basic model and author information  
 - **Model documentation** that will allow assessment against quality standards (e.g. a published paper, report, or custom-written documentation)    
 - **Draft burden estimates for one country** of choice for specified disease area **(Please submit directly via Consortium delivery platform using the standardised upload templates.)**        
 
