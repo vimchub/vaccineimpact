@@ -12,7 +12,7 @@ title: REQUEST FOR PROPOSALS - closing date - January 30, 2018
 **Request for proposals (RfP) announced:** December 19, 2017    
 **Closing date:** January 30, 2018    
 **Review outcomes:** mid-March 2018    
-**Duration:** 12 months in the first instance (with a strong possibility of renewal for the duration of the Consortium)     
+**Duration:** 12 months in the first instance _(with a strong possibility of renewal for the duration of the Consortium)_     
 **Funds available:** up to $65,000       
 
 ## Background:
