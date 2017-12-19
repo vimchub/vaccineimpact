@@ -1,5 +1,5 @@
 ---
-title: REQUEST FOR PROPOSALS for yellow fever, rubella, and Japanese encephalitis vaccine impact models to be included in the Vaccine Impact Modelling Consortium    
+title: REQUEST FOR PROPOSALS for yellow fever, rubella, and Japanese encephalitis - closing date - January 30, 2018
 
 ---
 
@@ -15,9 +15,9 @@ title: REQUEST FOR PROPOSALS for yellow fever, rubella, and Japanese encephaliti
 
 The Vaccine Impact Modelling Consortium (VIMC) was launched in November 2016 for a five-year period in response to an identified need by Gavi and the Bill & Melinda Gates Foundation to estimate global vaccine impact more consistently and reliably. The funders use the results to track progress, to project the likely future impact of vaccines in the current portfolio as well as to forecast the impact of potential future investments. 
 
-The VIMC coordinates the ongoing work of modelling groups from a range of research institutions and is led by a secretariat based at Imperial College London. We are looking for modelling groups interested in joining the Consortium and able to meet the output requirements as stipulated by the secretariat and the funders. The current portfolio of diseases includes: hepatitis B, Hib (Haemophilus influenzae type b), human papilloma virus (HPV), Japanese encephalitis, measles, meningitis A, pneumococcus, rubella, rotavirus, and yellow fever.
+The VIMC coordinates the ongoing work of modelling groups from a range of research institutions and is led by a secretariat based at Imperial College London. We are looking for modelling groups interested in joining the Consortium and able to meet the output requirements as stipulated by the secretariat and the funders. The current portfolio of diseases includes: hepatitis B, Hib (_Haemophilus influenzae type b_), human papilloma virus (HPV), Japanese encephalitis, measles, meningitis A, pneumococcus, rubella, rotavirus, and yellow fever.
 
-Through this open call, we are looking to recruit models for yellow fever, rubella, and Japanese encephalitis (JE). At a maximum, the Consortium can fund two modelling groups per disease area. Current Consortium models in the specified disease areas will be requested to re-apply along with the external groups.
+**Through this open call, we are looking to recruit models for yellow fever, rubella, and Japanese encephalitis (JE).** At a maximum, the Consortium can fund two modelling groups per disease area. Current Consortium models in the specified disease areas will be requested to re-apply along with the external groups.
 
 ## Work required:
 
@@ -45,15 +45,15 @@ An anonymous review committee consisting of members internal and external to the
  
 To have your model considered by the VIMC secretariat, please email the following documents to vimc@imperial.ac.uk with a subject line **“RfP 2018 – [your disease area] – [your group name]”** by **January 30, 2018 23:00 GMT**:
 
-- **Cover sheet** with basic model and author information (template attached)    
+- [**Cover sheet**] with basic model and author information (template attached)    
 - **Model documentation** that will allow assessment against quality standards (e.g. a published paper, report, or custom-written documentation)    
 - **Draft burden estimates for one country** of choice for specified disease area **(Please submit directly via Consortium delivery platform using the standardised upload templates.)**        
 
 _Note: If offered to join the Consortium, a detailed budget break-down will be requested in March 2018_
 
 ## Attachments:   
-1.	Application cover sheet template (doc) _(forthcoming)_
+1.	[Application cover sheet template (doc)]() _(forthcoming)_
 2.	[Model Quality Check-list (pdf)](/resources/VIMC_model_standards.pdf)
 3.	[Full list of countries required for the burden calculations (by antigen) – for information only (xlsx)](/resources/yf_rubella_je_countries.xlsx)
-4.	Output specifications guidance (pdf) _(forthcoming)_   
+4.	[Output specifications guidance (pdf)]() _(forthcoming)_   
 
