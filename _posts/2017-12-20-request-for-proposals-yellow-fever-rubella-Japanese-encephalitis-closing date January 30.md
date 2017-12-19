@@ -1,7 +1,5 @@
 ---
-title: REQUEST FOR PROPOSALS   
-For yellow fever, rubella, and Japanese encephalitis vaccine impact models        
-To be included in the Vaccine Impact Modelling Consortium    
+title: REQUEST FOR PROPOSALS for yellow fever, rubella, and Japanese encephalitis vaccine impact models to be included in the Vaccine Impact Modelling Consortium    
 
 ---
 
