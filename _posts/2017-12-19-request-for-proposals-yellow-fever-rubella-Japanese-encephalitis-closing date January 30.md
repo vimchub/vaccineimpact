@@ -16,7 +16,7 @@ title: REQUEST FOR PROPOSALS - closing date - January 30, 2018
 
 ## Background:
 
-[The Vaccine Impact Modelling Consortium](/aboutus) was launched in November 2016 for a five-year period in response to an identified need by [Gavi and the Bill & Melinda Gates Foundation](/partners/#funders) to estimate global vaccine impact more consistently and reliably. The funders use the results to track progress, to project the likely future impact of vaccines in the current portfolio as well as to forecast the impact of potential future investments. 
+[The Vaccine Impact Modelling Consortium](https://www.vaccineimpact.org/aboutus) was launched in November 2016 for a five-year period in response to an identified need by [Gavi and the Bill & Melinda Gates Foundation](/partners/#funders) to estimate global vaccine impact more consistently and reliably. The funders use the results to track progress, to project the likely future impact of vaccines in the current portfolio as well as to forecast the impact of potential future investments. 
 
 The Consortium coordinates the ongoing work of modelling groups from a range of research institutions and is led by a secretariat based at [Imperial College London](https://www.imperial.ac.uk/school-public-health/infectious-disease-epidemiology/). We are looking for modelling groups interested in joining the Consortium and able to meet the output requirements as stipulated by the secretariat and the funders. The current portfolio of diseases includes: hepatitis B, Hib (_Haemophilus influenzae type b_), human papilloma virus (HPV), Japanese encephalitis, measles, meningitis A, pneumococcus, rubella, rotavirus, and yellow fever.
 
