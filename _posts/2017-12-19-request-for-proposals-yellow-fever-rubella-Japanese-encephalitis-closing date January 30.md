@@ -3,8 +3,13 @@ title: REQUEST FOR PROPOSALS - closing date - January 30, 2018
 
 ---
 
-# Vaccine impact models for yellow fever, rubella, and Japanese encephalitis        
-
+# Vaccine impact models for  
+---
+# Yellow fever,  
+---
+# Rubella,      
+---
+# Japanese encephalitis        
 ---    
 
 ## Timeline:   
