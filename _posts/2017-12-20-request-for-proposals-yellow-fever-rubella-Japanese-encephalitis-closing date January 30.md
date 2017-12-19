@@ -25,7 +25,7 @@ Through this open call, we are looking to recruit models for yellow fever, rubel
 
 The primary objective of the Consortium is to model vaccine impact, and the modelling groups are responsible for calculating disease burden defined as: i) number of cases averted; ii) number of deaths averted; and iii) Disability-Adjusted Life Years (DALYs) averted. 
 
-The countries for which the estimates are provided include all Gavi-support eligible countries (historic and current) where the specific disease is endemic. For rubella these include a total of 98 countries, for yellow fever a total of 35 countries, and for JE as total of 15 countries. [The full list of countries](/resources/yf_rubella_je_countries.xls) is available as an attachment. 
+The countries for which the estimates are provided include all Gavi-support eligible countries (historic and current) where the specific disease is endemic. For rubella these include a total of 98 countries, for yellow fever a total of 35 countries, and for JE as total of 15 countries. [The full list of countries](/resources/yf_rubella_je_countries.xlsx) is available as an attachment. 
 
 ## Deliverables: 
 
@@ -56,6 +56,6 @@ _Note: If offered to join the Consortium, a detailed budget break-down will be r
 ## Attachments:   
 1.	Application cover sheet template (DOC) _(forthcoming)_
 2.	[Model Quality Check-list (PDF)](/resources/VIMC_model_standards.pdf)
-3.	[Full list of countries required for the burden calculations (by antigen) – for information only (XLS)](/resources/yf_rubella_je_countries.xls)
+3.	[Full list of countries required for the burden calculations (by antigen) – for information only (XLSX)](/resources/yf_rubella_je_countries.xlsx)
 4.	Output specifications guidance (PDF) _(forthcoming)_   
 
