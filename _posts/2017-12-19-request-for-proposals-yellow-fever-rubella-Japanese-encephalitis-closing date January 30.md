@@ -21,13 +21,13 @@ title: REQUEST FOR PROPOSALS - closing date - January 30, 2018
 
 The Consortium coordinates the ongoing work of modelling groups from a range of research institutions and is led by a secretariat based at [Imperial College London](https://www.imperial.ac.uk/school-public-health/infectious-disease-epidemiology/). We are looking for modelling groups interested in joining the Consortium and able to meet the output requirements as stipulated by the secretariat and the funders. The current portfolio of diseases includes: hepatitis B, Hib (_Haemophilus influenzae type b_), human papilloma virus (HPV), Japanese encephalitis, measles, meningitis A, pneumococcus, rubella, rotavirus, and yellow fever.
 
-**Through this open call, we are looking to recruit models for yellow fever, rubella, and Japanese encephalitis (JE).** At a maximum, the Consortium can fund two modelling groups per disease area. Current Consortium models in the specified disease areas will be requested to re-apply along with the external groups.
+**Through this open call, we are looking to recruit models for yellow fever, rubella, and Japanese encephalitis.** At a maximum, the Consortium can fund two modelling groups per disease area. Current Consortium models in the specified disease areas will be requested to re-apply along with the external groups.
 
 ## Work required:
 
 The primary objective of the Consortium is to model vaccine impact, and the modelling groups are responsible for calculating disease burden defined as: i) number of cases averted; ii) number of deaths averted; and iii) Disability-Adjusted Life Years (DALYs) averted. 
 
-The countries for which the estimates are provided include all Gavi-support eligible countries (historic and current) where the specific disease is endemic. [For rubella these include a total of 98 countries, for yellow fever a total of 35 countries, and for JE as total of 15 countries.](/resources/VIMC_countries.xlsx) 
+The countries for which the estimates are provided include all Gavi-support eligible countries (historic and current) where the specific disease is endemic. [For rubella these include a total of 98 countries, for yellow fever a total of 35 countries, and for Japanese encephalitis a total of 15 countries.](/resources/VIMC_countries.xlsx) 
 
 ## Deliverables: 
 
