@@ -48,15 +48,15 @@ An anonymous review committee consisting of members internal and external to the
  
 To have your model considered by the VIMC secretariat, please email the following documents to <a href="mailto:vimc@imperial.ac.uk">vimc@imperial.ac.uk</a> with a subject line **“RfP 2018 – [your disease area] – [your group name]”** by **January 30, 2018 23:00 GMT**:
 
-- [**Cover sheet**]() with basic model and author information  
+- **Cover sheet** with basic model and author information  
 - **Model documentation** that will allow assessment against quality standards (e.g. a published paper, report, or custom-written documentation)    
 - **Draft burden estimates for one country** of choice for specified disease area *(Please submit **directly via Consortium delivery platform** using the standardised upload templates.)*        
 
 _Note: If offered to join the Consortium, a detailed budget break-down will be requested in March 2018_
 
 ## Attachments:   
-1.	[Application cover sheet template (doc)]() _(forthcoming)_
+1.	Application cover sheet template (doc) _(forthcoming)_
 2.	[Model Quality Check-list (pdf)](/resources/VIMC_model_standards.pdf)
 3.	[Full list of countries required for the disease burden calculations – for information only (xlsx)](/resources/VIMC_countries.xlsx)
-4.	[Output specifications guidance (pdf)]() _(forthcoming)_   
+4.	Output specifications guidance (pdf) _(forthcoming)_   
 
