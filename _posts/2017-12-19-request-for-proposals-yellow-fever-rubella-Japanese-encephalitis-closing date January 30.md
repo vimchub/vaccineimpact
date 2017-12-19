@@ -27,7 +27,7 @@ The Consortium coordinates the ongoing work of modelling groups from a range of 
 
 The primary objective of the Consortium is to model vaccine impact, and the modelling groups are responsible for calculating disease burden defined as: i) number of cases averted; ii) number of deaths averted; and iii) Disability-Adjusted Life Years (DALYs) averted. 
 
-The countries for which the estimates are provided include all Gavi-support eligible countries (historic and current) where the specific disease is endemic. [For rubella these include a total of 98 countries, for yellow fever a total of 35 countries, and for JE as total of 15 countries.](/resources/yf_rubella_je_countries.xlsx) 
+The countries for which the estimates are provided include all Gavi-support eligible countries (historic and current) where the specific disease is endemic. [For rubella these include a total of 98 countries, for yellow fever a total of 35 countries, and for JE as total of 15 countries.](/resources/VIMC_countries.xlsx) 
 
 ## Deliverables: 
 
@@ -58,6 +58,6 @@ _Note: If offered to join the Consortium, a detailed budget break-down will be r
 ## Attachments:   
 1.	[Application cover sheet template (doc)]() _(forthcoming)_
 2.	[Model Quality Check-list (pdf)](/resources/VIMC_model_standards.pdf)
-3.	[Full list of countries required for the burden calculations (by antigen) – for information only (xlsx)](/resources/yf_rubella_je_countries.xlsx)
+3.	[Full list of countries required for the burden calculations (by antigen) – for information only (xlsx)](/resources/VIMC_countries.xlsx)
 4.	[Output specifications guidance (pdf)]() _(forthcoming)_   
 
