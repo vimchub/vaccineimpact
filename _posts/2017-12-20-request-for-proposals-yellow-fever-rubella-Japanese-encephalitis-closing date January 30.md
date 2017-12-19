@@ -55,7 +55,7 @@ _Note: If offered to join the Consortium, a detailed budget break-down will be r
 
 ## Attachments:   
 1.	Application cover sheet template (DOC) _(forthcoming)_
-2.	[Model Quality Check-list (PDF)]()
-3.	[Full list of countries required for the burden calculations (by antigen) – for information only (XLS)]()
+2.	[Model Quality Check-list (PDF)](resources/VIMC_model_standards.pdf)
+3.	[Full list of countries required for the burden calculations (by antigen) – for information only (XLS)](resources/yf_rubella_je_countries.xls)
 4.	Output specifications (PDF) _(forthcoming)_   
 
