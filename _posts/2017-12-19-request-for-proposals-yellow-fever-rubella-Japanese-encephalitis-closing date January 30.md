@@ -62,5 +62,5 @@ _Note: If offered to join the Consortium, a detailed budget break-down will be r
 1.	[Application cover sheet template (docx)](/resources/VIMC_applicant_cover_sheet.docx)
 2.	[Model Quality Check-list (pdf)](/resources/VIMC_model_standards.pdf)
 3.	[Full list of countries required for the disease burden calculations – for information only (xlsx)](/resources/VIMC_countries.xlsx)
-4.	Output specifications guidance (pdf) _(forthcoming)_   
+4.	[Output specifications guidance (pdf)](/resources/VIMC_output_specifications_guidance.pdf)      
 
