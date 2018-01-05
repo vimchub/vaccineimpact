@@ -45,7 +45,8 @@ navbar-links:
     - Yellow fever: "diseases/yellow-fever"
   News: "news"
   Resources:
-    - Publications: "publications"
+    - Publications: "publications"   
+    - Newsletters: "newsletters"
     - Reports: "reports"
     - Other resources: "resources"
 
