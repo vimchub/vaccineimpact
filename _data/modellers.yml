@@ -73,6 +73,13 @@
   title_link: /models/hpv
   email: marc.brisson@crchudequebec.ulaval.ca
   img: '/img/people/Marc_Brisson.png'
+  
+- name: Kaja Abbas   
+  url: https://www.lshtm.ac.uk/aboutus/people/abbas.kaja   
+  title: PRIME (HPV model)   
+  title_link: /models/hpv   
+  email: Kaja.Abbas@lshtm.ac.uk   
+  img: '/img/people/Kaja_Abbas.png'   
  
 - name: Steven Sweet
   url: http://chds.hsph.harvard.edu/People/Steven-Sweet
