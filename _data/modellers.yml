@@ -45,6 +45,12 @@
   title_link: /models/hib
   email: colin.sanderson@lshtm.ac.uk
   img: '/img/people/Colin_Sanderson.png'
+  
+- name: Kevin van Zandvoort   
+  url: https://www.linkedin.com/in/kevinvanzandvoort/   
+  title: TRIVAC, PRIME and DynaMICE   
+  email: Kevin.Van-Zandvoort@lshtm.ac.uk   
+  img: '/img/people/Kevin_van_Zandvoort.png'
  
 - name: Yvonne Tam
   url: https://www.jhsph.edu/faculty/directory/profile/2424/yvonne-yin-on-tam
@@ -185,3 +191,10 @@
   title_link: /models/yellow-fever
   email:  k.gaythorpe@imperial.ac.uk
   img: '/img/people/Katy_Gaythorpe.png'    
+  
+- name: K%C3%A9vin Jean
+  url: https://www.linkedin.com/in/k%C3%A9vin-jean-987ba657/   
+  title: Yellow fever model
+  title_link: /models/yellow-fever
+  email: kevin.jean.lab@gmail.com   
+  img: '/img/people/Kevin_Jean.png'
