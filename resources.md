@@ -3,6 +3,8 @@ title: Other resources
 ---   
 ## Consortium materials
 
+**[Access Montagu (log-in required)](https://montagu.vaccineimpact.org/)**
+
 **[Consortium Summary 2017 (pdf)](/resources/VIMC_consortium_summary_2017.pdf)**
 
 **[Consortium Organizational Chart 2017 (pdf)](/resources/VIMC_orgchart_2017.pdf)**
