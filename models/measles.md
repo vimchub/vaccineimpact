@@ -13,7 +13,7 @@ A state-space statistical framework is used to fit a dynamic transmission model 
 <div id="LSHTM"></div>
 
 **Model name:** DynaMICE (Measles model)    
-**Modellers:** [Mark Jit](http://www.lshtm.ac.uk/aboutus/people/jit.mark), [Stéphane Verguet](https://www.hsph.harvard.edu/stephane-verguet/)    
+**Modellers:** [Mark Jit](http://www.lshtm.ac.uk/aboutus/people/jit.mark), [Stéphane Verguet](https://www.hsph.harvard.edu/stephane-verguet/), [Petra Klepac](https://www.lshtm.ac.uk/aboutus/people/klepac.petra)       
 **Institution:** [London School of Hygiene & Tropical Medicine (LSHTM)](http://www.lshtm.ac.uk/)
 
 DynaMICE (Dynamic Measles Immunisation Calculation Engine) is a compartmental dynamic model of measles transmission and disease. It was developed by investigators at the London School of Hygiene & Tropical Medicine, Harvard University and the University of Montreal, initially with WHO funding to inform the impact of measles SIAs. It has now been expanded to consider the impact of routine first and second dose as well as Supplementary Immunisation Activities (SIAs) in all Decade of Vaccines countries under a variety of schedules.
