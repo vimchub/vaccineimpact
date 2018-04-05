@@ -3,7 +3,7 @@ title: Hib, rotavirus, and pneumococcal models
 ---
 
 **Model name:** TRIVAC (Hib, rotavirus and pneumo model)    
-**Modellers:**  [Andrew Clark](http://www.lshtm.ac.uk/aboutus/people/clark.andrew), [Colin Sanderson](http://www.lshtm.ac.uk/aboutus/people/sanderson.colin)     
+**Modellers:**  [Andrew Clark](http://www.lshtm.ac.uk/aboutus/people/clark.andrew), [Colin Sanderson](http://www.lshtm.ac.uk/aboutus/people/sanderson.colin), [Petra Klepac](https://www.lshtm.ac.uk/aboutus/people/klepac.petra), [Kaja Abbas](https://www.lshtm.ac.uk/aboutus/people/abbas.kaja), [Kevin van Zandvoort](https://www.lshtm.ac.uk/aboutus/people/van-zandvoort.kevin)         
 **Institution:** [London School of Hygiene and Tropical Medicine (LSHTM)](http://www.lshtm.ac.uk/)
 
 TRIVAC is a simple Excel-based static cohort model.  The model was originally developed to provide national ministries of health in low and middle income countries with conservative estimates of the impact and cost-effectiveness of routine Hib, rotavirus and pneumococcal vaccination.  TRIVAC has also been used to provide Gavi with conservative estimates of the number of cases, deaths and Disability-Adjusted Life Years (DALYs) prevented by these vaccines over the period 2001-2030 in countries involved in WHO’s Global Vaccine Action Plan (GVAP).  
