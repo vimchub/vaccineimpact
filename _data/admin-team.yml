@@ -1,11 +1,11 @@
-- name: Evgenia Markvardt
-  url: http://www.imperial.ac.uk/people/e.markvardt
-  title: Project Manager
-  email: e.markvardt@imperial.ac.uk 
-  img: /img/people/Evgenia_Markvardt.png
-
 - name: Kim Woodruff
   url: http://www.imperial.ac.uk/people/k.woodruff
-  title: Project Coordinator 
+  title: Project Manager
   email: k.woodruff@imperial.ac.uk
   img: /img/people/Kim_Woodruff.png
+
+- name: TBC - recruiting now
+  url: http://www.jobs.ac.uk/job/BJB080/project-coordinator
+  title: Project Coordinator 
+  email: 
+  img: /img/people/placeholder.png
