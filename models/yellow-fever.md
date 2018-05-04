@@ -2,6 +2,16 @@
 title: Yellow fever models
 ---
 
+
+
+**Model name:** Yellow fever model   
+**Modellers:** [Alex Perkins](http://biology.nd.edu/people/alex-perkins/) and [Sean Moore](https://biology.nd.edu/people/sean-moore/)   
+**Institution:** [University of Notre Dame](https://www.nd.edu)   
+
+The model represents zoonotic spillover with a Poisson process driven by spatially variable rates accounting for population, coverage, and environmental factors. It represents an urban transmission cycle with a branching process driven by spillover and with SIR dynamics in the event of a large outbreak. The model's current focus is on South America, and extension to Africa is in progress.  
+
+
+
 **Model name:** Yellow fever model        
 **Modellers:** [Tini Garske](http://www.imperial.ac.uk/people/t.garske), [Katy Gaythorpe](http://www.imperial.ac.uk/people/k.gaythorpe), [Kévin Jean](https://www.linkedin.com/in/k%C3%A9vin-jean-987ba657/)       
 **Institution:** [Imperial College London](https://www.imperial.ac.uk/school-public-health/infectious-disease-epidemiology/)
@@ -23,14 +33,6 @@ A generalised linear model was fitted to locations of reported yellow fever outb
 > Countries not considered endemic for yellow fever are shown in navy (A, B, and D) or white (C).
 
 > From Garske, T., Van Kerkhove, M. D., Yactayo, S., Ronveaux, O., Lewis, R. F., Staples, J. E., Comm, Y. F. E. (2014). [Yellow Fever in Africa: Estimating the Burden of Disease and Impact of Mass Vaccination from Outbreak and Serological Data.](https://doi.org/10.1371/journal.pmed.1001638) PLoS Med, 11(5): e1001638 Licensed under a [Creative Commons CC0 public domain dedication](https://creativecommons.org/choose/zero/)    
-
-
-
-**Model name:** Yellow fever model
-**Modellers:** [Alex Perkins](http://biology.nd.edu/people/alex-perkins/) and [Sean Moore] (https://biology.nd.edu/people/sean-moore/)
-**Institution:** [University of Notre Dame](https://www.nd.edu)   
-
-The model represents zoonotic spillover with a Poisson process driven by spatially variable rates accounting for population, coverage, and environmental factors. It represents an urban transmission cycle with a branching process driven by spillover and with SIR dynamics in the event of a large outbreak. The model's current focus is on South America, and extension to Africa is in progress.   
 
 ---
 
