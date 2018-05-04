@@ -185,6 +185,34 @@
   email: timos.papadopoulos@phe.gov.uk   
   img: '/img/people/Timos_Papadopoulos.png'   
 
+- name: Justin Lessler   
+  url: https://www.jhsph.edu/faculty/directory/profile/2566/justin-lessler   
+  title: Rubella model   
+  title_link: /models/rubella   
+  email:  justin@jhu.edu   
+  img: '/img/people/Justin_Lessler.png'   
+  
+- name: Amy Winter  
+  url: https://scholar.google.com/citations?user=Y4PDlfkAAAAJ&hl=en&oi=ao   
+  title: Rubella model   
+  title_link: /models/rubella   
+  email:  akwinter@jhu.edu    
+  img: '/img/people/Amy_Winter.png'   
+  
+- name: Shaun Truelove
+  url: https://www.linkedin.com/in/shaun-truelove-ba9315a/      
+  title: Rubella model   
+  title_link: /models/rubella   
+  email: shauntruelove@jhu.edu        
+  img: '/img/people/Shaun_Truelove.png'   
+  
+- name: Jessica Metcalf   
+  url: http://metcalflab.princeton.edu/about-jess/     
+  title: Rubella model   
+  title_link: /models/rubella   
+  email: cmetcalf@princeton.edu     
+  img: '/img/people/Jess_Metcalf.png' 
+  
 - name: Tini Garske
   url: http://www.imperial.ac.uk/people/t.garske
   title: Yellow fever model 
