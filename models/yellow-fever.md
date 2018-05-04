@@ -27,9 +27,10 @@ A generalised linear model was fitted to locations of reported yellow fever outb
 
 **Model name:** Yellow fever model
 **Modellers:** [Alex Perkins](http://biology.nd.edu/people/alex-perkins/) and [Sean Moore] (https://biology.nd.edu/people/sean-moore/)
-**Institution:** [University of Notre Dame](https://www.nd.edu)
+**Institution:** [University of Notre Dame](https://www.nd.edu)   
 
 The model represents zoonotic spillover with a Poisson process driven by spatially variable rates accounting for population, coverage, and environmental factors. It represents an urban transmission cycle with a branching process driven by spillover and with SIR dynamics in the event of a large outbreak. The model's current focus is on South America, and extension to Africa is in progress.   
+
 ---
 
 [More about yellow fever](/diseases/yellow-fever)  
