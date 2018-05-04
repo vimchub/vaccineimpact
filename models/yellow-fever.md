@@ -25,6 +25,7 @@ A generalised linear model was fitted to locations of reported yellow fever outb
 > From Garske, T., Van Kerkhove, M. D., Yactayo, S., Ronveaux, O., Lewis, R. F., Staples, J. E., Comm, Y. F. E. (2014). [Yellow Fever in Africa: Estimating the Burden of Disease and Impact of Mass Vaccination from Outbreak and Serological Data.](https://doi.org/10.1371/journal.pmed.1001638) PLoS Med, 11(5): e1001638 Licensed under a [Creative Commons CC0 public domain dedication](https://creativecommons.org/choose/zero/)    
 
 
+
 **Model name:** Yellow fever model
 **Modellers:** [Alex Perkins](http://biology.nd.edu/people/alex-perkins/) and [Sean Moore] (https://biology.nd.edu/people/sean-moore/)
 **Institution:** [University of Notre Dame](https://www.nd.edu)   
