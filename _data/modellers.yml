@@ -38,26 +38,6 @@
   title_link: /models/hep-b#independent
   email: xi.cira.li@gmail.com
   img: '/img/people/Xi_Li.png'
-  
-- name: Andrew Clark
-  url: http://www.lshtm.ac.uk/aboutus/people/clark.andrew
-  title: TRIVAC (Hib, rotavirus and pneumococcal model)
-  title_link: /models/hib
-  email: andrew.clark@lshtm.ac.uk  
-  img: '/img/people/Andy_Clark.png'
- 
-- name: Colin Sanderson 
-  url: http://www.lshtm.ac.uk/aboutus/people/sanderson.colin
-  title: TRIVAC (Hib, rotavirus and pneumococcal model) 
-  title_link: /models/hib
-  email: colin.sanderson@lshtm.ac.uk
-  img: '/img/people/Colin_Sanderson.png'
-  
-- name: Kevin van Zandvoort   
-  url: https://www.linkedin.com/in/kevinvanzandvoort/   
-  title: TRIVAC, PRIME and DynaMICE   
-  email: Kevin.Van-Zandvoort@lshtm.ac.uk   
-  img: '/img/people/Kevin_van_Zandvoort.png'
  
 - name: Yvonne Tam
   url: https://www.jhsph.edu/faculty/directory/profile/2424/yvonne-yin-on-tam
@@ -75,10 +55,41 @@
  
 - name: Mark Jit
   url: http://www.lshtm.ac.uk/aboutus/people/jit.mark
-  title: PRIME (HPV model) 
-  title_link: /models/hpv
+  title: PRIME (HPV model) and DynaMICE
   email: Mark.Jit@lshtm.ac.uk
-  img: '/img/people/Mark_Jit.png'
+  img: '/img/people/Mark_Jit.png'   
+  
+- name: Andrew Clark
+  url: http://www.lshtm.ac.uk/aboutus/people/clark.andrew
+  title: TRIVAC (Hib, rotavirus and pneumococcal model)
+  title_link: /models/hib
+  email: andrew.clark@lshtm.ac.uk  
+  img: '/img/people/Andy_Clark.png'
+
+- name: Kaja Abbas   
+  url: https://www.lshtm.ac.uk/aboutus/people/abbas.kaja   
+  title: TRIVAC, PRIME and DynaMICE    
+  email: Kaja.Abbas@lshtm.ac.uk   
+  img: '/img/people/Kaja_Abbas.png'   
+  
+- name: Petra Klepac
+  url: http://www.petraklepac.com/Site/Home.html   
+  title: TRIVAC, PRIME and DynaMICE   
+  email: Petra.Klepac@lshtm.ac.uk
+  img: '/img/people/Petra_Klepac.png'   
+    
+- name: Kevin van Zandvoort   
+  url: https://www.linkedin.com/in/kevinvanzandvoort/   
+  title: TRIVAC, PRIME and DynaMICE   
+  email: Kevin.Van-Zandvoort@lshtm.ac.uk   
+  img: '/img/people/Kevin_van_Zandvoort.png'
+ 
+ - name: Colin Sanderson 
+  url: http://www.lshtm.ac.uk/aboutus/people/sanderson.colin
+  title: TRIVAC (Hib, rotavirus and pneumococcal model) 
+  title_link: /models/hib
+  email: colin.sanderson@lshtm.ac.uk
+  img: '/img/people/Colin_Sanderson.png'
  
 - name: Marc Brisson
   url: http://www.marc-brisson.net/
@@ -86,14 +97,14 @@
   title_link: /models/hpv
   email: marc.brisson@crchudequebec.ulaval.ca
   img: '/img/people/Marc_Brisson.png'
+
+  - name: Stéphane Verguet
+  url: https://www.hsph.harvard.edu/stephane-verguet/
+  title: DynaMICE (Measles model)
+  title_link: /models/measles#LSHTM
+  email: verguet@hsph.harvard.edu 
+  img: '/img/people/Stephane_Verguet.png'   
   
-- name: Kaja Abbas   
-  url: https://www.lshtm.ac.uk/aboutus/people/abbas.kaja   
-  title: PRIME (HPV model)   
-  title_link: /models/hpv   
-  email: Kaja.Abbas@lshtm.ac.uk   
-  img: '/img/people/Kaja_Abbas.png'   
- 
 - name: Steven Sweet
   url: http://chds.hsph.harvard.edu/People/Steven-Sweet
   title: HPV model 
@@ -135,20 +146,6 @@
   title_link: /models/measles
   email: eilertson@psu.edu
   img: '/img/people/Kirsten_Eilertson.png'
-  
-- name: Mark Jit
-  url: http://www.lshtm.ac.uk/aboutus/people/jit.mark
-  title: DynaMICE (Measles model)
-  title_link: /models/measles#LSHTM
-  email: Mark.Jit@lshtm.ac.uk
-  img: '/img/people/Mark_Jit.png'
-  
-- name: Stéphane Verguet
-  url: https://www.hsph.harvard.edu/stephane-verguet/
-  title: DynaMICE (Measles model)
-  title_link: /models/measles#LSHTM
-  email: verguet@hsph.harvard.edu 
-  img: '/img/people/Stephane_Verguet.png'
   
 - name: Caroline Trotter
   url: http://www.infectiousdisease.cam.ac.uk/directory/clt56@cam.ac.uk
