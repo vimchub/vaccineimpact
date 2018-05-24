@@ -98,7 +98,7 @@
   email: marc.brisson@crchudequebec.ulaval.ca
   img: '/img/people/Marc_Brisson.png'
 
-  - name: Stéphane Verguet
+- name: Stéphane Verguet
   url: https://www.hsph.harvard.edu/stephane-verguet/
   title: DynaMICE (Measles model)
   title_link: /models/measles#LSHTM
