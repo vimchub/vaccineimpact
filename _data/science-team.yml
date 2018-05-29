@@ -9,22 +9,27 @@
   email: r.fitzjohn@imperial.ac.uk
   img: /img/people/Rich_FitzJohn.png
   
-- name: Wes Hinsley 
-  title: GIS/Database/HPTC Analyst 
-  email: w.hinsley@imperial.ac.uk 
-  img: /img/people/Wes_Hinsley.png
-  
 - name: Alex Hill   
   url: https://www.linkedin.com/in/alexandrahillphd/      
   title: Senior Web Application Developer 
   email: a.hill@imperial.ac.uk       
   img: /img/people/Alex_Hill.png   
   
+- name: Wes Hinsley 
+  title: GIS/Database/HPTC Analyst 
+  email: w.hinsley@imperial.ac.uk 
+  img: /img/people/Wes_Hinsley.png
+  
 - name: Xiang Li 
   title: Consortium Research Associate
   email: x.li@imperial.ac.uk 
   img: /img/people/Xiang_Li.png 
- 
+  
+- name: Christinah Mukandavire
+  title: Consortium Research Fellow
+  email: c.mukandavire@imperial.ac.uk
+  img: /img/people/placeholder.png 
+  
 - name: James Thompson 
   title: Senior R Developer / Data Scientist
   email: james.thompson@imperial.ac.uk
