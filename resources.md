@@ -36,7 +36,9 @@ title: Other resources
 **[WHO Initiative for Vaccine Research (IVR)](http://www.who.int/immunization/en/)**      
 
 
+## Other modelling initiatives
 
+**[Technical Consultation on Modelling of Hepatitis B]
 
 
 
