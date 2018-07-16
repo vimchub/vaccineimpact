@@ -39,7 +39,7 @@ title: Other resources
 
 ## Other modelling initiatives
 
-**[Technical Consultation on Modelling of Hepatitis B]**
+**[Technical Consultation on Modelling of Hepatitis B](/resources/VIMC_HBV_Meeting_Report_July18.pdf)** 
 
 
 
