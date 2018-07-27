@@ -3,7 +3,7 @@ title: Hepatitis B models
 ---
 
 **Model name:**  PRoGReSs (Hepatitis B model)    
-**Modellers:**   [Homie Razavi](http://centerforda.com/our_team.htm), [Devin Razavi-Shearer](http://centerforda.com/our_team.htm)    
+**Modellers:**   [Homie Razavi](http://cdafound.org/our-team/), [Devin Razavi-Shearer](http://cdafound.org/our-team/)    
 **Institution:** [Center for Disease Analysis (CDA)](http://cdafound.org/)
 
 The PRoGReSs Model is a dynamic model that quantifies the HBV-infected population by year, disease stage, sex, and age. The model also quantifies the susceptible population by the aforementioned categories with the exclusion of disease stage. The PRoGReSs model is designed to assess the impact of different strategies composed of any combination of perinatal prophylaxes (birth dose, three dose, hepatitis B immune globulin, and antiviral treatment of mothers) and/or the treatment of the population in reducing the burden of hepatitis B virus in a country. 
