@@ -3,6 +3,7 @@ title: Newsletters
 ---   
 ## Consortium newsletters
 
+**[Consortium Newsletter - August 2018] (https://mailchi.mp/ed8266c31e67/vaccine-impact-modelling-consortium-newsletter-aug-2018)** 
 
 **[Consortium Newsletter - April 2018](https://mailchi.mp/ac873b77ed74/vaccine-impact-modelling-consortium-newsletter-april-2018-320379)** 
 
