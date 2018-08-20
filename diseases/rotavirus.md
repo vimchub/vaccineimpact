@@ -10,7 +10,8 @@ The most recent rotavirus outbreak took place in the Solomon Islands in April-Ju
 ---
 
 **Model name:**  [TRIVAC (Hib, rotavirus and pneumo model)](/models/hib)  
-**Model name:**  [Lives Saved Tool (LiST) (Hib, rotavirus and pneumo model)](/models/hib#jhu)  
+**Model name:**  [Lives Saved Tool (LiST) (Hib, rotavirus and pneumo model)](/models/hib#jhu) 
+**Model name:**  [Emory Rotavirus Vaccine Model] (/models/hib#Emory)
 
 ---
 
