@@ -252,16 +252,16 @@
   email: smoore15@nd.edu   
   img: '/img/people/Sean_Moore.png'  
   
-  - name: Ben Lopman
+- name: Ben Lopman
   url: https://www.sph.emory.edu/faculty/profile/#!BLOPMAN
   title: Rotavirus Model 
   title_link: /models/hib
   email: benjamin.alan.lopman@emory.edu
   img: '/img/people/Ben_Lopman.png'  
   
-   - name: Molly Steele
+- name: Molly Steele
   url: https://www.sph.emory.edu/departments/eh/people/phd-students/index.html
   title: Rotavirus Model 
   title_link: /models/hib
   email: mksteel@emory.edu
-  img: '/img/people/Ben_Lopman.png'  
+  img: '/img/people/Molly_Steele.png'  
