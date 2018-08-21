@@ -37,7 +37,7 @@ LiST has been characterized as a linear, mathematical model that is deterministi
 
 The Emory Rotavirus Vaccine Model uses a deterministic, age-structured compartmental model of rotavirus transmission and disease.  The model follows a Susceptible–Infected–Recovered-Susceptible (SIRS) structure, with complexity added to capture rotavirus natural history. Infants are born into the model with maternal immunity.  As maternal immunity wanes, infants become susceptible to a primary rotavirus infection, which has a certain probability of causing rotavirus gastroenteritis.  
 
-We assume previous infection confers protection against both subsequent rotavirus infections and disease. Primary infections are assumed to be more infectiousness than subsequent ones.  We assume primary, secondary and tertiary infections have different probabilities for developing gastroenteritis for the probability that that disease is severe.  We assume that only severe rotavirus gastroenteritis cases progress to death. We assume that vaccine-induced immunity is similar to natural immunity. Values and ranges for natural history parameters are informed by cohort and challenge studies.
+The model assume previous infection confers protection against both subsequent rotavirus infections and disease. Primary infections are assumed to be more infectiousness than subsequent ones.  We assume primary, secondary and tertiary infections have different probabilities for developing gastroenteritis for the probability that that disease is severe.  We assume that only severe rotavirus gastroenteritis cases progress to death. We assume that vaccine-induced immunity is similar to natural immunity. Values and ranges for natural history parameters are informed by cohort and challenge studies.
 
 ---
 
