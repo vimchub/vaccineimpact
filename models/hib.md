@@ -31,8 +31,8 @@ LiST has been characterized as a linear, mathematical model that is deterministi
 <div id="Emory"></div>
 
 
-**Model name:** Emory Rotavirus Vaccine Model 
-**Modellers:** [Ben Lopman](https://www.sph.emory.edu/faculty/profile/#!BLOPMAN), [Molly Steele](https://www.sph.emory.edu/departments/eh/people/phd-students/index.html) 
+**Model name:** Emory Rotavirus Vaccine Model   
+**Modellers:** [Ben Lopman](https://www.sph.emory.edu/faculty/profile/#!BLOPMAN), [Molly Steele](https://www.sph.emory.edu/departments/eh/people/phd-students/index.html)   
 **Institution:** [Emory University Rollins School of Public Health](https://www.sph.emory.edu/index.html)
 
 The Emory Rotavirus Vaccine Model uses a deterministic, age-structured compartmental model of rotavirus transmission and disease.  The model follows a Susceptible–Infected–Recovered-Susceptible (SIRS) structure, with complexity added to capture rotavirus natural history. Infants are born into the model with maternal immunity.  As maternal immunity wanes, infants become susceptible to a primary rotavirus infection, which has a certain probability of causing rotavirus gastroenteritis.  
