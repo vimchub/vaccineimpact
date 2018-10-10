@@ -82,7 +82,7 @@ Note: If you prefer to use an alternative source for the demographic data, pleas
 
 
 
-The Consortium has developed a set of standards that all Consortium models are required to meet to successfully produce the desired outputs. [The minimum standards](/resources/4 VIMC - model standards_201810.pdf) are firm criteria for inclusion into the Consortium, whereas the desirable characteristics are aspirational. The review committee will evaluate all model-candidates against these criteria. 
+The Consortium has developed a set of standards that all Consortium models are required to meet to successfully produce the desired outputs. [The minimum standards](/resources/4_VIMC-model_standards_201810.pdf) are firm criteria for inclusion into the Consortium, whereas the desirable characteristics are aspirational. The review committee will evaluate all model-candidates against these criteria. 
 
 
 
