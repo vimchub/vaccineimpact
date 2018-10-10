@@ -56,7 +56,7 @@ The primary objective of the Consortium is to model vaccine impact, and the mode
 
 
 
-Models selected to join the Consortium will need to provide estimates for a total set of [98 countries (or 26 countries for meningitis A)] (/resources/6_VIMC_countries_201810). These include all Gavi-support eligible countries (historic and current) where the specific disease is endemic.
+Models selected to join the Consortium will need to provide estimates for a total set of [98 countries (or 26 countries for meningitis A)](/resources/6_VIMC_countries_201810). These include all Gavi-support eligible countries (historic and current) where the specific disease is endemic.
 
 
 
@@ -66,7 +66,7 @@ Models selected to join the Consortium will need to provide estimates for a tota
 
 The secretariat provides the modellers with the relevant input data (demography and vaccination coverage). The modelling groups are required to submit the disease burden calculations for at least three different scenarios through the Consortium delivery platform. Hence, the outputs need to follow a specific format. 
 
-For the purposes of this RfP, we ask the applicants to submit a set of test estimates using the same format, but only for one country (Nigeria). Applicants will be required to submit central estimates and a limited set of stochastic estimates. More details can be found in the [output specifications guidance (pdf)] (/resources/3_VIMC_output_specifications_guidance_201810.pdf).
+For the purposes of this RfP, we ask the applicants to submit a set of test estimates using the same format, but only for one country (Nigeria). Applicants will be required to submit central estimates and a limited set of stochastic estimates. More details can be found in the [output specifications guidance (pdf)](/resources/3_VIMC_output_specifications_guidance_201810.pdf).
 
 
 
