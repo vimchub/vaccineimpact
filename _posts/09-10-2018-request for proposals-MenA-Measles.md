@@ -1,5 +1,5 @@
 ---
-title: REQUEST FOR PROPOSALS - closing date - 13 June 2018
+title: REQUEST FOR PROPOSALS - closing date - 10 December 2018
 ---
 
 # Vaccine impact models for  
