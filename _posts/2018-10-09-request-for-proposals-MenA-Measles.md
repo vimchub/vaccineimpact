@@ -56,7 +56,7 @@ The primary objective of the Consortium is to model vaccine impact, and the mode
 
 
 
-Models selected to join the Consortium will need to provide estimates for a total set of [98 countries (or 26 countries for meningitis A)](/resources/6_VIMC_countries_201810). These include all Gavi-support eligible countries (historic and current) where the specific disease is endemic.
+Models selected to join the Consortium will need to provide estimates for a total set of [98 countries (or 26 countries for meningitis A)](/resources/VIMC_countries_201810). These include all Gavi-support eligible countries (historic and current) where the specific disease is endemic.
 
 
 
@@ -102,7 +102,7 @@ To have your model considered by the VIMC secretariat, please email the followin
 
 
 
-- [**Cover sheet**](/resources/VIMC_applicant_cover_sheet_201804.docx) with basic model, author information, and overall budget indication.     
+- [**Cover sheet**](/resources/VIMC_applicant_cover_sheet_201810_RfP_groups) with basic model, author information, and overall budget indication.     
 
 - **Model documentation** that will allow assessment against quality standards (e.g. a published paper, report, or custom-written documentation)    
 
