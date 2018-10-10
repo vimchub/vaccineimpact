@@ -66,7 +66,7 @@ Models selected to join the Consortium will need to provide estimates for a tota
 
 The secretariat provides the modellers with the relevant input data (demography and vaccination coverage). The modelling groups are required to submit the disease burden calculations for at least three different scenarios through the Consortium delivery platform. Hence, the outputs need to follow a specific format. 
 
-For the purposes of this RfP, we ask the applicants to submit a set of test estimates using the same format, but only for one country (Nigeria). Applicants will be required to submit central estimates and a limited set of stochastic estimates. More details can be found in the [output specifications guidance (pdf)](/resources/3_VIMC_output_specifications_guidance_201810.pdf).
+For the purposes of this RfP, we ask the applicants to submit a set of test estimates using the same format, but only for one country (Nigeria). Applicants will be required to submit central estimates and a limited set of stochastic estimates. More details can be found in the [output specifications guidance (pdf)](/resources/VIMC_output_specifications_guidance_201810.pdf).
 
 
 
@@ -82,7 +82,7 @@ Note: If you prefer to use an alternative source for the demographic data, pleas
 
 
 
-The Consortium has developed a set of standards that all Consortium models are required to meet to successfully produce the desired outputs. [The minimum standards](/resources/4_VIMC-model_standards_201810.pdf) are firm criteria for inclusion into the Consortium, whereas the desirable characteristics are aspirational. The review committee will evaluate all model-candidates against these criteria. 
+The Consortium has developed a set of standards that all Consortium models are required to meet to successfully produce the desired outputs. [The minimum standards](/resources/VIMC_model_standards_201810.pdf) are firm criteria for inclusion into the Consortium, whereas the desirable characteristics are aspirational. The review committee will evaluate all model-candidates against these criteria. 
 
 
 
@@ -102,7 +102,7 @@ To have your model considered by the VIMC secretariat, please email the followin
 
 
 
-- [**Cover sheet**](/resources/1_VIMC_applicant_cover_sheet_201804.docx) with basic model, author information, and overall budget indication.     
+- [**Cover sheet**](/resources/VIMC_applicant_cover_sheet_201804.docx) with basic model, author information, and overall budget indication.     
 
 - **Model documentation** that will allow assessment against quality standards (e.g. a published paper, report, or custom-written documentation)    
 
@@ -120,8 +120,8 @@ _Note: If your group is invited to join the Consortium, a detailed budget break-
 
 1.	 [Application cover sheet template (docx)](/resources/1_VIMC_applicant_cover_sheet_201804.docx)
 
-2.  [Model Quality Check-list (pdf)](/resources/5_VIMC_RfP_model_quality_checklist_201810.pdf)
+2.  [Model Quality Check-list (pdf)](/resources/VIMC_RfP_model_quality_checklist_201810.pdf)
 
-3.  [Model Standards (pdf)](/resources/4_VIMC-model_standards_201810.pdf)
+3.  [Model Standards (pdf)](/resources/VIMC_model_standards_201810.pdf)
 
-4.  [Output specifications guidance (pdf)](/resources/3_VIMC_output_specifications_guidance_201810.pdf)
+4.  [Output specifications guidance (pdf)](/resources/VIMC_output_specifications_guidance_201810.pdf)
