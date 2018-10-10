@@ -102,7 +102,7 @@ To have your model considered by the VIMC secretariat, please email the followin
 
 
 
-- [**Cover sheet**](/resources/VIMC_applicant_cover_sheet_201810_RfP_groups.docx) with basic model, author information, and overall budget indication.     
+- [**Cover sheet**](/resources/1_VIMC_applicant_cover_sheet_201804.docx) with basic model, author information, and overall budget indication.     
 
 - **Model documentation** that will allow assessment against quality standards (e.g. a published paper, report, or custom-written documentation)    
 
