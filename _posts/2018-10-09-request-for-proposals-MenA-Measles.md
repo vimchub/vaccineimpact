@@ -6,7 +6,7 @@ title: REQUEST FOR PROPOSALS - closing date - 10 December 2018
 
 ---
 
-*  # Men A   
+*  # Meningitis A   
 
 ---
 
@@ -40,7 +40,7 @@ The Consortium coordinates the ongoing work of modelling groups from a range of 
 
 
 
-**Through this open call, we are looking to recruit models for measles and meningitis.**
+**Through this open call, we are looking to recruit models for measles and meningitis A.**
 
 At a maximum, the Consortium can fund two modelling groups per disease area. Current Consortium models in the specified disease areas will be requested to re-apply along with the external groups.
 
