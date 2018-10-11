@@ -58,6 +58,8 @@ The primary objective of the Consortium is to model vaccine impact, and the mode
 
 Models selected to join the Consortium will need to provide estimates for a total set of [98 countries (or 26 countries for meningitis A)](/resources/VIMC_countries_201810.xlsx). These include all Gavi-support eligible countries (historic and current) where the specific disease is endemic.
 
+For meningitis, impact estimates of the pentavalent vaccine might also be of interest.   
+
 
 
 ## Deliverables:
