@@ -7,11 +7,7 @@ title: Other resources
 
 **[Consortium Summary 2017 (pdf)](/resources/VIMC_consortium_summary_2017.pdf)**
 
-**[Consortium Organizational Chart 2018 (pdf)](/resources/VIMC_organogram_2018.pdf)**
-
-**[Consortium Annual Meeting Report 2018 (pdf)](/resources/VIMC_AM_2018_summary_report_final.pdf)**
-
-**[Consortium Annual Meeting Report 2017 (pdf)](/resources/VIMC_consortium_annual_meeting_report_2017.pdf)**    
+**[Consortium Organizational Chart 2018 (pdf)](/resources/VIMC_organogram_2018.pdf)**    
 
 **[Consortium frequently used acronyms (xlsx)](/resources/VIMC_acronyms_July_2017.xlsx)**      
 
