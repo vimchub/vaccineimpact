@@ -119,12 +119,12 @@
   email: hannah.clapham@ndm.ox.ac.uk 
   img: '/img/people/Hannah_Clapham.png'   
   
-- name: Tran Minh Quan
-  url: https://www.linkedin.com/in/quan-tran-minh-148a43116/?ppe=1     
+- name: Duy Nguyen
+  url: https://www.tropicalmedicine.ox.ac.uk/research/oucru    
   title: Japanese Encephalitis (JE) model
   title_link: /models/je
-  email: quantm@oucru.org 
-  img: '/img/people/Tran_Minh_Quan.png'
+  email: duynm@oucru.org 
+  img:
    
 - name: Sean Moore   
   url: http://biology.nd.edu/people/sean-moore/   
@@ -167,13 +167,6 @@
   title_link: /models/men-a#cdc
   email: jackson.ml@ghc.org
   img: '/img/people/Mike_Jackson.png'
- 
-- name: Lucy McNamara   
-  url: http://www.linkedin.com/in/lucy-mcnamara-958b1026   
-  title: MenA model 
-  title_link: /models/men-a#cdc
-  email: xdf4@cdc.gov   
-  img: '/img/people/Lucy_McNamara.png'   
 
 - name: Emilia Vynnycky
   url: http://www.lshtm.ac.uk/aboutus/people/vynnycky.emilia
