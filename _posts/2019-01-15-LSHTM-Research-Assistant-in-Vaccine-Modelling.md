@@ -1,5 +1,5 @@
 ---
-title: New Consortium positions based at LSHTM
+title: New Research Assistant or Research Fellow in Vaccine Modelling position at LSHTM - closing date Sunday 10 Feb 2019
 ---
 
 The London School of Hygiene and Tropical Medicine is recruiting a new positions within the Vaccine Impact Modelling Consortium:
