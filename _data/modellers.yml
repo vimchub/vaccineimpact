@@ -131,7 +131,14 @@
   title: Japanese Encephalitis (JE) model   
   title_link: /models/je   
   email: smoore15@nd.edu   
-  img: '/img/people/Sean_Moore.png'   
+  img: '/img/people/Sean_Moore.png' 
+  
+- name: Quan Tran
+  url:  https://biology.nd.edu/about/personnel-directory/
+  title: Japanese Encephalitis (JE) model
+  title_link: /models/je
+  email: qtran4@nd.edu
+  img: '/img/people/Tran_Minh_Quan.png'
 
 - name: Matthew Ferrari
   url: http://bio.psu.edu/directory/mjf283
@@ -243,7 +250,14 @@
   title: Yellow fever model   
   title_link: /models/yellow-fever   
   email: smoore15@nd.edu   
-  img: '/img/people/Sean_Moore.png'  
+  img: '/img/people/Sean_Moore.png'
+  
+- name: John Huber  
+  url: https://biology.nd.edu/about/personnel-directory/
+  title: Yellow fever model   
+  title_link: /models/yellow-fever   
+  email: John.H.Huber.24@nd.edu   
+  img: '/img/people/placeholder.png'
   
 - name: Ben Lopman
   url: https://www.sph.emory.edu/faculty/profile/#!BLOPMAN
