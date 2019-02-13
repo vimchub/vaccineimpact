@@ -106,11 +106,32 @@
   img: '/img/people/Stephane_Verguet.png'   
   
 - name: Steven Sweet
-  url: http://chds.hsph.harvard.edu/People/Steven-Sweet
+  url: http://chds.hsph.harvard.edu/People/Steven-Sweet/
   title: HPV model 
   title_link: /models/hpv#harvard
   email: ssweet@hsph.harvard.edu
   img: '/img/people/Steven_Sweet.png'
+  
+- name: Jane Kim
+  url: https://chds.hsph.harvard.edu/jane-j-kim/
+  title: HPV model 
+  title_link: /models/hpv#harvard
+  email: jkim@hsph.harvard.edu
+  img: '/img/people/Jane_Kim.png'
+  
+- name: Allison Portnoy
+  url: https://scholar.harvard.edu/allisonportnoy/home
+  title: HPV model 
+  title_link: /models/hpv#harvard
+  email: aportnoy@mail.harvard.edu
+  img: '/img/people/Allison_Portnoy.png'  
+  
+- name: Stephen Resch
+  url: https://chds.hsph.harvard.edu/stephen-resch/
+  title: HPV model 
+  title_link: /models/hpv#harvard
+  email: stephen_resch@harvard.edu
+  img: '/img/people/Stephen_Resch.png'    
  
 - name: Hannah Clapham
   url: https://www.researchgate.net/profile/Hannah_Clapham
