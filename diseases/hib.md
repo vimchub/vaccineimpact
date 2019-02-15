@@ -8,7 +8,7 @@ Hib infection often leads to a variety of other diseases, including meningitis, 
 
 ---
 
-**Model name:**  [TRIVAC (Hib, rotavirus and pneumo model)](/models/hib)  
+**Model name:**  [UNIVAC (Hib, rotavirus and pneumo model)](/models/hib)  
 **Model name:**  [Lives Saved Tool (LiST) (Hib, rotavirus and pneumo model)](/models/hib#jhu) 
 
 ---
