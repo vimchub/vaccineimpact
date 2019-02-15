@@ -8,7 +8,7 @@ S. pneumoniae has shown a growing resistance to common antibiotic drugs, emphasi
 
 ---
 
-**Model name:**  [TRIVAC (Hib, rotavirus and pneumo model)](/models/hib)  
+**Model name:**  [UNIVAC (Hib, rotavirus and pneumo model)](/models/hib)  
 **Model name:**  [Lives Saved Tool (LiST) (Hib, rotavirus and pneumo model)](/models/hib#jhu)  
 
 ---
