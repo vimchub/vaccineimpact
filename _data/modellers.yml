@@ -61,32 +61,26 @@
   
 - name: Andrew Clark
   url: http://www.lshtm.ac.uk/aboutus/people/clark.andrew
-  title: TRIVAC (Hib, rotavirus and pneumococcal model)
+  title: UNIVAC (Hib, rotavirus and pneumococcal model)
   title_link: /models/hib
   email: andrew.clark@lshtm.ac.uk  
   img: '/img/people/Andy_Clark.png'
 
 - name: Kaja Abbas   
   url: https://www.lshtm.ac.uk/aboutus/people/abbas.kaja   
-  title: TRIVAC, PRIME and DynaMICE    
+  title: UNIVAC, PRIME and DynaMICE    
   email: Kaja.Abbas@lshtm.ac.uk   
   img: '/img/people/Kaja_Abbas.png'   
   
 - name: Petra Klepac
   url: http://www.petraklepac.com/Site/Home.html   
-  title: TRIVAC, PRIME and DynaMICE   
+  title: UNIVAC, PRIME and DynaMICE   
   email: Petra.Klepac@lshtm.ac.uk
   img: '/img/people/Petra_Klepac.png'   
-    
-- name: Kevin van Zandvoort   
-  url: https://www.linkedin.com/in/kevinvanzandvoort/   
-  title: TRIVAC, PRIME and DynaMICE   
-  email: Kevin.Van-Zandvoort@lshtm.ac.uk   
-  img: '/img/people/Kevin_van_Zandvoort.png'
  
 - name: Colin Sanderson 
   url: http://www.lshtm.ac.uk/aboutus/people/sanderson.colin
-  title: TRIVAC (Hib, rotavirus and pneumococcal model) 
+  title: UNIVAC (Hib, rotavirus and pneumococcal model) 
   title_link: /models/hib
   email: colin.sanderson@lshtm.ac.uk
   img: '/img/people/Colin_Sanderson.png'
