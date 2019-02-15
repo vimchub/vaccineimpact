@@ -2,11 +2,11 @@
 title: Hib, rotavirus, and pneumococcal models
 ---
 
-**Model name:** TRIVAC (Hib, rotavirus and pneumo model)    
+**Model name:** UNIVAC (Hib, rotavirus and pneumo model)    
 **Modellers:**  [Andrew Clark](http://www.lshtm.ac.uk/aboutus/people/clark.andrew), [Colin Sanderson](http://www.lshtm.ac.uk/aboutus/people/sanderson.colin), [Petra Klepac](https://www.lshtm.ac.uk/aboutus/people/klepac.petra), [Kaja Abbas](https://www.lshtm.ac.uk/aboutus/people/abbas.kaja), [Kevin van Zandvoort](https://www.lshtm.ac.uk/aboutus/people/van-zandvoort.kevin)         
 **Institution:** [London School of Hygiene and Tropical Medicine (LSHTM)](http://www.lshtm.ac.uk/)
 
-TRIVAC is a simple Excel-based static cohort model.  The model was originally developed to provide national ministries of health in low and middle income countries with conservative estimates of the impact and cost-effectiveness of routine Hib, rotavirus and pneumococcal vaccination.  TRIVAC has also been used to provide Gavi with conservative estimates of the number of cases, deaths and Disability-Adjusted Life Years (DALYs) prevented by these vaccines over the period 2001-2030 in countries involved in WHO’s Global Vaccine Action Plan (GVAP).  
+UNIVAC is a simple Excel-based static cohort model.  The model was originally developed to provide national ministries of health in low and middle income countries with conservative estimates of the impact and cost-effectiveness of routine Hib, rotavirus and pneumococcal vaccination.  TRIVAC has also been used to provide Gavi with conservative estimates of the number of cases, deaths and Disability-Adjusted Life Years (DALYs) prevented by these vaccines over the period 2001-2030 in countries involved in WHO’s Global Vaccine Action Plan (GVAP).  
 
 The model tracks 30 stacked/successive cohorts from birth until death.  Demographics are taken from the United Nations Population Division.  Estimates of disease incidence and mortality are based on CHERG/MCEE estimates (Child Health Epidemiology Reference Group / Maternal Child Epidemiology Estimation).  Disease age distributions are based on the literature and surveillance.  Estimates of dose-specific coverage and vaccine timeliness are based on [WUENIC](http://www.who.int/immunization/monitoring_surveillance/data/en/), [DHS](http://dhsprogram.com/) and [MICS](http://mics.unicef.org/) data. Dose-specific vaccine efficacy and duration of protection assumptions are based on Cochrane/SAGE reports.    
 
