@@ -19,7 +19,7 @@ PRIME is a static model of HPV vaccination that uses proportional impact to esti
 <div id="harvard"></div>
 
 **Model name:** HPV model    
-**Modellers:** [Steven Sweet](http://chds.hsph.harvard.edu/People/Steven-Sweet)   
+**Modellers:** [Jane Kim](https://chds.hsph.harvard.edu/jane-j-kim/), [Allison Portnoy](https://scholar.harvard.edu/allisonportnoy/home), [Stephen Resch](https://chds.hsph.harvard.edu/stephen-resch/), [Steven Sweet](http://chds.hsph.harvard.edu/People/Steven-Sweet)   
 **Institution:** [Harvard School of Public Health](https://www.hsph.harvard.edu/)
 
 This companion population-based model is developed to be a simple tool to project the main features of the potential impact of HPV vaccines at the population level in settings where data are very limited. The model is constructed as a static cohort simulation model based on a structure similar to a simple decision tree, and is programmed using Microsoft Excel and Visual Basic for Applications. The model tracks a cohort of girls at a target age for their lifetimes, comparing health and cost outcomes with and without HPV vaccination programs.
