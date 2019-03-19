@@ -6,7 +6,7 @@ title: Measles models
 **Modellers:** [Matthew Ferrari](http://bio.psu.edu/directory/mjf283), [Kirsten Eilertson](http://stat.psu.edu/people/kee12)   
 **Institution:** [Pennsylvania State University](http://www.psu.edu/)
 
-A state-space statistical framework is used to fit a dynamic transmission model to historical measles case surveillance data from each country.  The result is a stochastic, age-specific model of measles transmission with country-specific parameter estimates for transmission rate and strength of herd immunity.  Forward projections of measles burden incorporate both stochasticity in transmission dynamics and bootstrap draws from confidence intervals for estimated parameters.    
+This is a stochastic, age-specific, phenomenological transmission model that is fit independently to each country based on annual cases reported to WHO. Herd effects are represented in an annualized attack rate function that assumes reduced transmission as population immunity increases. Model parameters (attack rate function and observation rates) are updated annually based on new reported cases in collaboration with WHO. Model projections reflect stochastic variation in transmission and confidence intervals on estimated parameters.  
 
 ---   
 
