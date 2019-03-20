@@ -106,7 +106,7 @@
 - name: Meningitis A
   id: men-a
   pubs:
-    - author: Oumar, A. D., Isaie M., Wilfried, B. B. , Yameogo, I. , Koussoube, D., Ouedraogo, R. , Sangare L. , & Mbaeyi S. A.  
+    - author: Oumar, A. D., Isaie, M., Wilfried, B. B., Yameogo, I., Koussoube, D., Ouedraogo, R., Sangare, L., & Mbaeyi S. A.  
       year:   2018
       title:  Initial validation of a simulation model for estimating the impact of serogroup A Neisseria meningitidis vaccination in the African meningitis belt
       info:   PLoS One, 13(10), e0206117. doi:10.1371/journal.pone.0206117 
