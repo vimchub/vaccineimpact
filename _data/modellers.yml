@@ -97,7 +97,14 @@
   title: DynaMICE (Measles model)
   title_link: /models/measles#LSHTM
   email: verguet@hsph.harvard.edu 
-  img: '/img/people/Stephane_Verguet.png'   
+  img: '/img/people/Stephane_Verguet.png'
+  
+- name: Arminder Deol
+  url: http://cmmid.lshtm.ac.uk/people/ 
+  title: UNIVAC, PRIME and DynaMICE  
+  title_link: /models/measles#LSHTM
+  email: Arminder.Deol@lshtm.ac.uk
+  img: '/img/people/placeholder.png'
   
 - name: Steven Sweet
   url: http://chds.hsph.harvard.edu/People/Steven-Sweet/
