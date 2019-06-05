@@ -4,7 +4,7 @@ title: Reports
 
 ## Consortium materials
 
-**[(Consortium Annual Meeting Report 2019 (pdf)](/resources/VIMC_AM_2019_summary_report.pdf)**   
+**[Consortium Annual Meeting Report 2019 (pdf)](/resources/VIMC_AM_2019_summary_report.pdf)**   
 
 **[Consortium Annual Meeting Report 2018 (pdf)](/resources/VIMC_AM_2018_summary_report_final.pdf)**
 
