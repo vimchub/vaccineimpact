@@ -10,7 +10,7 @@ The PRoGReSs Model is a dynamic model that quantifies the HBV-infected populatio
 
 The model utilizes inputs that are available for most countries in the literature to compute the size of the HBV-infected population – hepatitis B surface antigen (HBsAg) prevalence, hepatitis B e antigen (HBeAg) prevalence, population, background mortality by age/sex, and current/past vaccination rates.  The model estimates perinatal transmission, non-perinatal transmission, and disease progression by calibrating to empirical data – prevalence by age and hepatocellular carcinoma (HCC) incidence and core antibody prevalence.   
 
-> Razavi-Shearer D, Gamkrelidze I, et al. [Global prevalence, treatment, and prevention of hepatitis B virus infection in 2016: a modelling study](https://www.thelancet.com/journals/langas/article/PIIS2468-1253(18)30056-6/fulltext). Lancet Gastroenterol Hepatol 2018; 3(6): 383–403.
+> Razavi-Shearer, D., Gamkrelidze, I., et al. [Global prevalence, treatment, and prevention of hepatitis B virus infection in 2016: a modelling study](https://www.thelancet.com/journals/langas/article/PIIS2468-1253(18)30056-6/fulltext). Lancet Gastroenterol Hepatol 2018; 3(6): 383–403.
 
 
 ---    
