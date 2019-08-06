@@ -28,7 +28,7 @@ LiST has been characterized as a linear, mathematical model that is deterministi
 
 > LiST model structure visualisation
 
-> Walker, N., Tam, Y., Friberg, I.K. (2013)[Overview of the Lives Saved Tool (LiST)](https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/1471-2458-13-S3-S1) BMC Public Health volume 13, Article number: S1 (2013)
+> Walker, N., Tam, Y., Friberg, I.K. (2013) [Overview of the Lives Saved Tool (LiST)](https://bmcpublichealth.biomedcentral.com/track/pdf/10.1186/1471-2458-13-S3-S1) BMC Public Health volume 13, Article number: S1 (2013)
 
 ---
 
