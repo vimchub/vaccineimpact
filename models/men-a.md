@@ -22,7 +22,7 @@ This is an age-structured transmission dynamic model of serogroup A Neisseria me
 
 The model simulate the transmission of serogroup A Neisseria meningitidis (NmA) using an enhanced SIR-type model. This dynamic model is a set of partial differential equations describing the movement of the human population through different model states based on age (in months), immunologic protection against NmA colonization/disease (high/low/none), and NmA colonization/disease status (susceptible, colonized, or diseased). For computational efficiency, the model is implemented as a set of difference equations. Model parameters (other than demography) are defined based on the literature where possible or are estimated from NmA colonization and disease data.   
 
-> Tartof S, Cohn A, Tarbangdo F, Djingarey M.H, Messonnier N, Clark T.A, Kambou J.L, Novak R, Diomandé F V.K, Medah I, Jackson M.L 2013. [Identifying Optimal Vaccination Strategies for Serogroup A Neisseria meningitidis Conjugate Vaccine in the African Meningitis Belt](https://doi.org/10.1371/journal.pone.0063605)PLOS ONE 8(5): e63605 
+> Tartof S, Cohn A, Tarbangdo F, Djingarey M.H, Messonnier N, Clark T.A, Kambou J.L, Novak R, Diomandé F V.K, Medah I, Jackson M.L 2013. [Identifying Optimal Vaccination Strategies for Serogroup A Neisseria meningitidis Conjugate Vaccine in the African Meningitis Belt](https://doi.org/10.1371/journal.pone.0063605) PLOS ONE 8(5): e63605 
 
 ---
 
