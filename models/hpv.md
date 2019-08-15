@@ -26,6 +26,8 @@ This companion population-based model is developed to be a simple tool to projec
 
 Unlike the more complex empirically-calibrated micro-simulation model, the companion model does not fully simulate the natural history of HPV infection and cervical cancer. Instead, the model estimates reduction in cervical cancer risk at different ages, based on several simplifying assumptions. These assumptions relate to the duration and stage distribution of, and mortality from, cervical cancer. In turn, this relies on insights from analyses performed with the micro-simulation model, using the best available data on local age-specific incidence of cervical cancer and HPV 16/18 type distribution, and assumed vaccine efficacy and vaccine coverage.
 
+> Goldie SJ1, O'Shea M, Campos NG, Diaz M, Sweet S, Kim SY. [Health and economic outcomes of HPV 16,18 vaccination in 72 GAVI-eligible countries.](https://www.sciencedirect.com/science/article/pii/S0264410X08004933?via%3Dihub9) Vaccine Volume 26, Issue 32, 29 July 2008, Pages 4080-4093
+
 ---
 
 [More about human papilloma virus (HPV)](/diseases/hpv)  
