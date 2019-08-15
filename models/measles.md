@@ -8,6 +8,8 @@ title: Measles models
 
 This is a stochastic, age-specific, phenomenological transmission model that is fit independently to each country based on annual cases reported to WHO. Herd effects are represented in an annualized attack rate function that assumes reduced transmission as population immunity increases. Model parameters (attack rate function and observation rates) are updated annually based on new reported cases in collaboration with WHO. Model projections reflect stochastic variation in transmission and confidence intervals on estimated parameters.  
 
+> Chen. S, Fricks J, Ferrari M.J. [Tracking measles infection through non‐linear state space models](https://doi.org/10.1111/j.1467-9876.2011.01001.x) Journal of the Royal Statistical Society Volume61, Issue 1, January 2012 Pages 117-134
+
 ---   
 
 <div id="LSHTM"></div>
