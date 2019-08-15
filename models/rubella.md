@@ -8,6 +8,8 @@ title: Rubella models
 
 This is an age-structured model of the transmission dynamics of rubella in each country, for which the force of infection changes over time.  Contact was described using a matrix of “who acquires infection from whom” with the parameters differing between the age groups <13 and ≥13 years.  The contact parameters are calculated from the average force of infection in these age groups, calculated from age-stratified rubella seroprevalence data collected before the introduction of rubella vaccine.   For countries for which no seroprevalence data were available, the contact parameters were calculated from seroprevalence data compiled through bootstrapping from the seroprevalence datasets available from the WHO. 
 
+> Vynnycky E. Papadopoulos T, Angelis K. [The impact of Measles-Rubella vaccination on the morbidity and mortality from Congenital Rubella Syndrome in 92 countries.](https://doi.org/10.1080/21645515.2018.1532257) Human Vaccines & Immunotherapeutics Volume 15, 2019 - Issue 2 
+
 
 **Model name:** Rubella model   
 **Modellers:** [Justin Lessler](https://www.jhsph.edu/faculty/directory/profile/2566/justin-lessler), [Amy Winter](https://scholar.google.com/citations?user=Y4PDlfkAAAAJ&hl=en&oi=ao), [Shaun Truelove](https://www.linkedin.com/in/shaun-truelove-ba9315a/), [Jessica Metcalf](http://metcalflab.princeton.edu/about-jess/)   
