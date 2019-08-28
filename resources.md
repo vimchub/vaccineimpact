@@ -1,6 +1,12 @@
 ---   
 title: Other resources   
 ---   
+## VIMC impact estimates
+
+**[Pre-print of first VIMC-wide publication: Estimating the health impact of vaccination against 10 pathogens in 98 low and middle income countries from 2000 to 2030](https://medrxiv.org/cgi/content/short/19004358v1)**
+
+**[Technical description of impact estimation methods and VIMC impact estimates](/resources/VIMC_impact_estimates.html)**
+
 ## Consortium materials
 
 **[Access Montagu (log-in required)](https://montagu.vaccineimpact.org/)**   
