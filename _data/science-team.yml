@@ -1,8 +1,23 @@
    
-- name: Emma Russell
-  title: Senior Web Application Developer (paternity cover for Martin Eden)
-  email: e.russell@imperial.ac.uk
-  img: /img/people/Emma_Russell.png
+- name: Susy Echeverria-Londono 
+  title: Consortium Research Associate
+  email: susy.echeverria-londono@imperial.ac.uk   
+  img: /img/people/placeholder.png
+  
+- name: Xiang Li 
+  title: Consortium Research Associate
+  email: x.li@imperial.ac.uk 
+  img: /img/people/Xiang_Li.png 
+  
+- name: Christinah Mukandavire
+  title: Consortium Research Fellow
+  email: c.mukandavire@imperial.ac.uk
+  img: /img/people/Christinah_Mukandavire.png 
+  
+- name: Robert Ashton 
+  title: R Software Developer
+  email: r.ashton@imperial.ac.uk
+  img: /img/people/Robert_Ashton.png
   
 - name: Rich FitzJohn 
   title: Senior R Application Developer
@@ -19,29 +34,14 @@
   title: GIS/Database/HPTC Analyst 
   email: w.hinsley@imperial.ac.uk 
   img: /img/people/Wes_Hinsley.png
-  
-- name: Xiang Li 
-  title: Consortium Research Associate
-  email: x.li@imperial.ac.uk 
-  img: /img/people/Xiang_Li.png 
-  
-- name: Christinah Mukandavire
-  title: Consortium Research Fellow
-  email: c.mukandavire@imperial.ac.uk
-  img: /img/people/Christinah_Mukandavire.png 
-  
-  - name: Susy Echeverria-Londono 
-  title: Consortium Research Associate
-  email: susy.echeverria-londono@imperial.ac.uk   
-  img: /img/people/placeholder.png
+
+- name: Emma Russell
+  title: Senior Web Application Developer (paternity cover for Martin Eden)
+  email: e.russell@imperial.ac.uk
+  img: /img/people/Emma_Russell.png
   
 - name: James Thompson 
   title: Senior R Developer / Data Scientist
   email: james.thompson@imperial.ac.uk
   img: /img/people/James_Thompson.png
   
-- name: Robert Ashton 
-  title: R Software Developer
-  email: r.ashton@imperial.ac.uk
-  img: /img/people/Robert_Ashton.png
-
