@@ -3,7 +3,7 @@ title: Newsletters
 ---   
 ## Consortium newsletters
 
-**[Consortium Newsletter - November 2019] (https://mailchi.mp/c7083eda5506/vaccine-impact-modelling-consortium-newsletter-november-2019)**
+**[Consortium Newsletter - November 2019](https://mailchi.mp/c7083eda5506/vaccine-impact-modelling-consortium-newsletter-november-2019)**
 
 **[Consortium Newsletter - May 2019](https://us15.campaign-archive.com/?u=51b2245de9907f9a070940593&id=86b54dfe18)**
 
