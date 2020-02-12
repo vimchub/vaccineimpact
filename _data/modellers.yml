@@ -2,14 +2,14 @@
   url: http://cdafound.org/our-team/   
   title: PRoGReSs (Hepatitis B model) 
   title_link: /models/hep-b
-  email: homie.razavi@centerforda.com
+  email: hrazavi@cdafound.org   
   img: '/img/people/Homie_Razavi.png'
   
 - name: Devin Razavi-Shearer
   url: http://cdafound.org/our-team/   
   title: PRoGReSs (Hepatitis B model) 
   title_link: /models/hep-b
-  email: devin.razavi-shearer@centerforda.com
+  email: drazavishearer@cdafound.org   
   img: '/img/people/Devin_Razavi.png'
   
 - name: Tim Hallett 
@@ -144,7 +144,7 @@
   url: https://www.researchgate.net/profile/Hannah_Clapham
   title: Japanese Encephalitis (JE) model
   title_link: /models/je
-  email: hannah.clapham@ndm.ox.ac.uk 
+  email: hannah.clapham@nus.edu.sg    
   img: '/img/people/Hannah_Clapham.png'   
      
 - name: Sean Moore   
@@ -165,14 +165,14 @@
   url: http://bio.psu.edu/directory/mjf283
   title: Measles model
   title_link: /models/measles
-  email: matthewferrari@me.com
+  email: mjf283@psu.edu   
   img: '/img/people/Matt_Ferrari.png'
 
 - name: Kirsten Eilertson
-  url: http://stat.psu.edu/people/kee12
+  url: https://statistics.colostate.edu/person/?id=C41DED5545D219DB9B923C478BE09EA4&sq=t   
   title: Measles model
   title_link: /models/measles
-  email: eilertson@psu.edu
+  email: Kirsten.Eilertson@colostate.edu   
   img: '/img/people/Kirsten_Eilertson.png'
   
 - name: Caroline Trotter
@@ -193,7 +193,7 @@
   url: https://www.kpwashingtonresearch.org/our-research/our-scientists/jackson-michael-l/
   title: MenA model 
   title_link: /models/men-a#cdc
-  email: jackson.ml@ghc.org
+  email: Michael.L.Jackson@kp.org
   img: '/img/people/Mike_Jackson.png'
 
 - name: Emilia Vynnycky
