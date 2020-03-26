@@ -281,15 +281,22 @@
   img: '/img/people/John_Huber.png'
   
 - name: Ben Lopman
-  url: https://www.sph.emory.edu/faculty/profile/#!BLOPMAN
+  url: https://www.sph.emory.edu/faculty/profile/index.php?FID=benjamin-lopman-8568
   title: Rotavirus Model 
   title_link: /models/hib
   email: benjamin.alan.lopman@emory.edu
   img: '/img/people/Ben_Lopman.png'  
   
 - name: Molly Steele
-  url: https://www.sph.emory.edu/departments/eh/people/phd-students/index.html
+  url: https://www.blopman.net/ourteam
   title: Rotavirus Model 
   title_link: /models/hib
   email: molly.steele@emory.edu   
   img: '/img/people/Molly_Steele.png'  
+
+- name: Alicia Kraay
+  url: https://www.blopman.net/ourteam
+  title: Rotavirus Model 
+  title_link: /models/hib
+  email: alicia.nicole.mullis.kraay@emory.edu   
+  img: '/img/people/Kraay_Headshot-square.png' 
