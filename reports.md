@@ -14,4 +14,4 @@ title: Reports
 
 **[VIMC SAB Meeting Report 2018 (pdf)](/resources/VIMC_SAB_report_2018_final.pdf)**
 
-**[Report by VIMC modeller Mike Jackson: Double-Counting Lives Saved in the Vaccine Impact Modelling Consortium: Analysis and Proposed Solutions (pdf)](/resources/Double_Count_Report_Final.pdf)**
+**[Report by VIMC modeller Mike Jackson: Double-Counting Lives Saved in the Vaccine Impact Modelling Consortium: Analysis and Proposed Solutions (pdf)](/resources/Double_Count_Report_FINAL.pdf)**
