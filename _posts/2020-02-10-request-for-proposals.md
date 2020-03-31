@@ -1,5 +1,5 @@
 ---
-title: REQUEST FOR PROPOSALS - closing date - 20 April 2020
+title: REQUEST FOR PROPOSALS - closing date - 04 May 2020
 ---
 
 # Vaccine impact models for  
@@ -18,7 +18,7 @@ title: REQUEST FOR PROPOSALS - closing date - 20 April 2020
 
 
 
-**Closing date:**   20 April 2020 
+**Closing date:**   04 May 2020 
 
 **Review outcomes:** June 2020    
 
@@ -88,7 +88,7 @@ An anonymous review committee consisting of members internal and external to the
 
  
 
-To have your model considered by the VIMC secretariat, please email the following documents to <a href="mailto:vimc@imperial.ac.uk">vimc@imperial.ac.uk</a> with a subject line **“RfP 2020 – [your disease area] – [your group name]”** by ** Monday 20 April 2020, 23:00 UK time**:
+To have your model considered by the VIMC secretariat, please email the following documents to <a href="mailto:vimc@imperial.ac.uk">vimc@imperial.ac.uk</a> with a subject line **“RfP 2020 – [your disease area] – [your group name]”** by ** Monday 04 May 2020, 23:00 UK time**:
 
 
 
