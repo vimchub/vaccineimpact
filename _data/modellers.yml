@@ -1,17 +1,3 @@
-- name: Homie Razavi
-  url: http://cdafound.org/our-team/   
-  title: PRoGReSs (Hepatitis B model) 
-  title_link: /models/hep-b
-  email: hrazavi@cdafound.org   
-  img: '/img/people/Homie_Razavi.png'
-  
-- name: Devin Razavi-Shearer
-  url: http://cdafound.org/our-team/   
-  title: PRoGReSs (Hepatitis B model) 
-  title_link: /models/hep-b
-  email: drazavishearer@cdafound.org   
-  img: '/img/people/Devin_Razavi.png'
-  
 - name: Tim Hallett 
   url: http://www.imperial.ac.uk/people/timothy.hallett
   title: Hepatitis B model 
@@ -300,3 +286,10 @@
   title_link: /models/hib
   email: alicia.nicole.mullis.kraay@emory.edu   
   img: '/img/people/Kraay_Headshot-square.jpg' 
+
+- name: Emily Carter
+  url: https://www.jhsph.edu/faculty/directory/profile/3517/emily-d-carter 
+  title: Lives Saved Tool (LiST) (Hib, rotavirus and pneumococcal model)
+  title_link: /models/hib#jhu
+  email: ecarter@jhu.edu 
+  img: '/img/people/Emily_Carter.png'
