@@ -4,15 +4,8 @@ title: REQUEST FOR PROPOSALS - closing date - 04 May 2020
 
 # Vaccine impact models for  
 
----
-
-*  # Typhoid 
-
----
-
-*  # Cholera
-
-
+* Typhoid 
+* Cholera
 
 ## Timeline:
 
