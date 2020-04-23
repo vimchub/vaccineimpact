@@ -26,7 +26,7 @@ title: REQUEST FOR PROPOSALS - closing date - 04 May 2020
 
 **Funds available:** up to USD $65,000 per year
 
-# COVID-19 disruption
+# COVID-19 disruption:   
 
 Deadline and RfP outputs: Given the unprecedented situation with COVID-19, we have extended our application deadline to 4 May 2020. It will be to applicants’ advantage to submit the standard RfP outputs by this date, including burden estimates. However, where it is not possible to submit burden estimates, we are willing to consider other evidence that applicants have carried out and published multi-country modelling analyses in the literature. In these cases, we still require a cover sheet and model documentation. 
 
