@@ -94,7 +94,7 @@ To have your model considered by the VIMC secretariat, please email the followin
 
 - **Model documentation** that will allow assessment against quality standards (e.g. a published paper, report, or custom-written documentation)    
 
-- **Draft burden estimates for one pre-defined country** for specified disease area *(Please submit **directly via Consortium delivery platform** using the standardised upload templates.)*        
+- **Draft burden estimates for one pre-defined country** for specified disease area *(Please submit **directly via Consortium delivery platform** using the standardised upload templates)*        
 
 
 
