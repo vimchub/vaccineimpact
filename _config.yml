@@ -24,6 +24,7 @@ navbar-links:
     - Contact us: "contact"
   Modellers: "modellers"
   Models:
+    - Cholera: "models/cholera"
     - Hepatitis B: "models/hep-b"
     - Hib, rotavirus, pneumo: "models/hib"
     - Human papilloma virus (HPV): "models/hpv"
@@ -33,6 +34,7 @@ navbar-links:
     - Rubella: "models/rubella"
     - Yellow fever: "models/yellow-fever"
   Diseases:
+    - Cholera: "diseases/cholera"
     - Hepatitis B: "diseases/hep-b"
     - Hib: "diseases/hib"   
     - Human papilloma virus (HPV): "diseases/hpv"  
