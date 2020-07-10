@@ -32,6 +32,7 @@ navbar-links:
     - Meningitis A: "models/men-a"
     - Measles: "models/measles"
     - Rubella: "models/rubella"
+    - Typhoid fever: "models/typhoid-fever"    
     - Yellow fever: "models/yellow-fever"
   Diseases:
     - Cholera: "diseases/cholera"
@@ -44,6 +45,7 @@ navbar-links:
     - Pneumococcal disease: "diseases/pneumo" 
     - Rotavirus: "diseases/rotavirus"
     - Rubella: "diseases/rubella"
+    - Typhoid fever: "diseases/typhoid-fever"
     - Yellow fever: "diseases/yellow-fever"
   News: "news"
   Resources:
