@@ -297,20 +297,20 @@
 - name: Elizabeth Lee
   url: https://www.jhsph.edu/faculty/directory/profile/4002/elizabeth-lee
   title: Cholera Model 
-  title_link: 
+  title_link: /models/cholera 
   email: elizabeth.c.lee@jhu.edu
   img: '/img/people/Elizabeth_Lee_2.png'
 
 - name: Jong-Hoon Kim
   url: https://kimfinale.github.io/homepage/
   title: Cholera Model and Typhoid Fever Model
-  title_link: 
+  title_link:  /models/cholera   /models/typhoid-fever
   email: jonghoon.kim@ivi.int 
   img: '/img/people/JongHoonKim_3.png'
   
 - name: Virgina Pitzer
   url: https://medicine.yale.edu/lab/pitzer/
   title: Typhoid Fever Model
-  title_link: 
+  title_link: /models/typhoid-fever
   email: virginia.pitzer@yale.edu 
   img: '/img/people/Virginia_Pitzer.png'
