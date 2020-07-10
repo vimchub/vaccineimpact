@@ -7,13 +7,15 @@ We are pleased to announce that following our request for proposals for cholera 
 
 ## Cholera models:
 
-[Johns Hopkins Bloomberg School of Public Health] (https://www.jhsph.edu/) PI: Elizabeth Lee
+[Johns Hopkins Bloomberg School of Public Health](https://www.jhsph.edu/) PI: Elizabeth Lee
+
 [International Vaccine Institute](https://www.ivi.int/) PI: Jong-Hoon Kim
 
 
 ## Typhoid Fever models:
 
 [International Vaccine Institute](https://www.ivi.int/) PI: PI Jong-Hoon Kim
+
 [Yale School of Public Health](https://publichealth.yale.edu/emd/) PI: Virginia Pitzer
 
 
