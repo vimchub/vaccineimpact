@@ -14,6 +14,7 @@ Lee, EC., Azman, AS., Kaminsky, J., Moore, S.M., McKay, H.S., Lessler, J. (2019)
 
 
 
+
 **Model name:** Cholera model        
 **Modellers:** [Jong-Hoon Kim](https://kimfinale.github.io/homepage/)       
 **Institution:** [International Vaccine Institute](https://www.ivi.int/)
