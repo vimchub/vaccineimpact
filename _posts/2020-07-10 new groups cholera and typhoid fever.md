@@ -2,7 +2,7 @@
 title: New VIMC modelling groups - Cholera and Typhoid Fever 
 ---
 
-We are pleased to announce that following our request for proposals for cholera and typhoid fever models, the following institutions were successfully selected, and will be joining VIMC:
+We are pleased to announce that following our request for proposals for cholera and typhoid fever models, the following institutions were successfully selected, and will be joining VIMC:-
 
 
 ## Cholera models
