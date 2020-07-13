@@ -304,7 +304,7 @@
 - name: Jong-Hoon Kim
   url: https://kimfinale.github.io/homepage/
   title: Cholera Model and Typhoid Fever Model
-  title_link:  /models/cholera   /models/typhoid-fever
+  title_link: /models/cholera  
   email: jonghoon.kim@ivi.int 
   img: '/img/people/JongHoonKim_3.png'
   
