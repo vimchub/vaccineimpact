@@ -17,6 +17,8 @@ title: Other resources
 
 **[Consortium Organizational Chart 2018 (pdf)](/resources/VIMC_organogram_2018.pdf)**    
 
+**[Consortium model quality standards (pdf)](/resources/3_VIMC_model_standards_2020.pdf)**
+
 **[Consortium frequently used acronyms (xlsx)](/resources/VIMC_acronyms_July_2017.xlsx)**    
 
 **[List of countries and antigens modelled by the Consortium (xlsx)](/resources/VIMC-country-antigen-list.xlsx)**
