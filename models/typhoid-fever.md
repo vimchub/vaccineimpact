@@ -14,6 +14,7 @@ A deterministic, age-structured model of typhoid transmission was fitted to the 
 
 **Model name:** Typhoid Fever model        
 **Modellers:** [Virginia Pitzer](https://medicine.yale.edu/lab/pitzer/)
+
 **Institution:** [Yale School of Public Health, Department of Epidemiology of Microbial Diseases](https://publichealth.yale.edu/emd/)
 
 We predict vaccine impact on typhoid incidence using a deterministic transmission dynamic model. The model accounts for important features of typhoid epidemiology, e.g. immunity to clinical versus subclinical infection, and the prevalence and contribution of chronic carriers to transmission. We do not distinguish between short- versus long-cycle (i.e. water-borne) transmission because these two transmission routes are not identifiable from the annual incidence estimates used for model fitting, and the bacteria are short-lived in the environment. 
