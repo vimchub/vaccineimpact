@@ -1,3 +1,12 @@
+- name: Cholera 
+  id: cholera
+  pubs:
+    - author: 'Lee, EC., Azman, AS., Kaminsky, J., Moore, S.M., McKay, H.S., Lessler, J.'
+      year:   2019
+      title:  'The projected impact of geographic targeting of oral cholera vaccination in sub-Saharan Africa: A modeling study'
+      info:   'PLOS Medicine 11 Dec 2019'
+      url:    ' https://doi.org/10.1371/journal.pmed.1003003'
+
 - name: Hepatitis B
   id: hep-b
   pubs:
