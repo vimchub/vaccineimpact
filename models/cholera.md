@@ -10,7 +10,7 @@ title: Cholera models
 
 This phenomenological model estimates annual cases, DALYS, and deaths averted for mass oral cholera vaccination (OCV) campaigns under different geographic targeting strategies. Model inputs include baseline estimates of cholera mean annual incidence, meta-analysis estimates of cholera vaccine efficacy over time, and indirect vaccine protection estimates from re-analyses of vaccine trials in India and Bangladesh.
 
-Lee, EC., Azman, AS., Kaminsky, J., Moore, S.M., McKay, H.S., Lessler, J. (2019) [The projected impact of geographic targeting of oral cholera vaccination in sub-Saharan Africa: A modeling study](https://journals.plos.org/plosmedicine/article/comments?id=10.13 71/journal.pmed.1003003) PLOS Medicine 11 Dec 2019.
+Lee, EC., Azman, AS., Kaminsky, J., Moore, S.M., McKay, H.S., Lessler, J. (2019) [The projected impact of geographic targeting of oral cholera vaccination in sub-Saharan Africa: A modeling study](https://doi.org/10.1371/journal.pmed.1003003) PLOS Medicine 11 Dec 2019.
 
 
 
