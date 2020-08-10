@@ -56,3 +56,16 @@ Posts are created in exactly the same way as regular pages: you still need to ma
 The general layout of the pages can't be changed easily.  But things like colour, spacing, fonts, and any other CSS style can easily be changed by adding CSS rules to the [`vimc.css`](./css/vimc.css) file. For example, you can change the size of the text, or the background colour of the navigation bar, or the colour of the text in the footer.
 
 Note that the template was designed in a way such that it changes drastically when you view it on a big screen (laptop) vs a small screen (phone)
+
+## Local development
+
+To run locally:
+1. Ensure you have [Ruby](https://www.ruby-lang.org/en/documentation/installation/) installed;
+1. Ensure you have [Bundler](https://bundler.io/) installed.
+1. Ensure you have [Jekyll](https://jekyllrb.com/docs/installation/ubuntu/) installed.
+1. `sudo gem update --system` to get the latest version of gems. 
+1. Run `bundle exec jekyll serve` to run the site. There may be further grumbles about versions, but following instructions should eventually result in a runnable site. 
+1. Site will be available at http://127.0.0.1:4000/
+
+ 
+See [here](https://docs.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll) for more information.
