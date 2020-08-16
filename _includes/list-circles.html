@@ -18,6 +18,13 @@
 		  <div class="item-desc">{{ item.title }}</div>
 		{% endif %}
       {% endif %}
+      {% if item.title2 %}
+        {% if item.title2_link %}
+          <a href="{{ item.title2_link }}"><div class="item-desc">{{ item.title2 }}</div></a>
+        {% else %}
+          <div class="item-desc">{{ item.title2 }}</div>
+        {% endif %}
+      {% endif %}
       <div class="item-links">
         {% if item.url %}
           <a class="item-link" href="{{ item.url }}" title="Website">

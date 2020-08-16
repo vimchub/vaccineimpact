@@ -199,7 +199,9 @@
 - name: Justin Lessler   
   url: https://www.jhsph.edu/faculty/directory/profile/2566/justin-lessler   
   title: Rubella model   
-  title_link: /models/rubella   
+  title_link: /models/rubella
+  title2: Cholera model
+  title2_link: /models/cholera
   email:  justin@jhu.edu   
   img: '/img/people/Justin_Lessler.png'   
   
