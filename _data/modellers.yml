@@ -216,6 +216,8 @@
   url: https://www.linkedin.com/in/shaun-truelove-ba9315a/    
   title: Rubella model   
   title_link: /models/rubella   
+  title2: Cholera model
+  title2_link: /models/cholera
   email: shauntruelove@jhu.edu        
   img: '/img/people/Shaun_Truelove.png'   
   
@@ -305,8 +307,10 @@
 
 - name: Jong-Hoon Kim
   url: https://kimfinale.github.io/homepage/
-  title: Cholera Model and Typhoid Fever Model
-  title_link: /models/cholera  
+  title: Cholera Model
+  title_link: /models/cholera
+  title2: Typhoid Fever Model
+  title2_link: /models/typhoid-fever
   email: jonghoon.kim@ivi.int 
   img: '/img/people/KimJongHoon.png'
   
