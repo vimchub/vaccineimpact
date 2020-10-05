@@ -3,6 +3,8 @@ title: Newsletters
 ---   
 ## Consortium newsletters
 
+**[Consortium Newsletter - October 2020](https://mailchi.mp/0e84cab253b7/vaccine-impact-modelling-consortium-newsletter-summer-1565123)**
+
 **[Consortium Newsletter – July 2020](http://mailchi.mp/486bb675c28d/vaccine-impact-modelling-consortium-newsletter-summer-2020)**
 
 **[Consortium Newsletter - March 2020](https://mailchi.mp/ad6be79e9ef2/vaccine-impact-modelling-consortium-newsletter-march-2020)**
