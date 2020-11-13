@@ -320,3 +320,11 @@
   title_link: /models/typhoid-fever
   email: virginia.pitzer@yale.edu 
   img: '/img/people/PitzerGinny.png'
+  
+  - name: Vittal Mogasale 
+  title: Cholera Model
+  title_link: /models/cholera
+  title2: Typhoid Fever Model
+  title2_link: /models/typhoid-fever
+  email: 
+  img: '/img/people/placeholder.png'
