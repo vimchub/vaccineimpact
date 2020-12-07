@@ -322,12 +322,13 @@
   img: '/img/people/PitzerGinny.png'
   
 - name: Vittal Mogasale 
+  url: https://www.linkedin.com/in/vittal-mogasale-2794966/ 
   title: Cholera Model
   title_link: /models/cholera
   title2: Typhoid Fever Model
   title2_link: /models/typhoid-fever
-  email: 
-  img: '/img/people/placeholder.png'
+  email: vmogasale@ivi.int 
+  img: '/img/people/Vittal Mogasale.png'
   
 - name: Andrew Azman
   url: https://www.jhsph.edu/faculty/directory/profile/3186/andrew-s-azman
