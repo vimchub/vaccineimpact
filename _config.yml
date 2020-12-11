@@ -48,8 +48,8 @@ navbar-links:
     - Typhoid fever: "diseases/typhoid-fever"
     - Yellow fever: "diseases/yellow-fever"
   News: "news"
+  Publications: "publications"
   Resources:
-    - Publications: "publications"   
     - Newsletters: "newsletters"
     - Reports: "reports"
     - Other resources: "resources"
@@ -87,5 +87,5 @@ exclude:
   - LICENSE
   - README.md
 
-gems:
+plugins:
   - jekyll-paginate
