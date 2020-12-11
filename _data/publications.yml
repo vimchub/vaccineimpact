@@ -99,6 +99,12 @@
 
 - name: Japanese encephalitis
   id: je
+  pubs:
+    - author: Quan TM, Thao TTN, Duy NM, Nhat TM, Clapham H. 
+      year:   2020
+      title:  'Estimates of the global burden of Japanese encephalitis and the impact of vaccination from 2000-2015'
+      info:   Elife. 2020;9:e51027. doi:10.7554/eLife.51027.
+      url:    https://elifesciences.org/articles/51027
 
 - name: Measles
   id: measles
