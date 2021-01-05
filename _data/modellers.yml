@@ -312,7 +312,7 @@
   title2: Typhoid Fever Model
   title2_link: /models/typhoid-fever
   email: jonghoon.kim@ivi.int 
-  img: '/img/people/KimJongHoon.png'
+  img: '/img/people/JongHoon_Kim.png'
   
 - name: Virginia Pitzer
   url: https://medicine.yale.edu/lab/pitzer/
@@ -338,7 +338,9 @@
   img: '/img/people/andrew_azman_2.png'
   
 - name: Han Fu
-  title: PRIME (HPV model) and DynaMICE
-  title_link: 
+  title: PRIME (HPV model)
+  title_link: /models/hpv
+  title2: DynaMICE
+  title2_link: /models/measles
   email: Han.Fu@lshtm.ac.uk
   img: '/img/people/Han_Fu_2.png'
