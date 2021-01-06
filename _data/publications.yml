@@ -172,7 +172,13 @@
 - name: Yellow Fever
   id: yellow-fever
   pubs:
-    - author: Garske, T., Van Kerkhove, M. D., Yactayo, S., Ronveaux, O., Lewis, R. F., Staples, J. E., Comm, Y. F. E.
+    - author: Perkins, A., Huber, J. H., Tran, Q. M., Oidtman, R. J., Walters, M. K., Siraj, A. S., Moore, S. M.
+      year:   2021
+      title:  Burden is in the eye of the beholder: Sensitivity of yellow fever disease burden estimates to modeling assumptions
+      info:   medRxiv
+      url:    https://www.medrxiv.org/content/10.1101/2021.01.06.21249311v1
+  
+   - author:  Garske, T., Van Kerkhove, M. D., Yactayo, S., Ronveaux, O., Lewis, R. F., Staples, J. E., Comm, Y. F. E.
       year:   2014
       title:  'Yellow Fever in Africa: Estimating the Burden of Disease and Impact of Mass Vaccination from Outbreak and Serological Data'
       info:   PLoS Med, 11(5)
