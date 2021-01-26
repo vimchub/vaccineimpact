@@ -1,7 +1,8 @@
 on:
+  workflow_dispatch:
   schedule:
-   - cron: "35 16 26 01 *"
-#   - cron "${{secrets.SCHEDULE}}"
+    - cron: "35 16 26 01 *"
+#    - cron "${{secrets.SCHEDULE}}"
 jobs:
   merge:
     runs-on: ubuntu-latest
