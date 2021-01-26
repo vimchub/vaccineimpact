@@ -1,0 +1,18 @@
+on:
+  schedule:
+   - cron: "30 11 26 01 *"
+#   - cron "${{secrets.SCHEDULE}}"
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/github-script@v3
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
+          script: |
+            await github.pulls.merge({
+              owner: context.repo.owner,
+              repo: context.repo,
+              pull_number: ${{secrets.PR}}
+            })
