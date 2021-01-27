@@ -4,7 +4,7 @@ title: Measles models
 
 **Model name:** Measles model  
 **Modellers:** [Matthew Ferrari](http://bio.psu.edu/directory/mjf283) and [Kirsten Eilertson](http://stat.psu.edu/people/kee12)   
-**Institution:** [Pennsylvania State University](http://www.psu.edu/)
+**Institution:** [Pennsylvania State University](http://www.psu.edu/) and [Colorado State University](https://statistics.colostate.edu/person/?id=C41DED5545D219DB9B923C478BE09EA4&sq=t)
 
 This is a stochastic, age-specific, phenomenological transmission model that is fit independently to each country based on annual cases reported to WHO. Herd effects are represented in an annualized attack rate function that assumes reduced transmission as population immunity increases. Model parameters (attack rate function and observation rates) are updated annually based on new reported cases in collaboration with WHO. Model projections reflect stochastic variation in transmission and confidence intervals on estimated parameters.  
 
