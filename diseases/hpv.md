@@ -15,7 +15,7 @@ Several models have been developed to understand the epidemiological and economi
 
 ---
 
-[WHO fact sheet on HPV](http://www.who.int/immunization/topics/hpv/en/)       
+[WHO fact sheet on HPV](https://www.who.int/news-room/fact-sheets/detail/human-papillomavirus-(hpv)-and-cervical-cancer)       
 [WHO HPV Information Center](http://www.hpvcentre.net/)    
 [CDC page on HPV](https://www.cdc.gov/hpv/index.html)     
 [Gavi page on HPV](http://www.gavi.org/support/nvs/human-papillomavirus/)   
