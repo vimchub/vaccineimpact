@@ -18,7 +18,7 @@ The model utilizes inputs that are available for most countries in the literatur
 <div id="imperial"></div>
 
 **Model name:** Hepatitis B model  
-**Modellers:** [Tim Hallett](http://www.imperial.ac.uk/people/timothy.hallett), Margaret de Villiers   
+**Modellers:** [Tim Hallett](http://www.imperial.ac.uk/people/timothy.hallett), Margaret de Villiers, Shevanthi Nayagam   
 **Institution:** [Imperial College London](https://www.imperial.ac.uk/school-public-health/infectious-disease-epidemiology/)
 
 The model is a dynamic, deterministic mathematical transmission model of the global hepatitis B epidemic structured by age, sex, and region. The model is composed of 21 Global Burden of Disease world regions, and is fitted to data on hepatitis B surface antigen (HBsAg) and hepatitis B e antigen (HBeAg) prevalence, at two time points, and liver cancer deaths for each region independently. 
