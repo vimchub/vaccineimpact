@@ -10,7 +10,7 @@ title: Yellow fever models
 
 The model represents zoonotic spillover with a Poisson process driven by spatially variable rates accounting for population, coverage, and environmental factors. It represents an urban transmission cycle with a branching process driven by spillover and with SIR dynamics in the event of a large outbreak. The model's current focus is on South America, and extension to Africa is in progress.  
 
-
+> Perkins, A., Huber, J. H., Tran, Q. M., Oidtman, R. J., Walters, M. K., Siraj, A. S., Moore, S. M. (2021). [Burden is in the eye of the beholder: Sensitivity of yellow fever disease burden estimates to modeling assumptions.](https://www.medrxiv.org/content/10.1101/2021.01.06.21249311v1) MedRxiv     
 
 **Model name:** Yellow fever model        
 **Modellers:** [Tini Garske](http://www.imperial.ac.uk/people/t.garske), [Katy Gaythorpe](http://www.imperial.ac.uk/people/k.gaythorpe), [Kévin Jean](https://www.linkedin.com/in/k%C3%A9vin-jean-987ba657/)       
