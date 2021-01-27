@@ -10,11 +10,17 @@
       url:    'https://www.medrxiv.org/content/10.1101/19004358v1'
       
     - author: 'VIMC methodological paper. 
-    Echeverria Londono, S., Li X., Toor, J., de Villiers, M.J., Nayagam, S., Hallett, T.B., Abbas, K., Jit, M., Klepac, P., Jean, K., Garske, T., Ferguson, N.M., Gaythorpe, K.A.M.'
+    Echeverria Londono, S., Li X., Toor, J., de Villiers, M.J., Nayagam, S., Hallett, T.B., Abbas, K., Jit, M., Klepac, P., Jean, K., Garske, T., Ferguson, N.M., Gaythorpe, K.A.M.' 
       year: 2021
       title:  'How can the public health impact of vaccination be estimated?'
       url:    'https://www.medrxiv.org/content/10.1101/2021.01.08.21249378v1'
-
+      
+    - author: 'Pre-print of VPD-COVID phase 1 paper.
+      Gaythorpe, K., Abbas, K., Huber, J., Karachaliou, A., Thakkar, N., Woodruff, K., Li, X., Echeverria-Londono, S., Ferrari, M., Jackson, M.L.,  McCarthy, K., Perkins, A.,  Trotter, C., Jit, M.'
+      year: 2021
+      title:  'Health impact of routine immunisation service disruptions and mass vaccination campaign suspensions caused by the COVID-19 pandemic: Multimodel comparative analysis of disruption scenarios for measles, meningococcal A, and yellow fever vaccination in 10 low- and lower middle-income countries'
+      url:    'https://www.medrxiv.org/content/10.1101/2021.01.25.21250489v1'
+      
 - name: Cholera 
   id: cholera
   pubs:
