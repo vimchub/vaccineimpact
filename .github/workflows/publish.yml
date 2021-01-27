@@ -1,8 +1,7 @@
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "35 16 26 01 *"
-#    - cron "${{secrets.SCHEDULE}}"
+#  schedule:
+#    - cron: "30 23 27 01 *"
 jobs:
   merge:
     runs-on: ubuntu-latest
@@ -15,5 +14,5 @@ jobs:
             await github.pulls.merge({
               owner: context.repo.owner,
               repo: context.repo.repo,
-              pull_number: ${{secrets.PR}}
+              pull_number: 5
             })
