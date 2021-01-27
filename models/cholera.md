@@ -16,7 +16,7 @@ Lee, EC., Azman, AS., Kaminsky, J., Moore, S.M., McKay, H.S., Lessler, J. (2019)
 
 
 **Model name:** Cholera model        
-**Modellers:** [Jong-Hoon Kim](https://kimfinale.github.io/homepage/)       
+**Modellers:** [Jong-Hoon Kim](https://kimfinale.github.io/homepage/) and [Vittal Mogasale](https://www.linkedin.com/in/vittal-mogasale-2794966/)       
 **Institution:** [International Vaccine Institute](https://www.ivi.int/)
 
 A deterministic, age-structured model of cholera transmission was fitted to the annual incidence rates of three African and two Asian countries using Markov Chain Monte Carlo. Three countries represent high, medium, and low-burden countries in Africa and similarly, two countries represent low and medium-burden countries in Asia (41 countries in total). 
