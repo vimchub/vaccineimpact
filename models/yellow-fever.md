@@ -8,7 +8,7 @@ title: Yellow fever models
 **Modellers:** [Alex Perkins](http://biology.nd.edu/people/alex-perkins/), [Sean Moore](https://biology.nd.edu/people/sean-moore/), [Tran Minh Quan](https://www.linkedin.com/in/quan-tran-minh-148a43116/?ppe=1) and [John Huber](https://biology.nd.edu/about/personnel-directory/)          
 **Institution:** [University of Notre Dame](https://www.nd.edu)   
 
-The model represents zoonotic spillover with a Poisson process driven by spatially variable rates accounting for population, coverage, and environmental factors. It represents an urban transmission cycle with a branching process driven by spillover and with SIR dynamics in the event of a large outbreak. The model's current focus is on South America, and extension to Africa is in progress.  
+The model represents zoonotic spillover with a Poisson process driven by spatially variable rates accounting for population, coverage, and environmental factors. It represents an urban transmission cycle with a branching process driven by spillover and with SIR dynamics in the event of a large outbreak. The model previously focused on South America, and has recently been extended to focus on Africa too.  
 
 > Perkins, A., Huber, J. H., Tran, Q. M., Oidtman, R. J., Walters, M. K., Siraj, A. S., Moore, S. M. (2021). [Burden is in the eye of the beholder: Sensitivity of yellow fever disease burden estimates to modeling assumptions.](https://www.medrxiv.org/content/10.1101/2021.01.06.21249311v1) MedRxiv     
 
