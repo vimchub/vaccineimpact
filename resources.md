@@ -3,9 +3,9 @@ title: Other resources
 ---   
 ## VIMC impact estimates
 
-**[Lancet publication, Jan 2021: 'Estimating the health impact of vaccination against ten pathogens in 98 low-income and middle-income countries from 2000 to 2030: a modelling study'](https://doi.org/10.1016/S0140-6736(20)32657-X)
+**[Lancet publication, Jan 2021: 'Estimating the health impact of vaccination against ten pathogens in 98 low-income and middle-income countries from 2000 to 2030: a modelling study'](https://doi.org/10.1016/S0140-6736(20)32657-X)**
 
-**[Data visualisation tool to accompany the Lancet paper](https://montagu.vaccineimpact.org/2020/visualisation/)
+**[Data visualisation tool to accompany the Lancet paper](https://montagu.vaccineimpact.org/2020/visualisation/)**
 
 **[Technical description of impact estimation methods and VIMC impact estimates (pdf)](/resources/VIMC_impact_estimates-03Sep19.pdf)**
 
