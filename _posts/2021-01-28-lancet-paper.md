@@ -3,7 +3,7 @@ title: Vaccines against 10 diseases prevented 37 million deaths in LMICs in the 
 
 ---
 
-This is the headline finding of our first Consortium-wide vaccine impact estimates, published in the Lancet today. 
+This is the headline finding of our first Consortium-wide vaccine impact estimates, published in the Lancet today.
 
 Read more about the findings [in this news feature](https://www.imperial.ac.uk/news/213373/vaccines-prevented-37-million-deaths-lmics/).
 
