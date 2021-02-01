@@ -1,15 +1,13 @@
 - name: Consortium-wide publications
   id: 
   pubs:
-    - heading: First VIMC-wide publication Li, X. et al.
-      author:  '**First VIMC-wide publication**'
-      year:    2021
-      title:   'Estimating the health impact of vaccination against ten pathogens in 98 low-income and middle-income countries from 2000 to 2030: a modelling study'
-      info:    The Lancet, 397:398-408. doi:10.1016/S0140-6736(20)32657-X
-      url:     https://doi.org/10.1016/S0140-6736(20)32657-X
+    - author: '**First VIMC-wide publication** Li, X. et al.'  
+      year:   2021
+      title:  'Estimating the health impact of vaccination against ten pathogens in 98 low-income and middle-income countries from 2000 to 2030: a modelling study'
+      info:   The Lancet, 397:398-408. doi:10.1016/S0140-6736(20)32657-X
+      url:    https://doi.org/10.1016/S0140-6736(20)32657-X
               
-    - heading: VIMC methodological paper 
-      author:  Echeverria. Londono, S., Li X., Toor, J., de Villiers, M.J., Nayagam, S., Hallett, T.B., Abbas, K., Jit, M., Klepac, P., Jean, K., Garske, T., Ferguson, N.M., Gaythorpe, K.A.M.
+    - author: '**VIMC methodological paper** Echeverria. Londono, S., Li X., Toor, J., de Villiers, M.J., Nayagam, S., Hallett, T.B., Abbas, K., Jit, M., Klepac, P., Jean, K., Garske, T., Ferguson, N.M., Gaythorpe, K.A.M.'
       year:    2021
       title:   'How can the public health impact of vaccination be estimated?'
       info:    medRxiv
@@ -19,8 +17,7 @@
 - name: VPD-COVID publications
   id: 
   pubs:
-    - heading: Pre-print of VPD-COVID phase 1 paper
-      author:  Gaythorpe, K., Abbas, K., Huber, J., Karachaliou, A., Thakkar, N., Woodruff, K., Li, X., Echeverria-Londono, S., VIMC Working Group on COVID-19 Impact on Vaccine Preventable Disease, Ferrari, M., Jackson, M.L.,  McCarthy, K., Perkins, A.,  Trotter, C., Jit, M.
+    - author: '**Pre-print of VPD-COVID phase 1 paper** Gaythorpe, K., Abbas, K., Huber, J., Karachaliou, A., Thakkar, N., Woodruff, K., Li, X., Echeverria-Londono, S., VIMC Working Group on COVID-19 Impact on Vaccine Preventable Disease, Ferrari, M., Jackson, M.L.,  McCarthy, K., Perkins, A.,  Trotter, C., Jit, M.'
       year:    2021
       title:   'Health impact of routine immunisation service disruptions and mass vaccination campaign suspensions caused by the COVID-19 pandemic: Multimodel comparative analysis of disruption scenarios for measles, meningococcal A, and yellow fever vaccination in 10 low- and lower middle-income countries'
       info:    medRxiv
