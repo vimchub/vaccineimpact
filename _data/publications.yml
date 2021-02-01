@@ -23,11 +23,18 @@
 - name: Cholera 
   id: cholera
   pubs:
-    - author: 'Lee, EC., Azman, AS., Kaminsky, J., Moore, S.M., McKay, H.S., Lessler, J.'
+    - author: Lee EC, Chao DL, Lemaitre JC, Matrajt L, Pasetto D, Perez-Saez J.
+      year:   2020
+      title:  'Achieving coordinated national immunity and cholera elimination in Haiti through vaccination: a modelling study'
+      info:   Lancet Global Health
+      url:    https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30310-7/fulltext
+      
+    - author: Lee, EC., Azman, AS., Kaminsky, J., Moore, S.M., McKay, H.S., Lessler, J.
       year:   2019
       title:  'The projected impact of geographic targeting of oral cholera vaccination in sub-Saharan Africa: A modeling study'
-      info:   'PLOS Medicine 11 Dec 2019'
-      url:    ' https://doi.org/10.1371/journal.pmed.1003003'
+      info:   PLOS Medicine
+      url:    https://doi.org/10.1371/journal.pmed.1003003
+     
 
 - name: Hepatitis B
   id: hep-b
@@ -61,37 +68,48 @@
       title:  'A mathematical model to estimate global hepatitis B disease burden and vaccination impact'
       info:   Int J Epidemiol, 34(6), 1329-1339. doi:10.1093/ije/dyi206
       url:    https://www.ncbi.nlm.nih.gov/pubmed/16249217
-
-      
       
 
-- name: 'Haemophilus influenzae type b (Hib), rotavirus and pneumococcal disease'
+- name: Haemophilus influenzae type b (Hib), rotavirus and pneumococcal disease
   id: hib
   pubs:
+    - author: Clark A, Tate J, Parashar U, Jit M, Hasso-Agopsowicz M, Henschke N, Lopman B, Van Zandvoort K, Pecenka C, Fine P, Sanderson C.
+      year:   2019
+      title:  'Mortality reduction benefits and intussusception risks of rotavirus vaccination in 135 low-income and middle-income countries: a modelling analysis of current and alternative schedules'
+      info:   The Lancet Global Health
+      url:    https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(19)30412-7/fulltext#articleInformation
+      
+    - author: Chen C, Cervero Liceras F, Flasche S, Sidharta S, Yoong J, Sundaram N, Jit M.
+      year:   2019
+      title:  'Effect and cost-effectiveness of pneumococcal conjugate vaccination: a global modelling analysis'
+      info:   Lancet Glob Health 2019(7), e58-67
+      url:    https://www.sciencedirect.com/science/article/pii/S2214109X18304224?via%3Dihub
+      
     - author: Bourgeois, A. L., Wierzba, T. F., & Walker, R. I.
       year:   2016
       title:  Status of vaccine research and development for enterotoxigenic Escherichia coli
       info:   Vaccine, 34(26), 2880-2886. doi:10.1016/j.vaccine.2016.02.076
       url:    https://www.ncbi.nlm.nih.gov/pubmed/26988259
 
-    - author: Clark, A., Jauregui, B., Griffiths, U., Janusz, C. B., Bolanos-Sierra, B., Hajjeh, R., Sanderson, C.
-      year:   2013
-      title:  TRIVAC decision-support model for evaluating the cost-effectiveness of Haemophilus influenzae type b, pneumococcal and rotavirus vaccination
-      info:   Vaccine, 31 Suppl 3, C19-29. doi:10.1016/j.vaccine.2013.05.045
-      url:    http://about.elsevier.com/vaccine/PAHO_14270_Clark.pdf
-
     - author: Jit, M., Huyen, D. T. T., Friberg, I., Van Minh, H., Kiet, P. H. T., Walker, N., & Fox, K. 
       year:   2015
       title:  'Thirty years of vaccination in Vietnam: Impact and cost-effectiveness of the national Expanded Programme on Immunization'
       info:   Vaccine, 33, A233-A239
       url:    https://jhu.pure.elsevier.com/en/publications/thirty-years-of-vaccination-in-vietnam-impact-and-cost-effectiven-3
+      
+    - author: Clark, A., Jauregui, B., Griffiths, U., Janusz, C. B., Bolanos-Sierra, B., Hajjeh, R., Sanderson, C.
+      year:   2013
+      title:  'TRIVAC decision-support model for evaluating the cost-effectiveness of Haemophilus influenzae type b, pneumococcal and rotavirus vaccination'
+      info:   Vaccine, 31 Suppl 3, C19-29. doi:10.1016/j.vaccine.2013.05.045
+      url:    http://about.elsevier.com/vaccine/PAHO_14270_Clark.pdf
 
     - author: Walker, N., Tam, Y., & Friberg, I. K.
       year:   2013
-      title:  Overview of the Lives Saved Tool (LiST)
+      title:  'Overview of the Lives Saved Tool (LiST)'
       info:   BMC Public Health, 13 Suppl 3, S1. doi:10.1186/1471-2458-13-S3-S1
       url:    https://bmcpublichealth.biomedcentral.com/articles/10.1186/1471-2458-13-S3-S1
 
+      
 - name: Human papillomavirus (HPV)
   id: hpv
   pubs:
@@ -239,9 +257,16 @@
       info:   PLoS One, 8(5), e63605. doi:10.1371/journal.pone.0063605
       url:    http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0063605
 
+
 - name: Rubella
   id: rubella
   pubs:
+    - author: Motaze NV, Edoka I, Wiysonge CS, Metcalf CJE, Winter AK.
+      year:   2016
+      title:  'Rubella Vaccine Introduction in the South African Public Vaccination Schedule: Mathematical Modelling for Decision Making'
+      info:   Vaccines
+      url:    https://www.mdpi.com/2076-393X/8/3/383
+      
     - author: Vynnycky, E., Adams, E. J., Cutts, F. T., Reef, S. E., Navar, A. M., Simons, E., Dabbagh, A. J.
       year:   2016
       title:  'Using Seroprevalence and Immunisation Coverage Data to Estimate the Global Burden of Congenital Rubella Syndrome, 1996-2010: A Systematic Review.'
@@ -250,10 +275,11 @@
 
     - author: Vynnycky, E., Yoshida, L. M., Huyen, D. T. T., Trung, N. D., Toda, K., Cuong, N. V., Hien, N. T.
       year:   2016
-      title:  Modeling the impact of rubella vaccination in Vietnam
+      title:  'Modeling the impact of rubella vaccination in Vietnam'
       info:   Human Vaccines & Immunotherapeutics, 12(1), 150-158
       url:    https://www.ncbi.nlm.nih.gov/pubmed/26260857
-
+                 
+   
 - name: Yellow Fever
   id: yellow-fever
   pubs:
