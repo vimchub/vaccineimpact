@@ -190,7 +190,31 @@
       title:  'Burden is in the eye of the beholder: Sensitivity of yellow fever disease burden estimates to modeling assumptions'
       info:   medRxiv
       url:    https://www.medrxiv.org/content/10.1101/2021.01.06.21249311v1
-
+      
+    - author: Jean, K., Raad H., Gaythorpe, K., Hamlet, A., Mueller, J. E., Hogan, D., Mengistu, T., Whitaker, H. J., Hocine, M. N.
+      year:   2020
+      title:  'Assessing the impact of preventive mass vaccination campaigns on yellow fever outbreaks in Africa : a population-level self-controlled case-series study'
+      info:   medRxiv
+      url:    https://www.medrxiv.org/content/10.1101/2020.07.09.20147355v1
+      
+    - author: Gaythorpe, K., Hamlet, A., Jean, K., Ramos, D. G., Cibrelus, L., Garske, T., Ferguson, N.
+      year:   2020
+      title:  'The global burden of yellow fever'
+      info:   medRxiv
+      url:    https://www.medrxiv.org/content/10.1101/2020.10.14.20212472v1
+      
+    - author: Gaythorpe KAM, Hamlet A, Cibrelus L, Garske T, Ferguson, N.
+      year:   2020
+      title:  'The effect of climate change on yellow fever disease burden in Africa'
+      info:   elife
+      url:    https://elifesciences.org/articles/55619
+          
+    - author: Jean K, Hamlet A, Benzler J, Cibrelus L, Gaythorpe K , Sall A, Ferguson N, Garske, T.
+      year:   2020
+      title:  'Eliminating yellow fever epidemics in Africa: Vaccine demand forecast and impact modelling'
+      info:   PLOS Med
+      url:    https://journals.plos.org/plosntds/article?id=10.1371/journal.pntd.0008304
+           
     - author:  Garske, T., Van Kerkhove, M. D., Yactayo, S., Ronveaux, O., Lewis, R. F., Staples, J. E., Comm, Y. F. E.
       year:   2014
       title:  'Yellow Fever in Africa: Estimating the Burden of Disease and Impact of Mass Vaccination from Outbreak and Serological Data'
@@ -199,7 +223,7 @@
 
     - author: Jean, K., Donnelly, C. A., Ferguson, N. M., & Garske, T
       year:   2016
-      title:  A Meta-Analysis of Serological Response Associated with Yellow Fever Vaccination
+      title:  'A Meta-Analysis of Serological Response Associated with Yellow Fever Vaccination'
       info:   Am J Trop Med Hyg, 95(6), 1435-1439. doi:10.4269/ajtmh.16-0401
       url:    https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5154464/
       
