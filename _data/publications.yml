@@ -202,3 +202,14 @@
       title:  A Meta-Analysis of Serological Response Associated with Yellow Fever Vaccination
       info:   Am J Trop Med Hyg, 95(6), 1435-1439. doi:10.4269/ajtmh.16-0401
       url:    https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5154464/
+      
+      
+- name: VPD-COVID publications
+  id: 
+  pubs:
+
+    - author: 'Pre-print of VPD-COVID phase 1 paper.
+      Gaythorpe, K., Abbas, K., Huber, J., Karachaliou, A., Thakkar, N., Woodruff, K., Li, X., Echeverria-Londono, S., VIMC Working Group on COVID-19 Impact on Vaccine Preventable Disease, Ferrari, M., Jackson, M.L.,  McCarthy, K., Perkins, A.,  Trotter, C., Jit, M.'
+      year: 2021
+      title:  'Health impact of routine immunisation service disruptions and mass vaccination campaign suspensions caused by the COVID-19 pandemic: Multimodel comparative analysis of disruption scenarios for measles, meningococcal A, and yellow fever vaccination in 10 low- and lower middle-income countries'
+      url:    'https://www.medrxiv.org/content/10.1101/2021.01.25.21250489v1'
