@@ -10,7 +10,13 @@ UNIVAC is a static cohort model now based in R (and previously based in Excel). 
 
 The model tracks 30 stacked/successive cohorts from birth until death. Demographics are taken from the United Nations Population Division. Estimates of disease incidence and mortality are based on CHERG/MCEE estimates (Child Health Epidemiology Reference Group / Maternal Child Epidemiology Estimation). Disease age distributions are based on the literature and surveillance. Estimates of dose-specific coverage and vaccine timeliness are based on [WUENIC](https://apps.who.int/immunization_monitoring/globalsummary/timeseries/tswucoveragedtp3.html), [DHS](http://dhsprogram.com/) and [MICS](http://mics.unicef.org/) data. Dose-specific vaccine efficacy and duration of protection assumptions are based on Cochrane/SAGE reports.    
 
+> Clark, Andrew; Tate, Jacqueline; Parashar, Umesh; Jit, Mark; Hasso-Agopsowicz, Mateusz; Henschke, Nicholas; Lopman, Benjamin; Van Zandvoort, Kevin; Pecenka, Clint; Fine, Paul; +1 more... (2019) [Mortality reduction benefits and intussusception risks of rotavirus vaccination in 135 low-income and middle-income countries: a modelling analysis of current and alternative schedules.](https://researchonline.lshtm.ac.uk/id/eprint/4654812/) The Lancet Global Health, 7 (11). e1541-e1552.
+
 > Clark, A., Jauregui, B., Griffiths, U., Janusz, C.B., Bolaños-Sierra, B., Hajjeh, R., Andrus, J.K. and Sanderson, C. (2013). [TRIVAC decision-support model for evaluating the cost-effectiveness of Haemophilus influenzae type b, pneumococcal and rotavirus vaccination](https://doi.org/10.1016/j.vaccine.2013.05.045) Vaccine 31 Suppl 3, pp. C19-29. 
+
+> Atchison C, Lopman B, Edmunds WJ. [Modelling the seasonality of rotavirus disease and the impact of vaccination in England and Wales.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7021296/) Vaccine. 2010 Apr 19;28(18):3118-26. doi: 10.1016/j.vaccine.2010.02.060. Epub 2010 Mar 1. PubMed PMID: 20197142.
+
+> Pitzer VE, Atkins KE, de Blasio BF, Van Effelterre T, Atchison CJ, Harris JP, Shim E, Galvani AP, Edmunds WJ, Viboud C, Patel MM, Grenfell BT, Parashar UD, Lopman BA. [Direct and indirect effects of rotavirus vaccination: comparing predictions from transmission dynamic models.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0042320) PLoS One. 2012;7(8):e42320. doi: 10.1371/journal.pone.0042320. Epub 2012 Aug 13. PubMed PMID: 22912699; PubMed Central PMCID: PMC3418263.
 
 ---      
 
