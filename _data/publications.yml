@@ -32,29 +32,38 @@
 - name: Hepatitis B
   id: hep-b
   pubs:
-    - author: 'Goldstein, S. T., Zhou, F., Hadler, S. C., Bell, B. P., Mast, E. E., & Margolis, H. S.'
-      year:   2005
-      title:  'A mathematical model to estimate global hepatitis B disease burden and vaccination impact'
-      info:   'Int J Epidemiol, 34(6), 1329-1339. doi:10.1093/ije/dyi206'
-      url:    'https://www.ncbi.nlm.nih.gov/pubmed/16249217'
-
+    - author: de Villiers MJ, Gamkrelidze I, Hallett TB, Nayagam S, Razavi H, Shearer DR.
+      year:   2020
+      title:  'Modelling hepatitis B virus infection and impact of timely birth dose vaccine: A comparison of two simulation models'
+      info:   PLOS One
+      url:    https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0237525
+     
     - author: 'Nayagam, S., Thursz, M., Sicuri, E., Conteh, L., Wiktor, S., Low-Beer, D. L., & Hallett, T. B.'
       year:   2016
       title:  'Requirements for global elimination of hepatitis B: a modelling study' 
-      info:   'Lancet Infectious Diseases, 16(12), 1399-1408'
-      url:    'http://www.thelancet.com/journals/laninf/article/PIIS1473-3099(16)30204-3/abstract'
+      info:   Lancet Infectious Diseases, 16(12), 1399-1408
+      url:    http://www.thelancet.com/journals/laninf/article/PIIS1473-3099(16)30204-3/abstract
 
     - author: Li, X., Wiesen, E., Diorditsa, S., Toda, K., Duong, T. H., Nguyen, L. H., Nguyen, T. H.
       year:   2016
-      title:  Impact of Adverse Events Following Immunization in Viet Nam in 2013 on chronic hepatitis B infection
+      title:  'Impact of Adverse Events Following Immunization in Viet Nam in 2013 on chronic hepatitis B infection'
       info:   Vaccine, 34(6), 869-873. doi:10.1016/j.vaccine.2015.05.067
       url:    https://www.ncbi.nlm.nih.gov/pubmed/26055296
 
     - author: Wiesen, E., Diorditsa, S., & Li, X.
       year:   2016
-      title:  Progress towards hepatitis B prevention through vaccination in the Western Pacific, 1990-2014
+      title:  'Progress towards hepatitis B prevention through vaccination in the Western Pacific, 1990-2014'
       info:   Vaccine, 34(25), 2855-2862
       url:    https://www.ncbi.nlm.nih.gov/pubmed/27020710
+      
+    - author: Goldstein, S. T., Zhou, F., Hadler, S. C., Bell, B. P., Mast, E. E., & Margolis, H. S.
+      year:   2005
+      title:  'A mathematical model to estimate global hepatitis B disease burden and vaccination impact'
+      info:   Int J Epidemiol, 34(6), 1329-1339. doi:10.1093/ije/dyi206
+      url:    https://www.ncbi.nlm.nih.gov/pubmed/16249217
+
+      
+      
 
 - name: 'Haemophilus influenzae type b (Hib), rotavirus and pneumococcal disease'
   id: hib
@@ -113,7 +122,7 @@
     - author: Brisson M, Kim J, Canfell K, Drolet M, Gingras G, Burger EA, et al.
       year:   2020
       title:  'Impact of HPV Vaccination and cervical screening on cervical cancer elimination: a comparative modelling analysis in 78 low-income and lower-middle-income countries'
-      info:   Lancet 2020; 395: 575-90
+      info:   Lancet
       url:    https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30068-4/fulltext
   
     - author: Jit, M., Brisson, M., Portnoy, A., & Hutubessy, R.
@@ -149,7 +158,8 @@
       title:  'Estimates of the global burden of Japanese encephalitis and the impact of vaccination from 2000-2015'
       info:   Elife. 2020;9:e51027. doi:10.7554/eLife.51027.
       url:    https://elifesciences.org/articles/51027
-
+      
+      
 - name: Measles
   id: measles
   pubs:
