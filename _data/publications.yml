@@ -124,6 +124,12 @@
       title:  'Impact of HPV Vaccination and cervical screening on cervical cancer elimination: a comparative modelling analysis in 78 low-income and lower-middle-income countries'
       info:   Lancet
       url:    https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)30068-4/fulltext
+        
+    - author: Abbas KM, van Zandvoort K, Brisson M, Jit M.
+      year:   2020
+      title:  'Effects of updated demography, disability weights, and cervical cancer burden on estimates of human papillomavirus vaccination impact at the global, regional, and national levels: a PRIME modelling study'
+      info:   The Lancet Global Health
+      url:    https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30022-X/fulltext
   
     - author: Jit, M., Brisson, M., Portnoy, A., & Hutubessy, R.
       year:   2014
@@ -163,6 +169,36 @@
 - name: Measles
   id: measles
   pubs:
+    - author: Portnoy A, Jit M, Helleringer S, Verguet S.
+      year:   2020
+      title:  'Comparative Distributional Impact of Routine Immunization and Supplementary Immunization Activities in Delivery of Measles Vaccine in Low- and Middle-Income Countries'
+      info:   Value Health
+      url:    https://www.valueinhealthjournal.com/article/S1098-3015(20)31731-9/fulltext
+       
+    - author: Utazi C, Wagai J, Pannell O, Cutts F, Rhoda D, Ferrari M, et al.
+      year:   2020
+      title:  'Geospatial variation in measles vaccine coverage through routine and campaign strategies in Nigeria: Analysis of recent household surveys'
+      info:   Vaccine, 38(14), 3062-3071
+      url:    https://www.sciencedirect.com/science/article/pii/S0264410X20303017?via%3Dihub
+      
+    - author: Hughes SL, Bolotin S, Khan S, Li Y,…, Jit M, et al.
+      year:   2020
+      title:  'The effect of time since measles vaccination and age at first dose on measles vaccine effectiveness – A systematic review'
+      info:   Vaccine, 38(2020), 460-469
+      url:    https://www.sciencedirect.com/science/article/pii/S0264410X19314793
+     
+    - author: Funk S, Knapp JK, Lebo E,…, Jit M, et al.
+      year:   2019
+      title:  'Combining serological and contact data to derive target immunity levels for achieving and maintaining measles elimination'
+      info:   BMC Med 17, 180
+      url:    https://bmcmedicine.biomedcentral.com/articles/10.1186/s12916-019-1413-7
+     
+    - author: Verguet, S., Johri, M., Morris, S. K., Gauvreau, C. L., Jha, P., & Jit, M. 
+      year:   2015
+      title:  'Controlling measles using supplemental immunization activities: A mathematical model to inform optimal policy'
+      info:   Vaccine, 33(10), 1291-1296
+      url:    http://www.sciencedirect.com/science/article/pii/S0264410X14016077
+      
     - author: Chen, S., Fricks, J., & Ferrari, M. J. 
       year:   2012
       title:  Tracking measles infection through non-linear state space models
@@ -174,12 +210,7 @@
       title:  'Assessment of the 2010 global measles mortality reduction goal: results from a model of surveillance data'
       info:   Lancet, 379(9832), 2173-2178. doi:10.1016/S0140-6736(12)60522-4
       url:    https://www.ncbi.nlm.nih.gov/pubmed/22534001
-
-    - author: Verguet, S., Johri, M., Morris, S. K., Gauvreau, C. L., Jha, P., & Jit, M. 
-      year:   2015
-      title:  'Controlling measles using supplemental immunization activities: A mathematical model to inform optimal policy'
-      info:   Vaccine, 33(10), 1291-1296
-      url:    http://www.sciencedirect.com/science/article/pii/S0264410X14016077
+      
 
 - name: Meningitis A
   id: men-a
