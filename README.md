@@ -56,6 +56,17 @@ The general layout of the pages can't be changed easily.  But things like colour
 
 Note that the template was designed in a way such that it changes drastically when you view it on a big screen (laptop) vs a small screen (phone)
 
+## Scheduling an update to the site (advanced!)
+
+We have [an Action](https://github.com/vimc/vimc.github.io/blob/master/.github/workflows/publish.yml) than can be
+can be used an interim solution for pushing changes live at a specific date/time. In order to use it:
+1. Draft changes on a new branch
+1. Create a Pull Request, ensuring there are no conflicts
+1. Modify the Action _on master_, uncommenting the `schedule` block with a suitable
+   [cron expression](https://crontab.guru/#30_23_27_01_*) and specifying the relevant PR
+1. Wait for the Action to run
+1. Re-disable the `schedule` block
+
 ## Local development
 
 To run locally:
