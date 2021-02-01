@@ -1,12 +1,12 @@
 - name: Consortium-wide publications
   id: 
   pubs:
-    - author: **First VIMC-wide publication** Li, X. et al.
+    - author: First VIMC-wide publication Li, X. et al.
       year:   2021
       title:  'Estimating the health impact of vaccination against ten pathogens in 98 low-income and middle-income countries from 2000 to 2030: a modelling study'
       info:   The Lancet, 397:398-408. doi:10.1016/S0140-6736(20)32657-X
       url:    https://doi.org/10.1016/S0140-6736(20)32657-X
-
+              
     - author: **VIMC methodological paper** Echeverria Londono, S., Li X., Toor, J., de Villiers, M.J., Nayagam, S., Hallett, T.B., Abbas, K., Jit, M., Klepac, P., Jean, K., Garske, T., Ferguson, N.M., Gaythorpe, K.A.M.
       year:   2021
       title:  'How can the public health impact of vaccination be estimated?'
