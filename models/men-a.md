@@ -10,6 +10,8 @@ This is an age-structured transmission dynamic model of serogroup A Neisseria me
 
 [![](/img/models/mena_cambridge_ model.jpeg)](/img/models/mena_cambridge_ model.jpeg)
 
+> Michael L. Jackson, Alpha Oumar Diallo, Isaie Médah, Brice Wilfried Bicaba, Issaka Yaméogo, Daouda Koussoubé, Rasmata Ouédraogo, Lassané Sangaré, Sarah A. Mbaeyi [Initial validation of a simulation model for estimating the impact of serogroup A Neisseria meningitidis vaccination in the African meningitis belt](https://doi.org/10.1371/journal.pone.0206117) PLOS 1, October 25 2018
+
 > Karachaliou A, Conlan A J.K, Preziosi M.P, Trotter C.L. [Modeling Long-term VaccinationStrategies With MenAfriVac in the African Meningitis Belt](https://doi.org/10.1093/cid/civ508) Clinical Infectious Diseases, Volume 61, Issue suppl_5, 15 November 2015, Pages S594–S600.
     
 ---    
