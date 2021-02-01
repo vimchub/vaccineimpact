@@ -346,4 +346,12 @@
       url:    https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5154464/
       
       
-
+- name: Other
+  id: other
+  pubs:
+  
+    - author: Geweniger A, Abbas KM.
+      year:   2020
+      title:  'Childhood vaccination coverage and equity impact in Ethiopia by socioeconomic, geographic, maternal, and child characteristics'
+      info:   Vaccine, (38), 3627–3638
+      url:    https://www.sciencedirect.com/science/article/pii/S0264410X20304199?via%3Dihub
