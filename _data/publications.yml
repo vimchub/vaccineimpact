@@ -86,11 +86,29 @@
 - name: Human papillomavirus (HPV)
   id: hpv
   pubs:
-    - author: Goldie, S. J., O'Shea, M., Campos, N. G., Diaz, M., Sweet, S., & Kim, S. Y. 
-      year:   2008
-      title:  Health and economic outcomes of HPV 16,18 vaccination in 72 GAVI-eligible countries
-      info:   Vaccine, 26(32), 4080-4093
-      url:    https://www.ncbi.nlm.nih.gov/pubmed/18550229
+    - author: Ochalek J, Abbas K, Claxton K, Jit M, Lomas J.
+      year:   2020
+      title:  'Assessing the value of human papillomavirus vaccination in Gavi-eligible low-income and middle-income countries'
+      info:   BMJ Glob Health
+      url:    https://gh.bmj.com/content/5/10/e003006 
+      
+    - author: Burger EA, Portnoy A, Campos NG, Sy S, Regan C, Kim JJ.
+      year:   2020
+      title:  'Choosing the optimal HPV vaccine: The health impact and economic value of the nonavalent and bivalent HPV vaccines in 48 Gavi-eligible countries'
+      info:   International Journal of Cancer
+      url:    https://onlinelibrary.wiley.com/doi/10.1002/ijc.33233
+      
+    - author: Portnoy A, Clark S, Ozawa S, Jit M.
+      year:   2020
+      title:  'The impact of vaccination on gender equity: conceptual framework and human papillomavirus (HPV) vaccine case study'
+      info:   International Journal for Equity in Health
+      url:    https://equityhealthj.biomedcentral.com/articles/10.1186/s12939-019-1090-3
+      
+    - author: Portnoy A, Campos NG, Sy S, Burger EA, Cohen J, Regan C, Kim JJ.
+      year:   2020
+      title:  'Impact and cost-effectiveness of human papillomavirus'
+      info:   Vaccination campaigns
+      url:    https://cebp.aacrjournals.org/content/29/1/22
 
     - author: Jit, M., Brisson, M., Portnoy, A., & Hutubessy, R.
       year:   2014
@@ -109,6 +127,13 @@
       title:  'Comparative evaluation of the potential impact of rotavirus versus HPV vaccination in GAVI-eligible countries: a preliminary analysis focused on the relative disease burden'
       info:   BMC Infect Dis, 11, 174. doi:10.1186/1471-2334-11-174
       url:    https://bmcinfectdis.biomedcentral.com/articles/10.1186/1471-2334-11-174
+      
+    - author: Goldie, S. J., O'Shea, M., Campos, N. G., Diaz, M., Sweet, S., & Kim, S. Y. 
+      year:   2008
+      title:  Health and economic outcomes of HPV 16,18 vaccination in 72 GAVI-eligible countries
+      info:   Vaccine, 26(32), 4080-4093
+      url:    https://www.ncbi.nlm.nih.gov/pubmed/18550229
+
 
 - name: Japanese encephalitis
   id: je
