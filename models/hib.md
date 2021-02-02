@@ -14,10 +14,6 @@ The model tracks 30 stacked/successive cohorts from birth until death. Demograph
 
 > Clark, A., Jauregui, B., Griffiths, U., Janusz, C.B., Bolaños-Sierra, B., Hajjeh, R., Andrus, J.K. and Sanderson, C. (2013). [TRIVAC decision-support model for evaluating the cost-effectiveness of Haemophilus influenzae type b, pneumococcal and rotavirus vaccination](https://doi.org/10.1016/j.vaccine.2013.05.045) Vaccine 31 Suppl 3, pp. C19-29. 
 
-> Atchison C, Lopman B, Edmunds WJ. [Modelling the seasonality of rotavirus disease and the impact of vaccination in England and Wales.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7021296/) Vaccine. 2010 Apr 19;28(18):3118-26. doi: 10.1016/j.vaccine.2010.02.060. Epub 2010 Mar 1. PubMed PMID: 20197142.
-
-> Pitzer VE, Atkins KE, de Blasio BF, Van Effelterre T, Atchison CJ, Harris JP, Shim E, Galvani AP, Edmunds WJ, Viboud C, Patel MM, Grenfell BT, Parashar UD, Lopman BA. [Direct and indirect effects of rotavirus vaccination: comparing predictions from transmission dynamic models.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0042320) PLoS One. 2012;7(8):e42320. doi: 10.1371/journal.pone.0042320. Epub 2012 Aug 13. PubMed PMID: 22912699; PubMed Central PMCID: PMC3418263.
-
 ---      
 
 <div id="jhu"></div>
@@ -48,6 +44,10 @@ LiST has been characterized as a linear, mathematical model that is deterministi
 The Emory Rotavirus Vaccine Model uses a deterministic, age-structured compartmental model of rotavirus transmission and disease. The model follows a Susceptible–Infected–Recovered-Susceptible (SIRS) structure, with complexity added to capture rotavirus natural history. Infants are born into the model with maternal immunity. As maternal immunity wanes, infants become susceptible to a primary rotavirus infection, which has a certain probability of causing rotavirus gastroenteritis.  
 
 The model assumes previous infection confers protection against both subsequent rotavirus infections and disease. Primary infections are assumed to be more infectiousness than subsequent ones. The model assumes primary, secondary and tertiary infections have different probabilities for developing gastroenteritis for the probability that that disease is severe. It assumes that only severe rotavirus gastroenteritis cases progress to death. It assumes that vaccine-induced immunity is similar to natural immunity. Values and ranges for natural history parameters are informed by cohort and challenge studies.
+
+> Atchison C, Lopman B, Edmunds WJ. [Modelling the seasonality of rotavirus disease and the impact of vaccination in England and Wales.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7021296/) Vaccine. 2010 Apr 19;28(18):3118-26. doi: 10.1016/j.vaccine.2010.02.060. Epub 2010 Mar 1. PubMed PMID: 20197142.
+
+> Pitzer VE, Atkins KE, de Blasio BF, Van Effelterre T, Atchison CJ, Harris JP, Shim E, Galvani AP, Edmunds WJ, Viboud C, Patel MM, Grenfell BT, Parashar UD, Lopman BA. [Direct and indirect effects of rotavirus vaccination: comparing predictions from transmission dynamic models.](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0042320) PLoS One. 2012;7(8):e42320. doi: 10.1371/journal.pone.0042320. Epub 2012 Aug 13. PubMed PMID: 22912699; PubMed Central PMCID: PMC3418263.
 
 ---
 
