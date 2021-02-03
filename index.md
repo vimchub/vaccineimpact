@@ -18,13 +18,16 @@ Our first Consortium-wide vaccine impact estimates were published in the Lancet 
 
 An [interactive data visualisation tool](https://montagu.vaccineimpact.org/2020/datavis) gives users access to the underlying estimates for 2000-2019.
 
+A version of the article for a younger audience appears in [Science Journal for Teens](https://sciencejournalforkids.org/articles/how-many-lives-do-vaccines-save/).
+
 [Read the accompanying news story on Imperial's website.](https://www.imperial.ac.uk/news/213373/vaccines-prevented-37-million-deaths-lmics/)
 
-A version of the article suitable for a younger audience will appear in Science Journal for Teens shortly.
 
 **More about the Consortium**
 
+**[Current job opportunities in the Consortium secretariat](https://www.vaccineimpact.org/2021-01-11-RA-RF-position-Imperial/)**
+
 [Consortium organisation structure](/resources/VIMC_organogram_2020.pdf)    
 [Consortium key partners](/partners)   
-[Current job opportunities in the Consortium secretariat](https://www.vaccineimpact.org/2021-01-11-RA-RF-position-Imperial/)
+
 
