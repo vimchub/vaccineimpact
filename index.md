@@ -25,8 +25,6 @@ A version of the article for a younger audience appears in [Science Journal for 
 
 **More about the Consortium**
 
-**[Current job opportunities in the Consortium secretariat](https://www.vaccineimpact.org/2021-01-11-RA-RF-position-Imperial/)**
-
 [Consortium organisation structure](/resources/VIMC_organogram_2020.pdf)    
 [Consortium key partners](/partners)   
 
