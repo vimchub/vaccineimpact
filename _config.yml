@@ -53,6 +53,7 @@ navbar-links:
     - Newsletters: "newsletters"
     - Reports: "reports"
     - Other resources: "resources"
+  Dataviz: "dataviz"
 
 google_analytics: "UA-100500622-1"
 
