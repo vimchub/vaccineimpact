@@ -1,5 +1,5 @@
 ---   
-Dataviz: Publications     
+title: Data visualisation    
 ---
 ## [First data visualisation tool](https://montagu.vaccineimpact.org/2020/visualisation)
 Data visualisation tool accompanying [Li et al. 2021](https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(20)32657-X/fulltext).
