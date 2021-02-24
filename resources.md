@@ -29,7 +29,7 @@ title: Other resources
 
 **[Consortium frequently used acronyms (xlsx)](/resources/VIMC_acronyms_July_2017.xlsx)**    
 
-**[List of countries and antigens modelled by the Consortium (xlsx)](/resources/VIMC-country-antigen-list.xlsx)**
+**[List of countries and antigens modelled by the Consortium (xlsx)](/resources/VIMC-country-antigen-list - updated 24.02.21.xlsx)**
 
 ---        
 
