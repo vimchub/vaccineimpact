@@ -41,10 +41,10 @@
  
 - name: Mark Jit
   url: http://www.lshtm.ac.uk/aboutus/people/jit.mark
-  title: PRIME (HPV model) and DynaMICE
+  title: Measles Model, HPV Model, PCV Model
   email: Mark.Jit@lshtm.ac.uk
   img: '/img/people/Mark_Jit.png'
-  
+    
 - name: Kiesha Prem
   url: 
   title: PRIME (HPV model) and DynaMICE
@@ -53,7 +53,7 @@
   
 - name: Kaja Abbas   
   url: https://www.lshtm.ac.uk/aboutus/people/abbas.kaja   
-  title: UNIVAC, PRIME and DynaMICE    
+  title: Measles Model, HPV Model and Hib/RV Model   
   email: Kaja.Abbas@lshtm.ac.uk   
   img: '/img/people/Kaja_Abbas.png'   
   
@@ -324,13 +324,13 @@
   img: '/img/people/andrew_azman_2.png'
   
 - name: Han Fu
-  title: PRIME (HPV model)
+  title: Measles Model (DynaMICE)
   title_link: /models/hpv
   title2: DynaMICE
   title2_link: /models/measles
   email: Han.Fu@lshtm.ac.uk
   img: '/img/people/Han_Fu_2.png'
-    
+   
 - name: Eric Johnson
   url: 
   title: MenA model
