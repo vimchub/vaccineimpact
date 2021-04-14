@@ -43,9 +43,8 @@
   url: http://www.lshtm.ac.uk/aboutus/people/jit.mark
   title: Measles (DynaMICE)
   title_link: /models/measles#LSHTM
-  title1: HPV Model(PRIME)
-  title1_link: /models/hpv 
-  title2: PCV Model
+  title2: HPV Model(PRIME), PCV Model
+  title2_link: /models/hpv 
   email: Mark.Jit@lshtm.ac.uk
   img: '/img/people/Mark_Jit.png'    
     
@@ -59,10 +58,8 @@
   url: https://www.lshtm.ac.uk/aboutus/people/abbas.kaja   
   title: Measles (DynaMICE)
   title_link: /models/measles#LSHTM
-  title1: HPV Model(PRIME)
-  title1_link: /models/hpv 
-  title2: Hib/RV Model
-  title2_link: /models/hib
+  title2: HPV Model(PRIME), Hib/RV Model
+  title2_link: /models/hpv, /models/hib
   email: Kaja.Abbas@lshtm.ac.uk   
   img: '/img/people/Kaja_Abbas.png'   
   
