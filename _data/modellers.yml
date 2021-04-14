@@ -41,7 +41,7 @@
  
 - name: Mark Jit
   url: http://www.lshtm.ac.uk/aboutus/people/jit.mark
-  title: Measles (DynaMICE)
+  title: Measles Model (DynaMICE)
   title_link: /models/measles#LSHTM
   title2: HPV Model(PRIME), PCV Model
   title2_link: /models/hpv 
