@@ -41,7 +41,7 @@
  
 - name: Mark Jit
   url: http://www.lshtm.ac.uk/aboutus/people/jit.mark
-  title: Measles Model
+  title: Measles (DynaMICE)
   title_link: /models/measles#LSHTM
   title2: HPV Model(PRIME)
   title2_link: /models/hpv 
@@ -57,7 +57,7 @@
   
 - name: Kaja Abbas   
   url: https://www.lshtm.ac.uk/aboutus/people/abbas.kaja   
-  title: Measles Model
+  title: Measles (DynaMICE)
   title_link: /models/measles#LSHTM
   title2: HPV Model(PRIME)
   title2_link: /models/hpv 
