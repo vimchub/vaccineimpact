@@ -41,10 +41,10 @@
  
 - name: Mark Jit
   url: http://www.lshtm.ac.uk/aboutus/people/jit.mark
-  title: Measles Model (DynaMICE)
+  title: Measles Model
   title_link: /models/measles#LSHTM
-  title2: HPV Model (PRIME)
-  title2_link: /models/hpv
+  title2: HPV Model(PRIME)
+  title2_link: /models/hpv 
   title3: PCV Model
   email: Mark.Jit@lshtm.ac.uk
   img: '/img/people/Mark_Jit.png'    
@@ -57,10 +57,10 @@
   
 - name: Kaja Abbas   
   url: https://www.lshtm.ac.uk/aboutus/people/abbas.kaja   
-  title: Measles Model (DynaMICE)
+  title: Measles Model
   title_link: /models/measles#LSHTM
-  title2: HPV Model (PRIME)
-  title2_link: /models/hpv
+  title2: HPV Model(PRIME)
+  title2_link: /models/hpv 
   title3: Hib/RV Model
   title3_link: /models/hib
   email: Kaja.Abbas@lshtm.ac.uk   
