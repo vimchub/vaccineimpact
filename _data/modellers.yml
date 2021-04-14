@@ -330,3 +330,11 @@
   title2_link: /models/measles
   email: Han.Fu@lshtm.ac.uk
   img: '/img/people/Han_Fu_2.png'
+    
+- name: Eric Johnson
+  url: 
+  title: MenA model
+  title_link: /models/men-a#cdc
+  email: eric.Johnson@kp.org
+  img: '/img/people/placeholder.png'
+  
