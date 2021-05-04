@@ -360,7 +360,7 @@ footer a {
   height: 50px;
 }
 
-#footer-button a {
+.footer-button {
   margin: 25px 0 20px;
   background-color: #337ab7;
 }
