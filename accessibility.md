@@ -1,4 +1,4 @@
-## Accessibility on the Vaccine Impact Modelling Consortium (VIMC) website 
+### Accessibility on the Vaccine Impact Modelling Consortium (VIMC) website 
 
 This statement applies to content published on https://www.vaccineimpact.org/
 
