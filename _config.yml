@@ -87,6 +87,7 @@ defaults:
 exclude:
   - LICENSE
   - README.md
+  - Gemfile*
 
 plugins:
   - jekyll-paginate
