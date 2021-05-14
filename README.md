@@ -56,6 +56,18 @@ The general layout of the pages can't be changed easily.  But things like colour
 
 Note that the template was designed in a way such that it changes drastically when you view it on a big screen (laptop) vs a small screen (phone)
 
+## Previewing changes
+
+Any changes made to the `preview` branch will result in a preview of the site being deployed to the [staging site](https://www-preview.vaccineimpact.org/)
+
+In order to use this branch:
+* Ensure that it contains all latest changes from master
+  * This can be accomplished by merging a [PR from `master` to `preview`](https://github.com/vimc/vimc.github.io/compare/preview...master)
+* Make changes to files as usual, but ensuring that the `preview` branch is selected (see [branch selection dropdown](https://docs.github.com/assets/images/help/branch/branch-selection-dropdown.png) in top-left of screen)
+* After a brief delay the changes can be reviewed on the [staging site](https://www-preview.vaccineimpact.org/)
+* Merge the changes into master in order to update the main site
+  * This can be accomplished by merging a [PR from `preview` to `master`](https://github.com/vimc/vimc.github.io/compare/master...preview)
+
 ## Scheduling an update to the site (advanced!)
 
 We have [an Action](https://github.com/vimc/vimc.github.io/blob/master/.github/workflows/publish.yml) than can be
