@@ -11,6 +11,7 @@ jobs:
         with:
           ruby-version: 2.7
           bundler-cache: true
+      - run: rm CNAME
       - run: bundle exec jekyll build
       - run: |
           echo "User-agent: * Disallow: /" >_site/robots.txt
