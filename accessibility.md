@@ -3,7 +3,7 @@ title: Accessibility
 ---
 ## Accessibility on the Vaccine Impact Modelling Consortium (VIMC) website 
 
-This statement applies to content published on https://www.vaccineimpact.org/
+This statement applies to content published on {{ site.url }}
 
 We want this website to be as accessible as possible. For example, that means you should be able to:
 

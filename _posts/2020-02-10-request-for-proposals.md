@@ -30,7 +30,7 @@ Review process: Where COVID-19 disruption means it is not possible to include ex
 
 
 
-[The Vaccine Impact Modelling Consortium](https://www.vaccineimpact.org/aboutus) was launched in late 2016 for a five-year period in response to an identified need by [Gavi and the Bill & Melinda Gates Foundation](/partners/#funders) to estimate global vaccine impact more consistently and reliably. The funders use the results to track progress, to project the likely future impact of vaccines in the current portfolio as well as to forecast the impact of potential future investments. 
+[The Vaccine Impact Modelling Consortium]({% link aboutus.md %}) was launched in late 2016 for a five-year period in response to an identified need by [Gavi and the Bill & Melinda Gates Foundation](/partners/#funders) to estimate global vaccine impact more consistently and reliably. The funders use the results to track progress, to project the likely future impact of vaccines in the current portfolio as well as to forecast the impact of potential future investments.
 
 
 

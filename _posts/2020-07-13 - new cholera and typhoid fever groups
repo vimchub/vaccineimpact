@@ -20,4 +20,4 @@ We are pleased to announce that following our request for proposals for cholera 
 
 ---
 
-Please see the [Cholera](https://www.vaccineimpact.org/models/cholera/) and [Typhoid Fever](https://www.vaccineimpact.org/models/typhoid-fever/) pages for model descriptions. We’d like to warmly welcome the new groups to the Consortium! 
+Please see the [Cholera]({% link models/cholera.md %}) and [Typhoid Fever]({% link models/typhoid-fever.md %}) pages for model descriptions. We’d like to warmly welcome the new groups to the Consortium!
