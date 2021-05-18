@@ -55,6 +55,12 @@ hr.small {
   }
 }
 
+@media only screen and (min-width : 1500px) {
+  .container-wide {
+    width: 1475px;
+  }
+}
+
 .main-explain-area {
   font-family: 'Palatino', 'Open Sans', 'Lato', Helvetica, Arial, sans-serif;
   padding: 15px inherit;
