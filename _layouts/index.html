@@ -39,10 +39,10 @@ layout: base
     </div>
   </div>
   <div class="row">
-	<!--<div class="col-md-5 col-md-offset-1 col-sm-12">
+	<div class="col-md-5 col-md-offset-1 col-sm-12">
 	  {% if site.posts.size > 0 %}
 	  <div id="panel-news">
-	    <h2>Latest News</h2>
+	    <h2><!--Latest News<-->/h2>
         <div class="posts-list">
 		  {% for post in site.posts limit:site.num_latest_news_to_show %}
 		  <article class="post-preview">
@@ -51,13 +51,13 @@ layout: base
 
 			  {% if post.subtitle %}
 			  <h3 class="post-subtitle">
-				{{ post.subtitle }}
+				<!--{{ post.subtitle }}-->
 			  </h3>
 			  {% endif %}
 			</a>
 
 			<p class="post-meta">
-			  Posted on {{ post.date | date: "%B %-d, %Y" }}
+			  <!--Posted on {{ post.date | date: "%B %-d, %Y" }} -->
 			</p>
 
 			<div class="post-entry">
@@ -72,7 +72,7 @@ layout: base
 	</div>
 	<div class="col-md-5 col-sm-12">
 	  {% if site.twitter %}
-	    <div id="panel-twitter">
+	   <!-- <div id="panel-twitter">
           <a class="twitter-timeline" data-height="400" href="https://twitter.com/{{ site.twitter }}">Tweets by {{ site.twitter }}</a> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 	    </div> -->
 	  {% endif %}
