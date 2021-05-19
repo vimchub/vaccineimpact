@@ -3,12 +3,7 @@ layout: base
 ---
 
 {% include header.html type="page" %}
-
-<div class="container container-wide" role="main">
-  <div class="row">
-    <div class="col-md-10 col-md-offset-1 col-sm-12">
-	  {{ content }}
-	  <div id="carousel" class="carousel slide" data-ride="carousel">
+ <div id="carousel" class="carousel slide" data-ride="carousel">
 		  <ol class="carousel-indicators">
 			{% for item in site.carousel %}
 				<li data-target="#carousel" data-slide-to="{{ forloop.index-1 }}" class="{% if forloop.index == 1 %}active{% endif %}"></li>
@@ -35,6 +30,12 @@ layout: base
 		  </a>
 	  </div>
 
+
+<div class="container container-wide" role="main">
+  <div class="row">
+    <div class="col-md-10 col-md-offset-1 col-sm-12">
+	  {{ content }}
+	 
     </div>
   </div>
   <div class="row">
