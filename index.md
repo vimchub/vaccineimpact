@@ -2,21 +2,21 @@
 layout: index     
 ---
 
-<div style="font-size:50px; text-align:center; font-weight:bold">
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</div>
+<div style="font-size:50px; text-align:center; font-weight:normal">.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.</div>
