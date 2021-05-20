@@ -73,38 +73,6 @@
   title_link: /models/hib
   email: alicia.nicole.mullis.kraay@emory.edu   
   img: '/img/people/Kraay_Headshot-square.jpg' 
- 
-- name: Mark Jit
-  url: http://www.lshtm.ac.uk/aboutus/people/jit.mark
-  title: Measles Model (DynaMICE)
-  title_link: /models/measles#LSHTM
-  title2: HPV Model(PRIME), PCV Model
-  title2_link: /models/hpv 
-  email: Mark.Jit@lshtm.ac.uk
-  img: '/img/people/Mark_Jit.png'    
-      
-- name: Kaja Abbas   
-  url: https://www.lshtm.ac.uk/aboutus/people/abbas.kaja   
-  title: Measles (DynaMICE)
-  title_link: /models/measles#LSHTM
-  title2: HPV Model(PRIME), Hib/RV Model
-  title2_link: /models/hpv
-  email: Kaja.Abbas@lshtm.ac.uk   
-  img: '/img/people/Kaja_Abbas.png' 
-  
-- name: Megan Auzenbergs
-  url: https://www.lshtm.ac.uk/aboutus/people/auzenbergs.megan
-  title: Measles (DynaMICE)
-  title_link: /models/measles#LSHTM
-  email: Megan.Auzenbergs@lshtm.ac.uk
-  img: '/img/people/Megan_Auzenbergs.jpeg' 
-  
-- name: Stéphane Verguet
-  url: https://www.hsph.harvard.edu/stephane-verguet/
-  title: Measles (DynaMICE) 
-  title_link: /models/measles#LSHTM
-  email: verguet@hsph.harvard.edu 
-  img: '/img/people/Stephane_Verguet.png'
   
 - name: Matthew Ferrari
   url: http://bio.psu.edu/directory/mjf283
@@ -120,29 +88,61 @@
   email: Kirsten.Eilertson@colostate.edu   
   img: '/img/people/Kirsten_Eilertson.png'
   
+- name: Stéphane Verguet
+  url: https://www.hsph.harvard.edu/stephane-verguet/
+  title: Measles (DynaMICE) 
+  title_link: /models/measles#LSHTM
+  email: verguet@hsph.harvard.edu 
+  img: '/img/people/Stephane_Verguet.png'
+  
+- name: Megan Auzenbergs
+  url: https://www.lshtm.ac.uk/aboutus/people/auzenbergs.megan
+  title: Measles (DynaMICE)
+  title_link: /models/measles#LSHTM
+  email: Megan.Auzenbergs@lshtm.ac.uk
+  img: '/img/people/Megan_Auzenbergs.jpg' 
+  
 - name: Han Fu
   title: Measles (DynaMICE)
   title_link: /models/measles
-  title2: PRIME (HPV model) 
+  title2: HPV (PRIME) 
   title2_link: /models/hpv
   email: Han.Fu@lshtm.ac.uk
   img: '/img/people/Han_Fu_2.png'
+ 
+- name: Mark Jit
+  url: http://www.lshtm.ac.uk/aboutus/people/jit.mark
+  title: Measles (DynaMICE)
+  title_link: /models/measles#LSHTM
+  title2: HPV (PRIME), PCV Model
+  title2_link: /models/hpv 
+  email: Mark.Jit@lshtm.ac.uk
+  img: '/img/people/Mark_Jit.png'    
+      
+- name: Kaja Abbas   
+  url: https://www.lshtm.ac.uk/aboutus/people/abbas.kaja   
+  title: Measles (DynaMICE)
+  title_link: /models/measles#LSHTM
+  title2: HPV (PRIME), Hib/RV Model
+  title2_link: /models/hpv
+  email: Kaja.Abbas@lshtm.ac.uk   
+  img: '/img/people/Kaja_Abbas.png' 
   
 - name: Kiesha Prem
   url: 
-  title: PRIME (HPV model) and DynaMICE
+  title: HPV (PRIME), Measles (DynaMICE)
   email: Kiesha.Prem@lshtm.ac.uk
   img: '/img/people/Kiesha_Prem.png'
   
 - name: Petra Klepac
   url: http://www.petraklepac.com/Site/Home.html   
-  title: UNIVAC, PRIME and DynaMICE   
+  title: UNIVAC, HPV (PRIME), Measles (DynaMICE)
   email: Petra.Klepac@lshtm.ac.uk
   img: '/img/people/Petra_Klepac.png'   
    
 - name: Marc Brisson
   url: http://www.marc-brisson.net/
-  title: PRIME (HPV model) 
+  title: HPV (PRIME) 
   title_link: /models/hpv
   email: marc.brisson@crchudequebec.ulaval.ca
   img: '/img/people/Marc_Brisson.png'
