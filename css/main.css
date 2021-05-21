@@ -788,3 +788,10 @@ body {
 div.container[role="main"], div.container-fluid[role="main"] {
   flex: 1 0 auto;
 }
+
+.carousel {
+	position: relative;
+	height: 600px;
+	width:80%
+		margin: 0 auto;
+}	
