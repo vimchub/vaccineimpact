@@ -2,7 +2,7 @@
 title: Newsletters   
 ---   
 ## Consortium newsletters
-**[Consortium Newsletter - SUMMER 2021](https://mailchi.mp/7b961f63e815/vimc-spring-newsletter-1666291)**
+**[Consortium Newsletter - Summer 2021](https://mailchi.mp/7b961f63e815/vimc-spring-newsletter-1666291)**
 
 **[Consortium Newsletter - Spring 2021](https://mailchi.mp/0c3442aef50e/vimc-spring-newsletter-2021)**
 
