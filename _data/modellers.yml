@@ -181,13 +181,20 @@
   title_link: /models/je
   email: hannah.clapham@nus.edu.sg    
   img: '/img/people/Hannah_Clapham.png'  
-  
+    
 - name: Shreya Khandelwal
   url: https://www.linkedin.com/in/shreya-k-2a827684/
   title: Japanese Encephalitis (JE) model
   title_link: /models/je
   email: shreya@nus.edu.sg
-  img: '/img/people/Shreya_Khandelwal.JPG'   
+  img: '/img/people/Shreya_Khandelwal.JPG' 
+  
+- name: Stacy Khaw Shan Wen
+  url: 
+  title: Japanese Encephalitis (JE) model
+  title_link: /models/je
+  email: ephswsk@nus.edu.sg
+  img: '/img/people/placeholder.png'  
      
 - name: Sean Moore   
   url: http://biology.nd.edu/people/sean-moore/   
