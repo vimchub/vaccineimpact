@@ -14,7 +14,7 @@ projected coverage thereafter.
 
 
 ## [Second data visualisation tool](https://montagu.vaccineimpact.org/2021/visualisation)
-Data visualisation tool accompanying Toor et al. (in review).
+Data visualisation tool accompanying [Toor et al](https://doi.org/10.7554/eLife.67635).
 This displays impact estimates by calendar year, birth cohort and by year of vaccination for ten pathogens and 112 
 countries. See [Echeverria-Londono et al.](https://www.medrxiv.org/content/10.1101/2021.01.08.21249378v1) for impact 
 methodologies. The results are based on 21 mathematical models (from 18 independent research groups). Coverage estimates 
