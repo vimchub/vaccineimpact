@@ -1,6 +1,14 @@
 - name: Consortium-wide publications
   id: 
   pubs:
+  
+  
+    - author: '**Second VIMC-wide publication** - Toor, J. et al.'  
+      year:   2021
+      title:  'Lives saved with vaccination for 10 pathogens across 112 countries in a pre-COVID-19 world'
+      info:   eLife, 10:e67635 DOI: 10.7554/eLife.67635
+      url:    https://doi.org/10.7554/eLife.67635
+              
     - author: '**First VIMC-wide publication** - Li, X. et al.'  
       year:   2021
       title:  'Estimating the health impact of vaccination against ten pathogens in 98 low-income and middle-income countries from 2000 to 2030: a modelling study'
