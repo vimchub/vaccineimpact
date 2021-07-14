@@ -22,5 +22,5 @@ are based on [WUENIC](https://apps.who.int/immunization_monitoring/globalsummary
 release 2019 and projected thereafter.
 
 <a href="https://montagu.vaccineimpact.org/2021/visualisation/">
- <img src="/img/dataviz/dataviz_paper2.png" title="Click to access second data visualisation tool" alt="Second data visualisation tool"/>
+ <img src="/img/dataviz/dataviz_paper2update.png" title="Click to access second data visualisation tool" alt="Second data visualisation tool"/>
 </a>
